@@ -1,0 +1,671 @@
+Journal of Traumatic Stress, Vol. 18, No. 5, October 2005, pp. 389–399 (
+                                                                        C 2005)
+
+
+
+
+Disorders of Extreme Stress: The Empirical Foundation
+of a Complex Adaptation to Trauma
+
+Bessel A. van der Kolk,1,4 Susan Roth,2 David Pelcovitz,3 Susanne Sunday,3
+and Joseph Spinazzola1
+
+
+                                    Children and adults exposed to chronic interpersonal trauma consistently demonstrate psychological
+                                    disturbances that are not captured in the posttraumatic stress disorder (PTSD) diagnosis. The DSM-
+                                    IV (American Psychiatric Association, 1994) Field Trial studied 400 treatment-seeking traumatized
+                                    individuals and 128 community residents and found that victims of prolonged interpersonal trauma,
+                                    particularly trauma early in the life cycle, had a high incidence of problems with (a) regulation
+                                    of affect and impulses, (b) memory and attention, (c) self-perception, (d) interpersonal relations,
+                                    (e) somatization, and (f) systems of meaning. This raises important issues about the categorical
+                                    versus the dimensional nature of posttraumatic stress, as well as the issue of comorbidity in PTSD.
+                                    These data invite further exploration of what constitutes effective treatment of the full spectrum of
+                                    posttraumatic psychopathology.
+
+
+
+
+     In the late 1970s, when hundreds of thousands                                         veterans (Shatan, Smith, & Haley, 1977) to arrive at
+of Vietnam veterans presented with serious psychiatric                                     meaningful diagnostic criteria. Despite these humble
+problems, a new diagnosis, posttraumatic stress disorder                                   origins, PTSD has been found to be an enormously useful
+(PTSD) was created in an attempt to capture their                                          diagnostic construct with wide applicability to different
+psychopathology for inclusion in the Diagnostic and                                        victim populations and with its own unique neurobiology
+Statistical Manual of Mental Disorders, 3rd Edition                                        and therapeutics.
+(DSM-III; American Psychiatric Association [APA],                                                Prior to the conceptualization of PTSD, other post-
+1980). At that time, only a sparse literature on “traumatic                                traumatic syndromes were proposed, such as a rape trauma
+neuroses” was available to guide the formulation of di-                                    syndrome (Burgess & Holstrom, 1974) and a battered
+agnostic criteria. Hence, the DSM committee had to rely                                    women’s syndrome (Walker, 1984). These highlighted
+on the clinical descriptions of war neuroses, particularly                                 problems not captured in the PTSD diagnosis: the ef-
+those by Kardiner (1941), on Horowitz’ studies of the                                      fects of assaults on victims’ sense of safety, trust, and
+biphasic stress response (Horowitz, Wilner, & Kaltreider,                                  self-worth; their frequent revictimization; and their loss
+1980), and on a few small studies of predominantly male                                    of a coherent sense of self.
+burn victims (Andreasen & Norris, 1972) and Vietnam                                              Epidemiological research has shown that, whereas
+                                                                                           men—the initial population studied to establish the diag-
+1 The Trauma Center and Boston University School of Medicine, Boston,                      nostic criteria for PTSD—most frequently are traumatized
+  Massachusetts.                                                                           by accidents, war, assaults, and natural disasters, child-
+2 Department of Psychology, Duke University, Durham, North Carolina.
+3 North Shore University Hospital/Cornell Medical Center, Manhasset,
+                                                                                           hood abuse is by far the most frequent cause of traumati-
+  New York.
+                                                                                           zation in women (Kessler, Sonnega, Bromet, Hughes, &
+4 To whom correspondence should be addressed at 16 Braddock Park,                          Nelson, 1995). Between 17 and 33% of women in the gen-
+  Boston, Massachusetts 02116; e-mail: bvanderk@aol.com.                                   eral population report histories of sexual–physical abuse
+
+                                                                                   389
+                               
+                               C 2005   International Society for Traumatic Stress Studies • Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/jts.20047
+                                                                                                                                 15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+390                                                             Van der Kolk, Roth, Pelcovitz, Sunday, and Spinazzola
+
+(Finkelhor, Hotaling, Lewis, & Smith, 1990; Kessler et al.,      Finkelhor, Hotaling, Lewis, & Smith, 1989; Schneider-
+1995), and in mental health settings, the rates range from       Rosen & Cicchetti, 1984).
+35 to 50% (Cloitre, Cohen, Han, & Edelman, 2001).                      Histories of childhood physical and sexual assaults
+More than twice as many women report histories of child-         also are associated with a host of other psychiatric prob-
+hood sexual abuse than of (adult) rape, which occurs in          lems in adolescence and adulthood: substance abuse, bor-
+approximately 10% of the general population (Breslau,            derline and antisocial personality, as well as eating, disso-
+Davis, Andreski, Peterson, & Schultz, 1997; Kessler et al.,      ciative, affective, somatoform, cardiovascular, metabolic,
+1995).                                                           immunological, and sexual disorders (e.g., Breslau et al.,
+     Women are much more likely to be traumatized in             1997; Cloitre, Tardiff, Marzuk, Leon, & Portera, 2001;
+the context of intimate relationships than men are; 63%          Dube et al., 2001; Felitti et al., 1997; Finkelhor & Kendall-
+of the almost 4 million reported assaults on males are by        Tackett, 1997; Herman, Perry, & Van der Kolk, 1989;
+strangers, whereas 62% of the almost 3 million reported          Kilpatrick et al., 2000, 2003; Lyons-Ruth & Jacobovitz,
+attacks on women in the US are by persons they know              1999; Margolin & Gordis, 2000; Putnam & Trickett, 1997;
+(Acierno, Resnick, Kilpatrick, Saunders, & Best, 1999).          Van der Kolk, Perry, & Herman, 1991; Wilson, Van der
+In the United States, 61% of all rapes occur before vic-         Kolk, Burbridge, Fisler, & Kradin, 1999; Zlotnick et al.,
+tims reach age 18; 29% of forcible rapes occur before            1996).
+the age of 11 (Acierno et al., 1999), usually by family                Complicated adaptations to severe and prolonged
+members. Studies of physically and sexually abused chil-         trauma are not confined to children; research with rape
+dren, as well as of women who are exposed to prolonged           victims (Burgess & Holstrom, 1974), battered women
+interpersonal violence consistently report a range of psy-       (Rollstin & Kern, 1998; Walker, 1984), and concentra-
+chological sequelae that are not captured in the PTSD            tion camp survivors (Krystal, 1968) has shown signifi-
+diagnostic criteria.                                             cant long-term problems in the areas of attention, self-
+                                                                 regulation, and personality structure.
+Developmental and Relational Issues                                    Despite the ubiquitous occurrence of numerous
+                                                                 posttraumatic problems other than PTSD, the relationship
+      Abuse and neglect of children are extremely com-           between PTSD and these multiple other symptoms
+mon in our society, and their effects are well documented        associated with early and prolonged trauma has received
+to persist over time. Each year over 3 million children are      surprisingly little attention. In the PTSD literature, psy-
+reported for abuse–neglect in the United States (Wang            chiatric problems that do not fall within the framework of
+& Daro, 1997). Posttraumatic stress disorder may not             PTSD are generally referred to as “comorbid conditions,”
+be the most common psychiatric diagnosis in children             as if they occurred independently from the PTSD symp-
+with histories of abuse and neglect (Putnam, 2003). For          toms. By relegating them to seemingly unrelated “comor-
+example, in one study of 364 abused children (Ackerman,          bid” conditions, fundamental trauma-related disturbances
+Newton, McPherson, Jones, & Dykman, 1998), the most              may be lost to scientific investigation, and clinicians may
+common diagnoses in order of frequency were separation           run the risk of applying treatment approaches that are not
+anxiety disorder, oppositional defiant disorder, phobic          helpful (see Spinazzola, Blaustein, Van der Kolk, 2005).
+disorders, PTSD, and attention-deficit hyperactivity             These concerns gave rise to an attempt to carefully delin-
+disorder (ADHD).                                                 eate posttraumatic adaptations in the DSM-IV field trial.
+      From its inception it has been clear that PTSD
+captures only a limited aspect of posttraumatic psy-             The DSM-IV Field Trial
+chopathology, particularly in children (e.g., Brett, Spitzer,
+& Williams, 1988; Briere, 1988; Cole & Putnam, 1992;                   The DSM-IV field trial for PTSD was conducted be-
+Scheeringa, Zeanah, Drell, & Larrieu, 1995; Scheeringa,          tween 1990 and 1992 to (a) investigate the correct defini-
+Zeanah, Meyers, & Putnam, 2003; Summit, 1983; Terr,              tion of the A criterion and the placement of various PTSD
+1979). Many studies of traumatized children find prob-           symptoms in the proper symptom clusters (Kilpatrick
+lems with unmodulated aggression and impulse control             et al., 1998), and (b) to explore whether victims of chronic
+(e.g., Burgess, Hartman, & McCormack, 1987; Cole &               interpersonal trauma as a group tended to meet diagnos-
+Putnam, 1992; Lewis & Shanok, 1981; Steiner, Garcia, &           tic criteria for PTSD or whether their psychopathology
+Matthews, 1997; Van der Kolk, Perry, & Herman, 1991);            was more accurately captured by another constellation of
+attentional and dissociative problems (e.g., Teicher et al.,     symptoms, those commonly mentioned in the research lit-
+2003); and difficulty negotiating relationships with care-       erature on child abuse, concentration camp victims, and
+givers, peers, and subsequently, marital partners (e.g.,         domestic battering that were not captured by the PTSD
+                                                                                                                                            15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders of Extreme Stress                                                                                                         391
+
+criteria. The committee thoroughly reviewed the research                    in New York (Spitzer, Kaplan, & Pelcovitz as cited in
+on these populations and organized the most frequently                      Pelcovitz et al., 1997), the other in Boston (see Herman &
+studied symptoms under the rubric of disorders of extreme                   Van der Kolk, 1987). They reviewed the existing research
+stress not otherwise specified (DESNOS; Herman, 1992).                      literature on trauma in children, women victims of domes-
+      The field trial workgroup hypothesized that (a)                       tic violence, and concentration camp survivors, and gener-
+chronic interpersonal trauma starting at an early age gives                 ated a list of 27 symptoms frequently described in, but not
+rise to a greater prevalence of DESNOS symptomatology                       addressed by DSM-IIIR criteria for PTSD. Judith Herman
+than either interpersonal trauma later in the life cycle or                 (1992) arranged these 27 symptoms into seven categories
+in victims of accidents and natural disasters; and (b) a                    (see Table 1): Dysregulation of (a) affect and impulses,
+substantial number of individuals with histories of child-                  (b) attention or consciousness, (c) self-perception, (d) per-
+hood trauma would meet criteria for DESNOS but not for                      ception of the perpetrator, (e) relations with others; (f)
+PTSD. This entire DESNOS data set has not been previ-                       somatization, and (g) systems of meaning. Items were put
+ously published, though other parts of the field trial—the                  in a structured interview format that was revised by the
+empirical rationale for criteria A, B, C, and D (Kilpatrick                 field trial coordinators prior to inclusion of the instrument
+et al., 1998), the interrelation of dissociation, somatiza-                 in the field trial protocol. The measure consists of 48 items
+tion and affect dysregulation (Van der Kolk et al., 1996),                  measuring lifetime and current alterations in the seven ar-
+the development of a rating scale to measure DESNOS                         eas. Items were scored dichotomously; each question is
+(Pelcovitz et al., 1997), and the relation of childhood                     answered with either a “yes” or “no” (Pelcovitz et al.,
+physical and sexual abuse to DESNOS versus borderline                       1997).
+personality disorder (Roth, Newman, Pelcovitz, Van der
+Kolk, & Mandel, 1997) have been published.
+                                                                            Sample Selection
+
+Methods                                                                          The PTSD field trial assessed adults and adoles-
+                                                                            cents (age 15 or older) with regard to lifetime preva-
+Item Construction                                                           lence of exposure to “high magnitude” events and past
+                                                                            year prevalence of “low magnitude” events, and the re-
+     The DESNOS symptom constellation was the result                        lation between exposure to these stressors and the emer-
+of a collaborative effort between two groups, one based                     gence of individual PTSD and DESNOS symptoms. Most
+
+                                                     Table 1. DESNOS Subcategories
+
+              I. Alteration in Regulation of Affect and Impulses
+                 A. Affect Regulation                                              D. Suicidal Preoccupation
+                 B. Modulation of Anger                                            E. Difficulty Modulating Sexual involvement
+                 C. Self-Destructive                                               F. Excessive Risktaking
+              II. Alterations in Attention or Consciousness
+                 A. Amnesia
+                 B. Transient Dissociative Episodes and Depersonalization
+              III. Somatization
+                 A. Digestive System                                               D. Conversion Symptoms
+                 B. Chronic Pain                                                   E. Sexual Symptoms
+                 C. Cardiopulmonary Symptoms
+              IV. Alterations in Self-Perception
+                 A. Ineffectiveness                                                D. Shame
+                 B. Permanent Damage                                               E. Nobody Can Understand
+                 C. Guilt and Responsibility                                       F. Minimizing
+              V. Alterations in Perception of the Perpetrator
+                 A. Adopting Distorted Beliefs
+                 B. Idealization of the Perpetrator
+                 C. Preoccupation with Hurting Perpetrator
+              VI. Alterations in Relations with Others
+                 A. Inability to Trust
+                 B. Revictimization
+                 C. Victimizing Others
+              VII. Alterations in Systems of Meaning
+                 A. Despair and Hopelessness
+                 B. Loss of Previously Sustaining Beliefs
+                                                                                                                               15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+392                                                            Van der Kolk, Roth, Pelcovitz, Sunday, and Spinazzola
+
+participants in the sample (n = 400) were seeking mental        reliability kappas for current and past DESNOS in the
+health treatment after exposure to high- or low-magnitude       field trial participants ranged from .88 to 1.00, with three
+stressful life events (the treatment-seeking sample). The       of the five sites having perfect interrater reliability. The
+treatment-seeking sample was obtained through the as-           Cronbach coefficient alphas of the overall DESNOS mea-
+sessment of psychiatric patients at five outpatient mental      sure was .96, and the individual DESNOS categories (with
+health treatment sites specializing in the provision of men-    the exception of the item measuring alterations in percep-
+tal health treatment for victims of psychological trauma.       tion of the perpetrator, which therefore was dropped as a
+These were the Medical University of South Carolina/V.A.        requirement for meeting the diagnosis of DESNOS) had
+Medical Center, Crime Victim Center, Charleston, South          internal consistencies ranging from .76 to .90, meaning
+Carolina; the Trauma Clinic, Massachusetts General Hos-         that the symptoms described in the DESNOS construct
+pital, Harvard Medical School, Boston, Massachusetts;           had a high degree of internal cohesion, and that these
+the Departments of Psychology and Psychiatry, Duke Uni-         symptoms were likely to occur together in the same indi-
+versity and Duke University Medical Center, Durham,             viduals.
+North Carolina; North Shore University Hospital/Cornell
+University Medical College Division of Child and Ado-
+lescent Psychiatry, Manhasset, New York; and the Com-           Results
+munity Psychological Services, University of Missouri,
+St. Louis, Missouri.                                            Validity: Relationship Between
+      The community sample (n = 128) was recruited from         PTSD and DESNOS Items
+704 adults from Charleston and St. Louis via telephone
+interviews using random digit dialing (RDD) (Kilpatrick               Table 2 shows the percentage of lifetime endorse-
+et al., 1998). Participants in the community sample were        ment for each the 27 DESNOS subcategories, for partici-
+biased towards having experienced high-magnitude stres-         pants with and without current and lifetime PTSD. These
+sors. They completed the same assessment protocol ad-           data show that the differences in positive endorsement
+ministered to participants in the treatment-seeking sam-        on each of the DESNOS items between groups with and
+ple. More detailed participant characteristics have been re-    without PTSD, both lifetime and current, were statistically
+ported elsewhere (Kilpatrick et al., 1998; Pelcovitz et al.,    significant. When participants who met diagnostic criteria
+1997).                                                          for PTSD were compared to those who met DESNOS cri-
+                                                                teria, lifetime DESNOS without PTSD occurred in only a
+                                                                very small percentage of both the treatment sample (6.2%)
+Instruments                                                     and the community sample (4%). Hence, this constella-
+                                                                tion of symptoms was rare in participants who did not also
+     The High Magnitude Stressor Events Structured              suffer from PTSD.
+Interview (Kilpatrick et al., 1998) comprehensively
+screened for lifetime history of high-magnitude events:
+completed rape, other sexual assault, physical assault,         Nature of Trauma
+other violent crimes, homicide of family members or close
+friends, serious accidents, natural or manmade disasters,             In an attempt to elucidate the role of age of onset
+and military combat. The field trial obtained information       and the nature of the traumatic experience (interpersonal
+about up to three high-magnitude and one low-magnitude          vs. instrumental trauma) in the clinical presentation, the
+potentially traumatic events per person.                        sample was divided into three mutually exclusive trauma
+     Posttraumatic stress disorder was assessed by us-          groups: (a) participants reporting interpersonal violence
+ing (a) a version of the Diagnostic Interview Schedule          (sexual assault and physical assault or no physical assault)
+(DIS) PTSD (DSM-III) module modified for the Na-                starting before age 14 (some of whom also reported sub-
+tional Women’s Study PTSD (Robins, Helzer, Croughan,            sequent traumas), (b) participants reporting interpersonal
+Williams, & Spitzer, 1981); and (b) the PTSD module             violence starting after age 14, and (c) victims of natu-
+of the Structured Clinical Interview for DSM-III (SCID-         ral disasters who did not report histories of interpersonal
+PTSD) (Spitzer & Williams, 1986).                               victimization. Table 2 shows the percentage of lifetime
+     The prevalence of each of the DESNOS symp-                 endorsement for the three groups for 26 of the 27-item
+tom items (see Table 1) was examined with the SCID-             subcategories, all of which produced statistically signif-
+DESNOS instrument specifically designed for this pur-           icant effects. Because of the number of statistical tests
+pose (Pelcovitz et al., 1997). To summarize, the interrater     employed, we accepted a minimum p level of .005. For
+                                                                                                                                    15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders of Extreme Stress                                                                                                  393
+
+                  Table 2. DESNOS Categories (% positive) in Participants With and Without PTSD: Current and Lifetime
+
+                                                    PTSD Lifetime                             PTSD Current
+
+                                           Yes           No            χ2            Yes           No            χ2
+                Subcategories           (n = 275)     (n = 208)     (df = 1)      (n = 194)     (n = 326)     (df = 1)
+                Affect Regulation           84            31         144.15∗         89            42          112.31∗
+                Anger                       81            29         133.23∗         87            39          115.02∗
+                Self-Destructive            56            19          66.62∗         62            26           65.21∗
+                Suicidal                    61            18          90.90∗         69            25           97.11∗
+                Sexual Involvement          75            32          87.86∗         84            39          100.13∗
+                Shame                       57            10         112.39∗         64            18          111.95∗
+                Nobody Understands          84            30         145.75∗         90            41          121.61∗
+                Minimizing                  29            11          22.95∗         31            14           21.20∗
+                Distorted Beliefs           24             0          57.82∗         25             6           38.31∗
+                Idealiz. Perpetrat.         23             2          43.66∗         25             7           33.46∗
+                Loss of Trust               88            41         120.32∗         96            49          119.63∗
+                Revictimization             56            15          84.64∗         64            21           96.82∗
+                Victimizing Others          23             5          30.25∗         25             9           25.26∗
+                Risk Taking                 47            14          58.47∗         50            21           47.68∗
+                Amnesia                     70            18         129.30∗         78            27          126.58∗
+                Dissociation                83            28         148.46∗         87            21          215.24∗
+                Ineffective                 58            23          58.93∗         63            30           53.69∗
+                Permanent Damage            73            20         132.56∗         83            28          147.71∗
+                Guilt                       64            19          96.01∗         69            34           59.87∗
+                Digestive Problems          72            24         109.05∗         77            26          126.47∗
+                Chronic Pain                57            20          66.56∗         63            39           27.91∗
+                Cardiopulmonary             79            27         130.24∗         82            18          203.72∗
+                Conversion                  54            12          90.72∗         63            21           92.65∗
+                Sexual Dysfunction          52            15          70.71∗         59            41           15.20∗
+                Hopelessness                84            29         150.42∗         89            33          153.82∗
+                Loss of Beliefs             73            22         123.16∗         79            33          101.77∗
+
+                Note. All differences in positive endorsement on each of the DESNOS items between PTSD + vs. PTSD −
+                groups, both life time and current, were significant at the p < .0001 level utilizing x 2 analysis.
+                ∗ p < .0001.
+
+
+
+
+the 27th subcategory, Ineffectiveness (IIIA), there was no             Nature of Posttraumatic Symptoms According
+evidence of a reliable difference in the percentage of en-             to Type, Age, and Duration of the Trauma
+dorsement among the three groups.
+      To establish group discriminations according to age                    Highly significant differences in posttraumatic
+of onset and duration of the trauma, the sample was an-                symptoms emerged between the Early Onset and Late On-
+alyzed for both lifetime and current prevalence of PTSD                set Interpersonal abuse groups (see Table 4). In the Early
+alone, and PTSD + DESNOS. The groups were divided                      Onset Interpersonal abuse group, more participants had
+(a) according to age and nature of traumatic experience                a lifetime prevalence of PTSD + DESNOS (61%) than
+(Early Onset Interpersonal, < age 14; Late Onset Inter-                of PTSD alone (16%), χ 2 (2, N = 148) = 63.20, p <
+personal, 14 and up; and Disaster), (b) according to age               .01. Of the Late Onset Interpersonal abuse group, 33%
+of first high-magnitude stressor, and (c) according to du-             had PTSD + DESNOS compared to 26% who met cri-
+ration of longest high-magnitude stressor. Early Onset                 teria for PTSD alone, χ 2 (2, N = 87) = .99, ns. In the
+versus Late Onset Interpersonal abuse had significantly                Disaster group, 15% had PTSD only, and 8% had PTSD
+different endorsement on at least one item in each of the              + DESNOS, χ 2 (2, N = 59) = 1.47, ns.
+seven major categories. Late Onset Interpersonal abuse                       The relationship between age of onset of the trauma
+and Disaster were discriminated by items in all categories.            and prevalence of DESNOS and PTSD was calculated
+These patterns of endorsement confirm that early interper-             with the Permutation Exact Test (Luger, 2004). There was
+sonal traumatization gives rise to more complex posttrau-              no trend in regards to age of onset and the development of
+matic psychopathology than later interpersonal victimiza-              lifetime PTSD. However, there was a trend between the
+tion (Table 3).                                                        diagnosis of lifetime PTSD + DESNOS and age of onset
+                                                                                                                                                 15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+394                                                                          Van der Kolk, Roth, Pelcovitz, Sunday, and Spinazzola
+
+                                    Table 3. Percent Endorsement of DESNOS Items by Trauma Category
+
+                                                 Early onset        Late onset
+                                                    abuse            Abuse                      χ 2 (df = 1)      χ 2 (df = 1)
+                                                   (<14).             (14>)         Disaster     early onset       late onset
+                    Subcategories                (n = 149)          (n = 87)        (n = 58)    vs. late onset    vs. disaster
+                    Affect Regulation                   77             66              38           3.78             10.68∗
+                    Anger                               77             61              33           7.08             11.04∗
+                    Self-destructive                    62             36              21          15.01∗             3.72
+                    Suicidal                            66             39              12          15.88∗            12.52∗
+                    Sexual Involvement                  81             66               9           7.30             46.03∗
+                    Risk Taking                         54             26              16          16.59∗             2.41
+                    Amnesia                             78             46              15          24.91∗            14.43∗
+                    Dissociation                        80             59              44          12.31∗             2.66
+                    Permanent damage                    72             53              26           8.64∗            10.42∗
+                    Guilt                               69             49              24           9.04∗             9.33∗
+                    Shame                               60             39              17           9.39∗             7.85∗
+                    Nobody can understand               80             57              38          13.55∗             5.32
+                    Minimizing                          28             23               3           0.77             10.32∗
+                    Distorted beliefs                   30             12              NA          10.75∗              —
+                    Idealiz. Perpetrator                36              8              NA          22.78∗              —
+                    Loss of trust                       71             56              26           5.35             13.09∗
+                    Revictimization                     54             38              NA           5.47               —
+                    Victimizing others                  27              8              +           12.17∗              —
+                    Digestive problems                  69             60              29           2.13             12.95∗
+                    Chronic pain                        54             43              28           2.74              3.35
+                    Cardiopulmonary                     71             60              33           3.21             10.16∗
+                    Conversion                          54             30              14          12.58∗             5.02
+                    Sexual Problems                     58             45              10           3.66             19.33∗
+                    Hopelessness                        75             64              38           3.12              9.79∗
+                    Loss of beliefs                     71             46              21          56.07∗             9.67∗
+
+                    Note. Significant early vs. late onset comparisons are noted by a “+”, and significant late onset abuse vs.
+                    disaster comparisons are noted by a “∗ ”. The minimum p level accepted for all these comparisons was
+                    .005, rather than the customary .05, in order to avoid spurious results.
+                    ∗ p < .005.
+
+
+
+
+(Permutation Exact Test = 1680, p < .001): the younger                           were calculated by subtracting age of onset from age
+the age of onset of the trauma, the more likely one is to                        of offset. Although there was no trend in the propor-
+suffer from the cluster of DESNOS symptoms, in addi-                             tion of those developing PTSD alone across groups, there
+tion to PTSD (Table 5). Comparing current diagnosis of                           was a trend between the diagnoses of lifetime PTSD +
+PTSD to age of onset of the trauma yielded a significant                         DESNOS and duration of the trauma (Permutation Exact
+trend (Permutation Exact Test = 1057, p < .001). Thus,                           Test = 916, p < .001). Similar results were obtained for
+the younger the age of onset, the higher the likelihood the                      current diagnoses and duration of the trauma: There was
+individual currently had DESNOS. The relationship be-                            no significant trend for PTSD alone, but the relationship
+tween age of onset and current PTSD + DESNOS showed                              between PTSD + DESNOS and duration of the trauma
+the same trend (Permutation Exact Test = 783, p < .001).                         revealed a significant trend (Permutation Exact Test =
+     The relationships between duration of the longest                           528, p < .001). This finding demonstrates that the longer
+high-magnitude stressor (in years) and lifetime diagnoses                        people were exposed to traumatic events, the more likely
+                                                                                 they were to develop both PTSD and DESNOS (Table 6).
+Table 4. Percentage of Various Trauma Groups With PTSD Only and
+                      With PTSD + DESNOS
+
+                     Early onset Late onset                                      Discussion
+                       abuse        abuse   Disaster  Other
+Subcategories        (n = 148)    (n = 87) (n = 59) (n = 226)
+                                                                                       The DSM-IV Field Trial for PTSD supported the no-
+Lifetime
+  PTSD Only              16            26          15          20                tion that trauma, particularly trauma that is prolonged,
+  PTSD + DESNOS          61            33           8          25                that first occurs at an early age and that is of an interper-
+Current                                                                          sonal nature, can have significant effects on psychological
+  PTSD Only              27            28           8          15
+  PTSD + DESNOS          35            16           2          11                functioning above and beyond PTSD symptomatology.
+                                                                                 These effects include problems with affect dysregulation,
+                                                                                                                                          15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders of Extreme Stress                                                                                                        395
+
+                                           Table 5. Age of First High Magnitude Stressor by Diagnosis
+
+                                            0–4              5–8            9–13          14–19          20–25       26+
+                Subcategories             (n = 83)        (n = 108)       (n = 90)       (n = 94)       (n = 38)   (n = 44)
+                Lifetime
+                  PTSD                       19              21              14             20            13         30
+                  PTSD + DESNOS              66              46              29             40            24          9
+                Current
+                  PTSD                       28              26              17             20            13         16
+                  PTSD + DESNOS              41              21              14             19            11          2
+
+
+
+
+aggression against self and others, dissociative symp-                     prising in view of the fact that the formulation of the
+toms, somatization, and character pathology. These vari-                   DESNOS syndrome was largely based on the research lit-
+ous symptoms tend to cluster into distinct patterns and to                 erature on childhood trauma. The prevalence estimates of
+be highly interrelated.                                                    childhood trauma histories in general psychiatric popula-
+      The field trial demonstrated that (a) early interper-                tions range from 40 to 70%. Patients with these histories
+sonal traumatization gives rise to more complex posttrau-                  are consistently found to have high degrees of problems
+matic psychopathology than later interpersonal victim-                     with affect dysregulation, loss of impulse control, dis-
+ization; (b) these symptoms occur in addition to PTSD                      sociative, somatization, and severe character pathology
+symptoms and do not necessarily constitute a separate                      (e.g., Bryer, Nelson, Miller, & Krol, 1987; Chu & Dill,
+cluster of symptoms; (c) the younger the age of onset of the               1989; Herman et al., 1989; Mueser et al., 1998; Saxe et al.,
+trauma, the more likely one is to suffer from the cluster of               1993, 1994; Van der Kolk, 2003).
+DESNOS symptoms, in addition to PTSD; (d) The longer                             The results of the DSM-IV Field Trial suggested
+individuals were exposed to traumatic events, the more                     that trauma has its most pervasive impact during the
+likely they were to develop both PTSD and DESNOS; and                      first decade of life and becomes more circumscribed, i.e.,
+(e) although the community sample and the treatment-                       more like “pure” PTSD, with age. However, participants’
+seeking sample had approximately the same prevalence                       DESNOS symptoms may have been a function of not only
+of PTSD symptoms, almost half of the treatment-seeking                     the age at which they were first traumatized, but also the
+sample also met criteria for DESNOS, suggesting that                       number of traumatic experiences they subsequently suf-
+DESNOS symptoms, rather than PTSD, may cause pa-                           fered. The field trial did not analyze the data according
+tients to seek treatment.                                                  to the number of separate A criterion events across the
+      Subsequent studies on both veteran and civilian                      participants’ life span.
+samples (Ford, 1999; McDonagh-Coyle et al., 1999;                                The presence of comorbid trauma-related psychiatric
+Vielhauer, 1996) found DESNOS in a sizable subset of                       problems excludes a large number of traumatized indi-
+trauma patients (25–45%) who failed to meet criteria for                   viduals from treatment outcome studies (see Spinazzola
+PTSD. This finding contrasts with the DSM-IV field trial                   et al., 2005). Lack of assessment of other sequelae, or
+in which the vast majority of participants with DESNOS                     worse, the systematic exclusion of individuals with com-
+also met criteria for PTSD.                                                plex adaptations to trauma from PTSD outcome studies,
+      The finding that the traumatized participants whose                  is likely to interfere with exploring the most effective
+high-magnitude traumatic stressors started before age 14                   treatments for the most severely affected traumatized in-
+were most likely to meet criteria for DESNOS is not sur-                   dividuals. For example, there is increasing evidence that
+                                                                           having a history of child abuse may significantly change
+                                                                           treatment outcome in other psychiatric conditions (e.g.,
+Table 6. Duration (in Years) of High Magnitude Stressor by Diagnosis       Ford & Kidd, 1998; Keller et al., 2000; Nemeroff et al.,
+                                                                           2003).
+                          <1       1–3      4–10    11–17     18+
+Subcategories          (n = 240) (n = 68) (n = 70) (n = 26) (n = 20)
+Lifetime
+  PTSD only               18       21       23       15        20          Comorbidity or Pervasive Impact of Trauma?
+  PTSD + DESNOS           29       35       51       77        70
+Current                                                                        Although the DSM-IV Subcommittee on PTSD fa-
+  PTSD Only               17       28       27       27        30
+  PTSD + DESNOS           12       21       27       54        62          vored the creation of a separate diagnosis to capture the
+                                                                           psychiatric symptomatology related to chronic exposure
+                                                                                                                                15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+396                                                             Van der Kolk, Roth, Pelcovitz, Sunday, and Spinazzola
+
+to interpersonal trauma, the DSM-IV lists the DESNOS             zation (e.g., Resnick, Acierno, & Kilpatrick, 1997; Saxe
+symptoms not as a distinct diagnosis, but under the rubric       et al., 1994), and (g) dissociative disorders (e.g., Bremner
+of “associated and descriptive features” of PTSD (APA,           et al., 1992; Chu & Dill, 1989; Marshall et al., 2000). The
+1994, p. 425). The PTSD diagnosis is likely to fit some          DSM-IV Field Trial did not specifically assess for other
+of the psychiatric problems of many psychiatrically im-          DSM-IV Axis I and Axis II diagnoses, leaving the overlap
+paired traumatized individuals. However, focusing on             between DESNOS and these various disorders open to
+PTSD symptoms and, at best, relegating other posttrau-           further investigation.
+matic sequelae to comorbidities may interfere with a com-              It seems of paramount importance to address criti-
+prehensive and effective treatment approach. For exam-           cally the fact that psychiatric disorders, categorically de-
+ple, the Treatment Guidelines of the International Society       fined, frequently occur together, and that many disorders,
+for Traumatic Stress Studies (Foa, Keane, & Friedman,            in particular PTSD, seem to occur rarely in pure form,
+2000), while recognizing that over 80% of PTSD patients          without comorbidities. It is clear that traumatized indi-
+suffer from comorbid conditions, including depression,           viduals develop a range of shifting maladaptive patterns,
+phobias, anxiety, dissociative and somatoform disorders,         depending on their stage of development, social support,
+refers readers to the “rich empirical literature of these co-    and relationship to the origin of the trauma.
+morbid conditions” (p. 375) for treatment guidance. This               This implies that the focus of trauma research needs
+statement is puzzling because there is no evidence that          to extend beyond the traditional preoccupation with PTSD
+other treatment manuals are, in fact, applicable to these        as the sole outcome of traumatization and more closely
+comorbid conditions in patients with PTSD.                       attend to the full range of disordered psychological do-
+      Numerous studies have shown that PTSD consis-              mains, including disturbances in perception, information
+tently co-occurs with other disorders. The National Co-          processing, affect regulation, impulse control, and person-
+morbidity Survey (Kessler et al., 1995) found that approx-       ality development, that are now relegated to various other
+imately 84% of people with PTSD had another lifetime             comorbidities. The DESNOS construct, although still a
+diagnosis, with PTSD typically being the primary disor-          work in progress, is an attempt to capture the multidimen-
+der. The odds ratios that individuals with PTSD meet cri-        sional nature of breakdown of adaptation in the face of
+teria for three or more additional disorders range from 8 to     trauma.
+14. The Australian National Comorbidity study (Creamer,
+Burgess, & McFarlane, 2001) assessed 10,600 individuals
+and found that 88% of the sample with PTSD had at least          Treatment Implications
+one other diagnosis: most commonly major depressive
+disorder (48%) and alcohol abuse (52%). Of persons with                The presence of DESNOS has been shown to be
+PTSD, 59% had three or more disorders, and 51% (versus           a powerful negative prognostic indicator of PTSD treat-
+6% of non-PTSD) met criteria for an Axis II diagnosis. In        ment outcome and behavioral disturbance in diverse clini-
+most cases, PTSD was the initiating disorder in all comor-       cal samples (Ford & Kidd, 1998; McDonagh-Coyle et al.,
+bid disorders, including personality disorders. The study        1999; Zlotnick, 1999). The phenomenological differences
+concluded that it is rare, even in a community sample, to        between DESNOS and PTSD have important treatment
+find pure PTSD and that traumatized individuals present          implications. The diagnosis of PTSD focuses on the
+with a variable constellation of depression, anxiety, and        memory imprint of particular experiences. Posttraumatic
+somatization.                                                    stress disorder as the central psychological consequence
+      In studies of psychiatric populations in which trauma      of traumatization implies treatment that focuses on the im-
+is not a central concern, PTSD is rarely assessed. Yet, his-     pact of specific past events and the processing of specific
+tories of trauma consistently show up in studies of (a)          traumatic memories. In contrast, in traumatized patients
+various personality disorders (e.g., Herman et al., 1989;        with histories of early abuse and DESNOS, the treatment
+Oates, 1984; Yen et al., 2003; Zanarini, Ruser, Franken-         of other problems, such as loss of emotion regulation,
+burg, Hennen, & Gunderson, 2000), (b) affective disorders        dissociation and interpersonal problems, may be the first
+(e.g., Kendall-Tackett, 2002; Levitan et al., 1998; Ne-          priority because they cause more functional impairment
+meroff et al., 2003; Schneider-Rosen & Cicchetti, 1984);         than the PTSD symptoms (Cloitre, Koenen, Cohen, &
+(c) impulse disorders (e.g., Barahal, Waterman, & Martin,        Han, 2002; see Briere & Spinazzola, 2005; Ford, Courtois,
+1987; Green, 1983; Romano & deLuca, 1997), (d) antiso-           Steele, Van der Hart, & Nijenhuis, 2005; Pearlman &
+cial disorders (e.g., Adshead, 1994; Steiner et al., 1997;       Courtois, 2005; all in this issue).
+Widom, 1987; Zlotnick, 1999), (e) substance abuse (e.g.,               Issues of affect regulation and dissociation have been
+Creamer et al., 2001; Kilpatrick et al., 2000), (f) somati-      largely neglected in the treatment research literature for
+                                                                                                                                                             15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders of Extreme Stress                                                                                                                         397
+
+PTSD. For example, in the International Society for Trau-                   Brett, E., Spitzer, R., & Williams, J. (1988). DSMIII-R criteria for
+matic Stress Studies (ISTSS) treatment guidelines for                             posttraumatic stress disorder. American Journal of Psychiatry, 144,
+                                                                                  1232–1236.
+PTSD, there is no mention of techniques to deal with                        Briere, J. (1988), Long-term clinical correlates of childhood sexual vic-
+loss of self-regulation or dissociative problems. In re-                          timization. Annals of the New York Academy of Sciences, 528,
+cent years, an emerging research literature has started to                        327–334.
+                                                                            Briere, J., & Spinnazola, J. (2005). Phenomenology and psychological
+demonstrate the importance of helping patients with the                           assessment of complex posttraumatic states. Journal of Traumatic
+management of current problems with dissociation, af-                             Stress, 18, 401–412.
+fect regulation, and altered relationships with themselves                  Bryer, J.B., Nelson, B.A., Miller, J.B., & Krol, P.A. (1987). Childhood
+                                                                                  sexual and physical abuse as factors in adult psychiatric illness.
+and others prior to engaging them in trauma exposure                              American Journal of Psychiatry, 144, 1426–1430.
+(Cloitre, Chase Stovall-McClough, Miranda, & Chemtob,                       Burgess, A.W., Hartman, C.R., & McCormack, A. (1987). Abused to
+2004; Ford et al., 2005; Ford, Fisher, & Larson, 1997;                            abuser: Antecedents of socially deviant behavior. American Journal
+                                                                                  of Psychiatry, 144, 1431–1436.
+Ford & Frisman, 2002).                                                      Burgess, A.W., & Holmstrom, L.L. (1974). Rape trauma syndrome.
+                                                                                  American Journal of Psychiatry, 131, 981–986.
+                                                                            Chu, J.A., & Dill, D.L. (1989). Dissociative symptoms in relation to
+                                                                                  childhood physical and sexual abuse. American Journal of Psychi-
+Acknowledgments                                                                   atry, 148, 50–54.
+                                                                            Cloitre, M., Chase Stovall-McClough, K., Miranda, R., & Chemtob, C.
+                                                                                  (2004). Therapeutic alliance, negative mood regulation, and treat-
+      The research reported on was supported, in part,                            ment outcome in child abuse-related posttraumatic stress disor-
+by National Institutes of Mental Health grant #1 PO1                              der. Journal of Consulting and Clinical Psychology, 72(3), 411–
+                                                                                  416.
+MH47200–01. The authors wish to acknowledge the crit-                       Cloitre, M., Cohen, L., Han, H., & Edelman, R. (2001). Posttraumatic
+ical contributions of Dean Kilpatrick, PhD, Heidi Resnick,                        stress disorder and extent of trauma exposure as correlates of med-
+PhD, Patti Resick, PhD, and John Freedy, PhD, in the de-                          ical problems and perceived health among women with childhood
+                                                                                  abuse. Women and Health, 34, 1–17.
+sign, data collection, and data analyses of the field trials,               Cloitre, M., Koenen, K.C., Cohen, L.R., & Han, H. (2002). Skills
+as well as Margaret Blaustein, PhD, for her assistance in                         training in affective and interpersonal regulation followed by ex-
+the data analysis. The authors also gratefully acknowl-                           posure: A phase-based treatment for PTSD related to childhood
+                                                                                  abuse. Journal of Consulting and Clinical Psychology, 70, 1067–
+edge Marla Zucker, PhD and Richard LaDue for their                                1074.
+assistance with the preparation of this manuscript.                         Cloitre, M., Tardiff, K., Marzuk, P.M., Leon, A.C., & Portera, L. (2001).
+                                                                                  Consequences of childhood abuse among male psychiatric inpa-
+                                                                                  tients: Dual roles as victims and perpetrators. Journal of Traumatic
+                                                                                  Stress, 14(1), 47–61.
+References                                                                  Cole, P., & Putnam, F.W. (1992). Effect of incest on self and social func-
+                                                                                  tioning: A developmental psychopathology perspective. Journal of
+                                                                                  Consulting and Clinical Psychology, 60, 174–184.
+Acierno, R., Resnick, H.S., Kilpatrick, D.G., Saunders, B.E., & Best,       Creamer, M., Burgess, P.M., & McFarlane, A.C. (2001). Posttraumatic
+     C.L. (1999). Risk factors for rape, physical assault, and posttrau-          stress disorder: Findings from the Australian National Survey of
+     matic stress disorder in women: Examination of differential multi-           Mental Health and Well-Being. Psychological Medicine, 31(7),
+     variate relationships. Journal of Anxiety Disorders, 13(6), 541–563.         1237–1247.
+Ackerman, P.T., Newton, J.E.O., McPherson, W.B., Jones, J.G., & Dyk-        Dube, S.R., Anda, R.F., Felitti, V.J., Chapman, D.P., Williamson,
+     man, R.A. (1998). Prevalence of posttraumatic stress disorder and            D.F., & Giles, W.H. (2001). Childhood abuse, household dysfunc-
+     other psychiatric diagnoses in three groups of abused children (sex-         tion, and the risk of attempted suicide throughout the life span:
+     ual, physical, and both). Child Abuse and Neglect, 22(8), 759–774.           Findings from the Adverse Childhood Experiences Study. Journal
+Adshead, G. (1994). Damage: Trauma and violence in a sample of                    of the American Medical Association, 286(24), 3089–3096.
+     women referred to a forensic service. Behavioral Sciences and the      Felitti, V.J., Anda, R.F., Nordenberg, D., Williamson, D.F., Spitz, A.M.,
+     Law, 12, 235–249.                                                            Edwards, V., et al. (1997). Relationship of childhood abuse and
+American Psychiatric Association. (1980). Diagnostic and statistical              household dysfunction to many of the leading causes of death in
+     manual of mental disorders (3rd ed.). Washington, DC: Author.                adults: The Adverse Childhood Experiences (ACE) Study. Ameri-
+American Psychiatric Association. (1994). Diagnostic and statistical              can Journal of Preventive Medicine, 14, 245–258.
+     manual of mental disorders (4th ed.). Washington, DC: Author.          Finkelhor, D., Hotaling, G., Lewis, I.A., & Smith, C. (1989). Sexual
+Andreasen, N.J.C., & Norris, A.S. (1972). Long-term adjustment and                abuse and its relationship to later sexual satisfaction, marital status,
+     adaptation mechanisms in severely burned adults. Journal of Ner-             religion, and attitudes. Journal of Interpersonal Violence, 4, 279–
+     vous and Mental Disease, 154, 352–362.                                       399.
+Barahal, R., Waterman, J., & Martin, H. (1987). The social-cognitive        Finkelhor, D., Hotaling, G., Lewis, I.A., & Smith, C. (1990). Sexual
+     development of abused children. Journal of Consulting and Clinical           abuse in a national survey of adult men and women: Prevalence,
+     Psychology, 49, 508–516.                                                     characteristics, and risk factors. Child Abuse and Neglect, 14(1),
+Bremner, J.D., Southwick, S., Brett, E., Fontana, A., Rosenheck, R., &            19–28.
+     Charney, D.S. (1992). Dissociation and posttraumatic stress disor-     Finkelhor, D., & Kendall-Tackett, K. (1997). A developmental perspec-
+     der in Vietnam combat veterans. American Journal of Psychiatry,              tive on the childhood impact of crime, abuse and violent victim-
+     149, 328–332.                                                                ization. In D. Cicchetti & S. Toth (Eds.), Rochester symposium
+Breslau, N., Davis, G.C., Andreski, P., Peterson, E.L., & Schultz, L.R.           on developmental psychopathology and developmental perspec-
+     (1997). Sex differences in posttraumatic stress disorder. Archives           tives on trauma (pp. 1–32). Rochester, NY: University of Rochester
+     of General Psychiatry, 54(11), 1044–1048.                                    Press.
+                                                                                                                                                                15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+398                                                                              Van der Kolk, Roth, Pelcovitz, Sunday, and Spinazzola
+
+Foa, E.B., Keane, T., & Friedman, M.J. (2000). Effective treatments               Leeds, A.M., & Shapiro, F. (2000). EMDR and resource installation:
+     for PTSD: Practice guidelines from the International Society of                   Principles and procedures for enhancing current functioning and
+     Traumatic Stress Studies. New York: Guilford Press.                               resolving traumatic experiences. In J. Carlson & L. Sperry (Eds.),
+Ford, J.D. (1999). Disorders of extreme stress following war-zone mil-                 Brief therapy with individuals & couples (pp. 469–534). Phoenix,
+     itary trauma: Associated features of posttraumatic stress disorder                AZ: Tucker & Theisen, Inc.
+     or comorbid but distinct syndromes? Journal of Consulting and                Levitan, R.D., Parikh, S.V., Lesage, A.D., Hegadore, K.M., Adams, M.,
+     Clinical Psychology, 67(1), 3–12.                                                 Kennedy, S.H., et al. (1998). Major depression in individuals with
+Ford, J.D. (2001). Treatment and clinical course of complex posttrau-                  a history of childhood physical or sexual abuse: Relationship to
+     matic stress disorder in patients with severe mental illness. Unpub-              neurovegetative features, mania, and gender. American Journal of
+     lished manuscript, National Institute of Mental Health, Rockville,                Psychiatry, 155(12), 1746–1752.
+     MD.                                                                          Lewis, D.O., Lovely, R., Yeager, C., & Della Femina, D. (1989). Toward
+Ford, J.D., Courtois, C.A., Steele, K., Van der Hart, O., &                            a theory of the genesis of violence: A follow-up study of delin-
+     Nijenhuis, E.R.S. (2005). Treatment of complex posttraumatic self-                quents. Journal of the American Academy of Child and Adolescent
+     dysregulation. Journal of Traumatic Stress, 18, 437–447.                          Psychiatry, 28, 431–436.
+Ford, J.D., Fisher, P., & Larson, L. (1997). Object relations as predictors       Lewis, D.O., & Shanok, S.S. (1981). Perinatal difficulties, head and face
+     of treatment outcome with chronic PTSD. Journal of Consulting                     trauma, and child abuse in the medical histories of seriously delin-
+     and Clinical Psychology, 64, 547–559.                                             quent children. American Journal of Psychiatry, 136(4A), 419–
+Ford, J.D., & Frisman, L. (2002, November). Controlled evaluation of a                 423.
+     present-focused trauma-processing therapy. Paper presented at the            Luger, R. (2004). Exact permutation tests for non-nested non-
+     Annual Meeting of the International Society for Traumatic Stress                  linear regression models. Retrieved November 1, 2004, from
+     Studies, Baltimore, MD.                                                           http://www.economics.emory.edu / Working Papers / wp / luger 04
+Ford, J.D., & Kidd, P. (1998). Early childhood trauma and disorders                    19 paper.pdf
+     of extreme stress as predictors of treatment outcome with chronic            Margolin, G., & Gordis, E.B. (2000). The effects of family and com-
+     PTSD. Journal of Traumatic Stress, 18, 743–761.                                   munity violence on children. Annual Review of Psychology, 51,
+Green, A.H. (1983). Dimension of psychological trauma in abused chil-                  445–479.
+     dren. American Journal of Psychiatry, 22(3), 231–237.                        Marshall, R.D., Schneier, F.R., Lin, S.H., Simpson, H.B., Vermes, D., &
+Herman, J.L. (1992). Complex PTSD: A syndrome in survivors of pro-                     Liebowitz, M.R. (2000). Childhood trauma and dissociative symp-
+     longed and repeated trauma. Journal of Traumatic Stress, 5(3),                    toms in panic disorder. American Journal of Psychiatry, 157(3),
+     377–391.                                                                          451–453.
+Herman, J.L., Perry, J.C., & Van der Kolk, B.A. (1989). Childhood                 McDonagh-Coyle, A., McHugo, G., Ford, J., Mueser, K., Demment, C.,
+     trauma in borderline personality disorder. American Journal of Psy-               & Descamps, M. (1999, December). Cognitive–behavioral treat-
+     chiatry, 22, 231–237.                                                             ment for childhood sexual abuse survivors with PTSD. Paper pre-
+Herman, J.L., & Van der Kolk, B.A. (1987). Traumatic antecedents of                    sented at the 15th Annual Meeting of the International Society for
+     borderline personality disorder. In B. Van der Kolk (Ed.), Psycho-                Traumatic Stress Studies, Miami, FL.
+     logical trauma (pp. 111–126). Washington, DC: American Psychi-               Mueser, K.T., Trumbetta, S.L., Rosenberg, S.D., Vidaver, R.M., Good-
+     atric Press.                                                                      man, L.B., Osher, F.C., et al. (1998). Trauma and posttraumatic
+Horowitz, M., Wilner, N., & Kaltreider, N. (1980). Signs and symptoms                  stress disorder in severe mental illness. Journal of Consulting and
+     of post-traumatic stress disorder. Archives of General Psychiatry,                Clinical Psychology, 66(3), 493–499.
+     37, 85–92.                                                                   Nemeroff, C.B., Heim, C.M., Thase, M.E., Klein, D.N., Rush, A.J.,
+Kardiner, A. (1941). The traumatic neuroses of war. New York: Hoeber.                  Schatzberg, A.F., et al. (2003). Differential responses to psychother-
+Keller, M.B., McCullough, J.P., Klein, D.N., Arnow, B., Dunner, D.L.,                  apy versus pharmacotherapy in patients with chronic forms of ma-
+     Gelenberg, A.J., et al. (2000). A comparison of nefazodone, the                   jor depression and childhood trauma. Proceedings of the National
+     cognitive–behavioral-analysis system of psychotherapy, and their                  Academy of Sciences of the United States of America, 100(24),
+     combination for the treatment of chronic depression. New England                  14293–14296.
+     Journal of Medicine, 342(20), 1462–1470.                                     Oates, R.K. (1984). Personality development after physical abuse.
+Kendall-Tackett, K. (2002). The health effects of childhood abuse: Four                Archives of Disease in Childhood, 59, 147–150.
+     pathways by which abuse can influence health. Child Abuse &                  Pearlman, L.A., & Courtois, C.A. (2005). Clinical applications of the
+     Neglect, 26(6-7), 715–729.                                                        attachment framework: Relational treatment of complex trauma.
+Kessler, R.C., Sonnega, A., Bromet, E., Hughes, M., & Nelson,                          Journal of Traumatic Stress, 18, 449–459.
+     C.B. (1995). Posttraumatic stress disorder in the national co-               Pelcovitz, D., Van der Kolk, B.A., Roth, S., Mandel, F., Kaplan, S.,
+     morbidity survey. Archives of General Psychiatry, 52, 1048–                       & Resick, P. (1997). Development of a criteria set and a struc-
+     1060.                                                                             tured interview for disorders of extreme stress (SIDES). Journal of
+Kilpatrick, D.G., Acierno, R., Saunders, B.E., Resnick, H.S., Best, C.L.,              Traumatic Stress, 10(1), 3–16.
+     & Schnurr, P.P. (2000). Risk factors for adolescent substance abuse          Putnam, F. (2003). Ten-year research update review: Child sexual abuse.
+     and dependence: Data from a national sample. Journal of Consult-                  Journal of the American Academy of Child and Adolescent Psy-
+     ing and Clinical Psychology, 68(1), 19–30.                                        chiatry 43, 269–278.
+Kilpatrick, D.G., Resnick, H.S., Freedy, J.R., Pelcovitz, D., Resick,             Putnam, F., & Trickett, P.K. (1997). The psychobiological effects of sex-
+     P.A., Roth, S., et al. (1998). Posttraumatic stress disorder field trial:         ual abuse, a longitudinal study. Annals of the New York Academy
+     Evaluation of the PTSD construct—Criteria A through E. In T.A.                    of Science, 821, 150–159.
+     Widiger, A.J. Frances, H.A. Pincus, R. Ross, M.B. First, W. David            Resnick, H.S., Acierno, R., & Kilpatrick, D.G. (1997). Health impact
+     et al. (Eds.), DSM-IV sourcebook (Vol. 4, 4th ed., pp. 803–844).                  of interpersonal violence. Section II: Medical and mental health
+     Washington, DC: American Psychiatric Association.                                 outcomes. Behavioral Medicine, 23, 65–78.
+Kilpatrick, D.G., Ruggeiro, K.J., Acierno, R., Saunders, B.E., Resnick,           Robins, L.N., Helzer, J.E., Croughan, J.L., Williams, J.B.W., & Spitzer,
+     H.S., & Best, C.L. (2003). Violence and risk of PTSD, major de-                   R.L. (1981). NIMH Diagnostic Interview Schedule, Version III
+     pression, substance abuse/dependence and comorbidity: Results                     (Publication no. ADM-T- 42–3 [5–81, 8–81]). Rockville, MD; Na-
+     from the National Survey of Adolescents. Journal of Consulting                    tional Institute of Mental Health, Public Health Service.
+     and Clinical Psychology, 71, 692–700.                                        Rollstin, A.O., & Kern, J.M. (1998). Correlates of battered women’s psy-
+Krystal, H. (1968). Massive psychic trauma. New York: International                    chological distress: Severity of abuse and duration of the postabuse
+     Universities Press.                                                               period. Psychological Reports, 82(2), 387–394.
+                                                                                                                                                             15736598, 2005, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jts.20047 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Disorders of Extreme Stress                                                                                                                          399
+
+Romano, E., & De Luca, R.V. (1997). Exploring the relationship between          Van der Kolk, B.A. (1989). The compulsion to repeat trauma: Revictim-
+     childhood sexual abuse and adult sexual perpetration. Journal of                ization, attachment and “masochism.” The Psychiatric Clinics of
+     Family Violence. 12(1), 85–98.                                                  North America, 12, 389–411.
+Roth, S., Newman, E., Pelcovitz, D., Van der Kolk, B.A., & Mandel, F.S.         Van der Kolk, B.A. (2003). The neurobiology of childhood trauma and
+     (1997). Complex PTSD in victims exposed to sexual and physical                  abuse. Child and Adolescent Clinics of North America 12, 293–
+     abuse: Results from the DSM-IV field trial for posttraumatic stress             317.
+     disorder. Journal of Traumatic Stress, 10(4), 539–555.                     Van der Kolk, B.A., Pelcovitz, D., Roth, S., Mandel, F., McFarlane,
+Saxe, G.N., Chinman, G., Berkowitz, R., Hall, K., Lieberg, G., Schwartz,             A., & Herman, J.L. (1996). Dissociation, somatization, and affect
+     J., et al. (1994). Somatization in patients with dissociative disorders.        dysregulation: The complexity of adaptation to trauma. American
+     American Journal of Psychiatry, 151(9), 1329–1334.                              Journal of Psychiatry, 153(7), 83–93.
+Saxe, G.N., Van der Kolk, B.A., Berkowitz, R., Chinman, G., Hall,               Van der Kolk, B.A., Perry, J.C., & Herman, J.L. (1991). Childhood ori-
+     K., Lieberg, G., et al. (1993). Dissociative disorders in psychiatric           gins of self-destructive behavior. American Journal of Psychiatry,
+     inpatients. American Journal of Psychiatry, 150(7), 1037–1042.                  148, 1665–1671.
+Scheeringa, M.S., Zeanah, C.H., Drell, M.J., & Larrieu, J. (1995). Two          Vielhauer, M.J. (1996). Complex post-traumatic stress disorder associ-
+     approaches to the diagnosis of posttraumatic stress disorder in in-             ated with childhood sexual and physical abuse in male veterans
+     fancy and early childhood. Journal of the American Academy of                   with histories of substance abuse disorders. Unpublished doctoral
+     Child and Adolescent Psychiatry, 34(2), 191–200.                                dissertation, State University of New York at Buffalo.
+Scheeringa, M.S., Zeanah, C.H., Meyers, L., & Putnam, F.W. (2003).              Walker, L.E. (1984). The battered woman syndrome. New York:
+     New findings on alternative criteria for PTSD in preschool chil-                Springer.
+     dren. Journal of the American Academy of Child and Adolescent              Wang, C.T., & Daro, D. (1997). Current trends in child abuse reporting
+     Psychiatry, 42(5), 561–570.                                                     and fatalities: The results of the 1997 annual fifty state survey.
+Schneider-Rosen, K., & Cicchetti, D. (1984). The relationship between                Chicago: National Committee to Prevent Child Abuse.
+     affect and cognition in maltreated infants: Quality of attachment and      Weine, S.M., Becker, D.F., Vojvoda, D., Hodzic, E., Sawyer, M., Hy-
+     the development of visual self-recognition. Child Development, 55,              man, L., et al. (1998). Individual change after genocide in Bosnian
+     648–658.                                                                        survivors of “ethnic cleansing”: Assessing personality dysfunction.
+Shatan, C.F., Smith, J., & Haley, S. (1977, October). Johnny comes                   Journal of Traumatic Stress, 11(1), 147–153.
+     marching home: DSM III and combat stress. Paper presented at the           Widom, C.S. (1987). The cycle of violence. Science, 244, 160–
+     130th Annual Meeting of the American Psychiatric Association,                   165.
+     Toronto, Ontario, Canada.                                                  Wilson, S.N., Van der Kolk, B.A., Burbridge, J.A., Fisler, R.E., &
+Spinnazola, J., Blaustein, M., & Van der Kolk, B.A. (2005). Posttrau-                Kradin, R. (1999). Phenotype of blood lymphocytes in PTSD
+     matic stress disorder treatment outcome research: The study of                  suggests chronic immune activation. Psychosomatics, 40, 222–
+     unrepresentative samples? Journal of Traumatic Stress, 18, 425–                 225.
+     436.                                                                       Yen, S., Shea, M.T., Pagano, M.E., Sanislow, C.A., Grilo, C.M., Mc-
+Spitzer, R.J., & Williams, J.B. (1986). Structured Clinical Interview                Glashan, T.H., et al. (2003). Axis I and Axis II disorders as predic-
+     for DSM-III (SCID 3/15/83). Unpublished manuscript, Biometrics                  tors of prospective suicide attempts: Findings from the Collabora-
+     Research Department, New York State Psychiatric Institute, New                  tive Longitudinal Personality Disorders Study. Journal of Abnormal
+     York City.                                                                      Psychology, 112(3), 375–381.
+Steiner, H., Garcia, I.G., & Matthews, Z. (1997). Posttraumatic stress          Zanarini, M.C., Ruser, T.F., Frankenburg, F.R., Hennen, J., & Gun-
+     disorder in incarcerated juvenile delinquents. Journal of the Ameri-            derson, J.G. (2000). Risk factors associated with the dissociative
+     can Academy of Child and Adolescent Psychiatry, 36(3), 357–365.                 experiences of borderline patients. Journal of Nervous and Mental
+Summit, R. (1983). The child sexual abuse accommodation syndrome.                    Disease, 188(1), 26–30.
+     Child Abuse & Neglect, 7(2) 177–193.                                       Zlotnick, C. (1999). Antisocial personality disorder, affect dysregula-
+Teicher, M.H., Andersen, S.L., Polcari, A., Anderson, C.M., Navalta,                 tion and childhood abuse among incarcerated women. Journal of
+     C.P., & Kim, D.M. (2003). The neurobiological consequences of                   Personality Disorders, 13(1), 90–95.
+     early stress and childhood maltreatment. Neuroscience and Biobe-           Zlotnick, C., Zakriski, A.L., Shea, M.T., Costello, E., Begin, A., Pearl-
+     havioral Reviews, 27(1–2), 33–44.                                               stein, T., et al. (1996). The long-term sequelae of sexual abuse:
+Terr, L.C. (1979). Children of Chowchilla: A study of psychic trauma.                Support for a complex posttraumatic stress disorder. Journal of
+     The Psychoanalytic Study of the Child, 34, 552–623.                             Traumatic Stress, 9(2), 195–205.
+
