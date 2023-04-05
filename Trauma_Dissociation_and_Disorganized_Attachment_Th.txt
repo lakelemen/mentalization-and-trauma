@@ -1,0 +1,1937 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/232444458
+
+
+
+Trauma, Dissociation, and Disorganized Attachment: Three Strands of a Single
+Braid.
+
+Article in Psychotherapy Theory Research Practice Training · December 2004
+DOI: 10.1037/0033-3204.41.4.472
+
+
+
+
+CITATIONS                                                                                              READS
+
+433                                                                                                    18,151
+
+
+1 author:
+
+             Giovanni Liotti
+             Associazione di Psicologia Cogntiva Roma
+             95 PUBLICATIONS 3,065 CITATIONS
+
+                SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+              The Evolutionary Study of Motivation: A Multi-motivational Theory View project
+
+
+
+
+ All content following this page was uploaded by Giovanni Liotti on 16 May 2014.
+
+ The user has requested enhancement of the downloaded file.
+        (Published in: Psychotherapy: Theory, research, practice, training Vol. 41, pp. 472-486, 2004)
+
+
+
+
+           Trauma, Dissociation, and Disorganized
+
+       Attachment: Three Strands of a Single Braid
+
+
+
+                                        Giovanni Liotti, M.D.1
+
+
+
+
+                                        Running head: Trauma, dissociation and attachment
+
+
+
+
+Key words: Attachment, Disorganization, Dissociation, Trauma, Vulnerability, PTSD, Psychotherapy.
+
+
+
+
+1
+ Professor of Cognitive Psychotherapy
+Scuola di Psicoterapia Cognitiva
+Viale Castro Pretorio 116
+00185 Roma (Italy)
+
+
+
+                                                                                                         1
+       The aim of this paper is to familiarize the reader with research findings and theoretical
+
+perspectives that suggest that disorganized attachment plays a central role in trauma-related
+
+disorders. It is proposed that the propensity to react to traumatic events with dissociation is related
+
+to disorganization of early attachment and its developmental sequelae. This conceptual framework
+
+has deep implications for the psychotherapeutic treatment of dissociative disorders, a topic that will
+
+be briefly addressed in the final section of this paper.
+
+
+
+An overview of research on attachment in infants and adults
+
+       Early attachment is studied and assessed through a standardized laboratory procedure (the
+
+Strange Situation: Ainsworth, 1982) where infants about 18 months old are observed during two
+
+brief episodes of separation from a caregiver, followed by two episodes of reunion. Three patterns
+
+of organized attachment behavior have been identified in infants: secure (the infant cries at
+
+separation and is quickly comforted at reunion), insecure-avoidant (the infant does not cry at
+
+separation, and actively avoids the caregiver on reunion) and insecure-ambivalent (the infant cries
+
+at separation, but is not easily comforted on reunion). Some infants are not able to organize their
+
+attachment behavior according to any unitary or coherent pattern: they are classified disorganized in
+
+their attachments.
+
+       Research studies on adult attachment are based on the Adult Attachment Interview (AAI: see
+
+Hesse, 1999). The AAI is a standardized interview, developed by Mary Main and her collaborators,
+
+that explores adult individuals’ autobiographical memories of past attachment relationships. A
+
+complex scoring system of the interview transcript allows for a reliable classification of the
+
+individual’s state of mind concerning attachment relationships. Classification is based on the
+
+assessment of (1) deficits in metacognitive monitoring expressed as incoherence of memory,
+
+thought and discourse, and (2) different ways of organizing coherent states of mind concerning
+
+attachment.
+
+
+
+                                                                                                          2
+       The three main classes of coherent states of mind emerging from the AAI are called
+
+“autonomous” (related to secure attachment in children), “dismissing” (linked to insecure-avoidant
+
+attachment in children) and “preoccupied” (related to early insecure-ambivalent attachment).
+
+“Autonomous” interviews show coherent narratives, high levels of metacognitive monitoring
+
+(ongoing awareness that one’s report of past memories should be made understandable to the
+
+interviewer) and freedom of thought in reporting memories of early attachment (i.e., both positive
+
+and emotionally negative memories are reported in a non-defensive manner). “Dismissing”
+
+interviews are characterized by idealization of the attachment figures, dismissing attitudes toward
+
+the importance of attachment needs, and a discrepancy between semantic (i.e., global descriptive)
+
+and episodic (i.e., specific) childhood memories. This discrepancy takes the form of maintaining an
+
+idealized view of one’s parents despite recollections that suggest a childhood marked by
+
+unhappiness and an unsatisfactory relationship with one’s parents. Finally, interviews showing
+
+continuing preoccupation with the meaning and value of one’s early attachment experiences are
+
+rated “Preoccupied”.
+
+       High levels of incoherence (e.g., lapses and discrepancies between feeling and thinking
+
+while reporting memories of past attachment relationships) and very poor metacognitive monitoring
+
+of discourse lead to an AAI classification called “unresolved”. Unresolved interviews are
+
+characterized by episodic memories of attachment-related traumas or losses that are not well
+
+integrated in the semantic structures of self-knowledge. A major discovery in attachment research is
+
+the strong relationship between caregivers’ unresolved memories of traumas or losses, leading to
+
+“unresolved” AAI classification, and disorganization of early attachment in their children (Main &
+
+Hesse, 1990; Main & Solomon, 1990). About 80% of children whose parents are rated “unresolved”
+
+at the AAI develop disorganized attachment to their parents (see Lyons-Ruth and Jacobvitz, 1999,
+
+and Hesse et al., 2003, for reviews of the research findings supporting this statement).
+
+        This discovery is of great interest for clinicians, insofar as it alerts to the likelihood that
+
+patients who suffer from trauma-related disorders may establish a problematic relationship,
+
+                                                                                                          3
+mediated by attachment disorganization, with their children. The implications of these research
+
+findings for understanding the interpersonal dimension of trauma-related disorders are, however,
+
+even more interesting, and deserve the detailed analysis that will occupy the subsequent sections of
+
+this paper.
+
+
+
+Similarities between dissociation, unresolved AAI responses, and disorganized attachment
+
+       Both AAI transcripts that are classified “unresolved as to traumas” and infant disorganized
+
+attachment behavior bear close resemblance to clinical phenomena usually regarded as indicative of
+
+dissociation (Hesse & Main, 2000; Main & Morgan, 1996).
+
+       Dissociation is usually defined as a deficit of the integrative functions of memory,
+
+consciousness and identity, and is often related to traumatic experiences and traumatic memories.
+
+During clinical interviews, dissociation is suggested either by such a degree of unwitting absorption
+
+in mental states that ordinary attention to the outside environment is seriously hampered, or by a
+
+sudden lack of continuity in discourse, thought or behavior of which the person is unaware
+
+(supposedly due to intrusion of dissociated mental contents in the flow of consciousness). Thus, for
+
+instance, a dissociative patient may suddenly interrupt her speech during a therapeutic session, stare
+
+into the void for minutes, and become unresponsive to the therapist’s queries as to what is
+
+happening to her. Or a patient suffering from post-traumatic stress disorder (PTSD) may suddenly
+
+utter fragmented and incoherent comments on intrusive mental images (usually related to traumatic
+
+memories) that surface in his consciousness and hamper the continuity of the preceding dialogue
+
+with the therapist. In the most extreme variety of dissociation (Dissociative Identity Disorder, DID),
+
+an alternate ego state may appear during the clinical dialogue, reporting (sometimes with an
+
+unusual, e.g. childlike, tone of voice) memories of childhood abuse of which the patient has
+
+previously been totally unaware, or expressing attitudes and beliefs quite extraneous to the patients’
+
+personality.
+
+
+
+                                                                                                     4
+       Structurally similar phenomena may appear during an AAI, collected within a non-clinical
+
+sample, that is rated “unresolved”. For instance, an adult individual may “fall silent in the middle of
+
+a sentence discussing loss or trauma, and then complete the sentence 20 seconds or more later, as if
+
+no time had passed” (Main & Morgan, 1996, p. 125). Others may “seem to suffer an intrusion of
+
+visual-sensory images which interfere with correct speech” as in a case where this sentence, related
+
+with a childhood experience involving the father, was uttered: “Yes, well what he did was hit me,
+
+stick, stick, hurts … brown stick” (Main & Morgan, 1996, p. 126, italics added). Still others may
+
+show the sudden, inappropriate intrusion into the interview of information regarding a traumatic
+
+experience suffered at the hand of the attachment figure, (sometimes with a change into a childlike
+
+speech form).
+
+       Infants whose attachment behavior in the Strange Situation is rated “disorganized” also
+
+show behaviors that are, on the phenotypic level, similar to those indicative of dissociation in adult
+
+patients. For instance, in the middle of an approach behavior to the parent, they may suddenly
+
+become immobile, unresponsive to the parent’s call, with a blind look, and persist in this state for
+
+30 seconds or more. They may also show contradiction in movement patterns, as if they are
+
+pursuing two incompatible goals simultaneously or in quick succession. An aggressive gesture,
+
+executed whit an unusual facial expression, without warning and in the middle of a display of
+
+affectionate behavior toward the caregiver, is another possible indicator of dissociation in
+
+disorganized infants: A number of them have been observed, while they were pleasantly interacting
+
+with the parent in the Strange Situation, suddenly “…assuming a dazed or trancelike expression,
+
+reaching slowly to strike at the parent’s face or eyes, and then resuming affectionate behavior…”
+
+(Main & Morgan, 1996, p. 125). Many other instances of disorganized attachment behavior that
+
+may be indicative of dissociative processes have been described by Main and Morgan (1996). Since
+
+disorganized attachment in children is strongly linked to unresolved AAI ratings in their parents,
+
+these observations hint at the possibility of an intergenerational transmission of dissociative mental
+
+states that is related to unresolved memories of past parental traumas.
+
+                                                                                                         5
+Trauma and dissociation in research findings based on the Adult Attachment Interview
+
+       The emergence during administration of the AAI of memories of traumatic losses of
+
+attachment figures, or of physical and sexual abuse suffered at the hand of attachment figures, is not
+
+a rare occurrence. In about 15 per cent of non-clinical interviews (Lyons-Ruth & Jacobvitz, 1999
+
+p.523; Steele & Steele, 2003, p.113) lapses, poor reflective capacity (i.e., poor metacognitive
+
+monitoring) and incoherence in the narratives suggest that these traumatic experiences have not
+
+been resolved (“unresolved” classification of the AAI). In these cases, to think that dissociative
+
+processes related to the traumatic memories interfere with the report of one’s attachment history is,
+
+at the very least, an educated guess (Hesse & Main, 2000, p. 1115; Liotti, 1992; Main & Morgan,
+
+1996). An empirical finding supporting this conjecture has been provided by Hesse and van
+
+IJzendoorn (1999): people who describe unresolved traumatic memories during the AAI also rate
+
+high in a scale measuring the propensity toward absorption in daydreaming and self-hypnotic (i.e.,
+
+dissociative) states of consciousness. Thus, there is a link between attachment-related traumas,
+
+tendency toward dissociative states, and dissociated mental operations during a task involving
+
+autobiographical memory.
+
+       Another intriguing finding of studies based on the AAI shows the surfacing, in non-clinical
+
+samples, of a different type of dissociative process, akin to the alternation of incompatible ego
+
+states of DID. Some interviews are assigned to a “cannot classify” category because they express
+
+deeply divided states of mind concerning attachment (Hesse, 1996). The simpler examples of
+
+“cannot classify” interviews portray a dismissing attitude toward attachment in the first half of the
+
+transcript, and a very preoccupied state of mind concerning attachment in the second half (or vice
+
+versa), without any hint that the respondent is aware of the change in attitude during the interview.
+
+Therefore, these interviews cannot be classified as “dismissing,” nor can they be classified as
+
+“preoccupied”. Interestingly, most “cannot classify” interviews are also rated high for unresolved
+
+traumas and/or losses (Hesse, 1996; Steele & Steele, 2003). This is a further hint that “cannot
+
+                                                                                                        6
+classify” interviews may indicate the presence of a type of sub-clinical post-traumatic dissociative
+
+process, characterized both by poor metacognitive monitoring and by autobiographical memories
+
+that are split as to the meaning attributed to events.
+
+       In summary, research studies using the AAI have shown that subtle dissociative processes
+
+related to traumatic memories of past attachment relationships (and potentially able to interfere with
+
+the beginning organization of infant attachment behavior in the offspring) are not rare in adult non-
+
+clinical samples. In samples that are at high risk of emotional disorders, in violent families and in
+
+clinical samples, the percentage of “unresolved” and “cannot classify” interviews (and the
+
+corresponding frequency of disorganized attachment classifications in the infants) rises sharply,
+
+from the 15% found in non-clinical samples to over 70% (Lyons-Ruth & Jacobvitz, 1999; Solomon
+
+& George, 1999).
+
+       Steele and Steele (2003) reported some preliminary findings of a clinical study of severely
+
+dissociative patients involving the AAI that show a very high percentage of “cannot classify”
+
+interviews in this clinical population. When used with patients suffering from DID, the AAI
+
+regularly elicits multiple narratives, and sometimes multiple narrating voices, in the same
+
+individual. These multiple narratives reflect distinct ego states, or personality organizations, each
+
+with a different mental state concerning attachment. Not infrequently in this clinical sample a
+
+switch in ego state signals the narration of a horrifying history of abuse suffered at the hand of an
+
+attachment figure that is not accessible to the preceding ego state.
+
+       Steele and Steele (2003), while reporting the preliminary findings of their study, call
+
+attention to an observation that can be confirmed by many clinicians dealing with the traumatic
+
+memories of adult survivors of child abuse: “while psychic pain certainly accompanies the recall of
+
+the abuse per se, this pales in comparison to the much greater pain that accompanies the recall of
+
+being betrayed by trusted caregivers and siblings” (Steele & Steele, 2003, p. 116-117). That is, the
+
+memory of an attachment figure who fails to protect the child from the abuse perpetrated by another
+
+member of the family may be more painful than the memory of the abuse per se. The dissociative
+
+                                                                                                        7
+power of this subtle type of trauma, betrayal from a not otherwise maltreating attachment figure, is
+
+readily explained by attachment theory. Forced by the inborn propensity to preserve the attachment
+
+relationship and trust the caregiver, when a parent denies the very existence of the abuse perpetrated
+
+by another member of the family (or by a person outside the family), the abused child may collude
+
+with the parent’s denial and dissociate the traumatic memory (Bowlby, 1983, p. 99-118; Freyd,
+
+1997).
+
+
+
+Disorganization of early attachment and vulnerability to dissociation
+
+         Infant disorganized attachment shows up as lack of orientation during attachment
+
+interactions and/or as incompatible responses to episodes of separation-reunion with the caregiver,
+
+emitted either simultaneously or in quick succession (Main & Solomon, 1990). The essence of
+
+infant attachment disorganization is the simultaneity of approach and avoidance attitudes toward the
+
+caregiver that induces a serious lack of organization and orientation in the infant’s overall
+
+attachment behavior.
+
+         The strong statistical link between infant disorganized behavior and parent’s unresolved
+
+mental status as to trauma and losses (a finding that has been replicated in a great number of
+
+research studies, reviewed by Lyons-Ruth & Jacobvitz, 1999 and Solomon & George, 1999) cannot
+
+be explained by genetic influences. Infants whose attachment behavior toward a given,
+
+“unresolved” parent is disorganized may develop coherent, organized patterns of attachment
+
+behavior toward another caregiver, provided that the latter’s state of mind concerning attachment is
+
+coherent (e.g., the same infant may be disorganized in the attachment behavior toward the
+
+“unresolved” mother, organized-avoidant in the attachment toward the “dismissing” father, and
+
+organized secure toward a third, “free” attachment figure). Disorganization of early attachment,
+
+therefore, seems to reflect an intersubjective reality rather than being a property of the individual
+
+child’s mind.
+
+
+
+                                                                                                        8
+       A number of empirical studies (Lyons-Ruth & Jacobvitz, 1999, p.524-525) support the
+
+contention that individual (e.g., temperamental or neurological) variables exert minimal influence
+
+on attachment disorganization. However, a recent study challenged this conclusion, suggesting that
+
+genetic factors (an allele of the DRD4 gene) related to defective dopaminergic functions in the brain
+
+and reduced efficiency of attentional systems, may contribute to attachment disorganization
+
+(Lakatos et al., 2000). It should be noted that only a minority (less than 40%) of infants carrying the
+
+allele develop a disorganized attachment: this genetic factor is, therefore, insufficient to yield
+
+attachment disorganization by itself. The contrast between the studies quoted by Lyons-Ruth and
+
+Jacobvitz (1999) and the genetic research data provided by Lakatos and his collaboratos (2000) may
+
+be reconciled by the hypothesis that gene-environment interactions are at work in many, but not all,
+
+cases of infant attachment disorganization.
+
+       Liotti (1992) advanced the hypothesis that early disorganized attachment is the first step in
+
+many developmental pathways that (provided they include traumatic experiences during childhood
+
+and adolescence) progressively lead to increased vulnerability to dissociative disorders and to
+
+dissociative reactions to later traumas. A similar hypothesis has been independently advanced by
+
+Lichtenberg, Lachman and Fosshage (1992, p.164-168). Evidence supporting this hypothesis has
+
+been provided by a longitudinal study of dissociative symptomatology in a non-clinical sample of
+
+168 young adults (called the Minnesota longitudinal sample in the literature on attachment) whose
+
+attachment patterns had been assessed when they were infants in their second year of life (Ogawa et
+
+al., 1997). The group that had been disorganized in their attachments as infants (“disorganized”
+
+group) had a higher mean dissociation score than those with other types of early attachment
+
+patterns. Within this “disorganized” group, the higher dissociation scores, reaching clinical
+
+significance, characterized the subgroup that had faced traumas during childhood and adolescence
+
+(the difference between the mean dissociation score of the disorganized subgroup that faced later
+
+trauma and those of the disorganized subgroup that did not face trauma was statistically significant).
+
+
+
+                                                                                                       9
+       Other observations in the Minnesota longitudinal sample that also support Liotti’s
+
+hypothesis have been discussed by Carlson (1998). Infant disorganization was associated with
+
+higher ratings of dissociative behavior on the Teacher Report form of the Child Behavior Checklist
+
+both in elementary and high school, and with self-report of more dissociative experiences on the
+
+Dissociative Experience Scale (DES) at age 19 (Carlson, 1998). Three adolescents in the Minnesota
+
+longitudinal sample had developed clear-cut dissociative disorders at the time of Carlson’s inquiry;
+
+all of them had been disorganized in their infant attachment to a primary caregiver (Dozier, Stovall
+
+& Albus, 1999, p.507). Other empirical findings – although they have been less systematically
+
+collected and are less methodologically satisfactory than the above-quoted longitudinal studies 
+
+also point toward a role of attachment disorganization in disorders implying dissociation. These
+
+findings have been reviewed elsewhere (Liotti, 1999, 2000).
+
+       A multi-centric case-control study of 52 dissociative patients and 146 psychiatric non-
+
+dissociative controls conducted by an Italian Group for the Study of Dissociation (Pasquini et al.,
+
+2002) also lent support to Liotti’s hypothesis. Traumatic losses and severe traumatic events in the
+
+life of the dissociative patients’ mothers that took place in the interval of two years before to two
+
+years after the patients’ birth proved to be a significant risk factor for the development of
+
+dissociative disorders. Since the traumas/losses in the life of the patients’ primary caregivers, being
+
+likely still unresolved, exerted their effects in the period when the patients’ early attachments were
+
+shaped, a legitimate interpretation of Pasquini et al.’s finding is that early disorganized attachment
+
+is the mediator of this risk factor.
+
+       The presence of traumas/losses in the life of the patients’ mothers around the time of the
+
+birth of the patient is also a risk factor for Borderline Personality Disorder (BPD: Liotti et al.,
+
+2000). Since it is commonly held that the developmental psychopathology of BPD often implies
+
+both traumas and dissociation, the latter finding is compatible with the hypothesis that early
+
+attachment disorganization increases, throughout development, the general propensity toward
+
+dissociation. Clinically different types of dissociative reactions to traumatic events (as observed in
+
+                                                                                                        10
+dissociative disorders and BPD) may be linked to a common risk factor related to early attachment
+
+disorganization.
+
+       Besides the dissociative and borderline disorders, some complex types of PTSD may also be
+
+related to early attachment disorganization. The empirical finding that PTSD in parents is linked to
+
+vulnerability to PTSD in children (Yehuda, Halligan & Grossman, 2001) may be explained by
+
+considering disorganization of children’s attachment to “unresolved” parents as a mediating
+
+variable. The intergenerational transmission of trauma-related dissociation that many clinicians
+
+hypothesize as an explanation of disorders observed in children of Holocaust survivors may also be
+
+mediated by attachment disorganization (see, e.g. Fonagy, 1999). The unresolved traumatic
+
+memories of the horrors of Nazi concentration camps may interfere with the parental behavior of
+
+the survivors, inducing attachment disorganization in their offspring and in turn increasing the
+
+offspring’s vulnerability to trauma-related disorders, implying dissociation. There is some empirical
+
+support for this hypothesis (Solomon, Kotler & Mikulincer, 1988). It should be emphasized
+
+however, as will be more widely discussed in a later section of this paper, that pathological
+
+developments are by no means the rule in children of Holocaust survivors.
+
+
+
+Attachment dynamics linking parents’ unresolved mental state to infants’ disorganization
+
+       The strong statistical link between parents’ unresolved traumatic memories of past abuses or
+
+losses and infants’ disorganized attachment can be understood by taking into account the inborn
+
+nature of attachment interpersonal dynamics. Attachment theory holds that humans, like other
+
+mammals, are born with a strong, evolved tendency to seek care, help and comfort from members
+
+of the social group whenever they are facing an overwhelming danger and whenever they are
+
+suffering from physical or emotional distress (Bowlby, 1982). As Bowlby (1979) has cogently
+
+argued, the care-seeking or attachment system, although more often active during infancy and
+
+childhood, is operant throughout any human being’s life, and is powerfully activated during and
+
+after any experience of fear and of physical or psychological pain. Usually, the propensity to seek
+
+                                                                                                      11
+protection and comfort is met with positive responses from significant others. The inborn
+
+disposition to care for one’s kin (George & Solomon, 1999), that matches the equally inborn
+
+tendency to ask for help, provides the basis for a relatively smooth functioning of caregiving-
+
+careseeking interactions. Ethological observations and affective neuroscience (Panksepp, 1998)
+
+provide abundant evidence of the evolutionary processes that build up, in homologous parts of any
+
+mammal species’ brain, distinct emotional/motivational systems able to organize, respectively,
+
+care-seeking (i.e., attachment) and care-giving behavior. On these theoretical premises, one may
+
+explain attachment disorganization as follows (see Main & Hesse, 1990, for the original
+
+formulation of this explanation).
+
+       When unresolved traumatic memories surface in the mind of parents while they are
+
+responding to the attachment requests of their children, the mental suffering linked to these
+
+memories activates the parents’ attachment system together with their care-giving system. That the
+
+attachment system is normally activated not only in children, but also in adults (“from the cradle to
+
+the grave”: Bowlby, 1979, p.129) by any type of suffering is, as has been noted above, a central
+
+tenet of attachment theory. In the absence of soothing responses from significant others (perceived
+
+as “stronger and/or wiser” than the suffering self: Bowlby, 1979, p.129), the activation of the
+
+attachment system arouses in the parent strong emotions of fear and/or anger. Thus, while infants
+
+are crying, “unresolved” parents may interrupt their attempts to soothe them (attempts stemming
+
+from the parent’s care-giving system) with unwitting, abrupt manifestations of alarm and/or of
+
+anger (stemming from the parent’s attachment system). Caregivers’ abrupt manifestation of both
+
+anger and fear are always frightening to infants. The innate defensive reaction of escaping from the
+
+signal of threat (e.g., by distracting attention or avoidance of gaze) ensues in the infant.
+
+       The increased relational distance, however, further activates the (equally inborn) infant’s
+
+attachment system, because increased distance from the attachment figure innately strengthens the
+
+need for protective proximity, whatever the behavior of the attachment figure may be. The
+
+attachment figure, in interactions leading to attachment disorganization, is “at once the source and
+
+                                                                                                     12
+the solution” (Main & Hesse, 1990, p.163) of the infant’s alarm, and this leads to fright without
+
+solution. That is, the infant has no way out of this paradox. There is no single, coherent behavioral
+
+or attentional strategy able to interrupt the loop of increasing fear and contradictory intentions
+
+(approach and avoidance) in the infant’s experience. Disorganization of attachment behavior and
+
+disorientation in attentional strategies during attachment interactions follow. Disorganization and
+
+disorientation of early attachment closely mimic the collapse of the integrative functions of
+
+consciousness that characterize any dissociative experience, and may be the first instance of
+
+dissociative reactions during life.
+
+       At least two studies (reviewed by Lyons-Ruth & Jacobvitz, 1999, p. 530-531) provided
+
+empirical support to Main and Hesse’s 1990 hypothesis that frightened/frightening parental
+
+behavior is the link between an infant’s disorganized attachment and a caregiver’s unresolved state
+
+of mind concerning attachment. These studies, and others following Main and Hesse’s original
+
+observations (Hesse & Main, 2000; Hesse et al., 2003), provide many disquieting examples of how
+
+a parent’s state of mind, unresolved as to traumas, may interfere in the communication between
+
+parent and child. It is noteworthy that parents’ unresolved states of mind can induce fright without
+
+solution and dissociative reactions in the infant even when the parents’ behavior does not obviously
+
+constitute maltreatment. For instance, while seemingly trying to soothe the infant’s cry, an
+
+unresolved parent approaches her child from behind, sliding both hands around the infant’s neck;
+
+other parents freeze, with a “dead” stare, unblinking, in the face of the infant’s cry for help; some
+
+parents manifest a paradoxically deferential attitude toward the infant; still other seem to seek safety
+
+and comfort from the infant, in a patent inversion of the attachment relationship.
+
+       Interactions involving a strong activation of the attachment system that although not
+
+obviously comprising maltreatment, can induce a failure in the integrative functions of
+
+consciousness at the beginning of life, deserve the name of “early relational trauma” (Schore,
+
+2001). Early relational trauma (leading to attachment disorganization) seems to exert negative
+
+influences on the infant’s developing brain. The right-brain system (connecting limbic emotional
+
+                                                                                                        13
+centers to the neocortex through the cross-road of the orbitofrontal cortex) that is involved in coping
+
+with emotional stressors develops along unfavorable lines in the face of chronic early relational
+
+traumas (Schore, 2001, 2002). This may be the neurological basis for the vulnerability to
+
+dissociative reactions in response to traumatic stressors later in life.
+
+       It is worth noticing that when early attachment disorganization is followed by traumas
+
+inflicted by the parents during childhood and adolescence (very likely, not a rare occurrence), the
+
+new traumatic interactions are a renewal and a confirmation, on a wider scale of intensity, of the
+
+frightening parent-child relationship that was responsible for attachment disorganization since
+
+infancy. On the other hand, it is of the outmost importance to remember that early disorganized
+
+attachment by no means condemns anybody to later dissociative disorders or to vulnerability to
+
+PTSD: during development, many corrective experiences of attachment and many protective factors
+
+may intervene in safeguarding the once disorganized infant from any pathological consequence. For
+
+instance, other attachment figures may provide the child with positive attachment experiences,
+
+thereby exerting a corrective influence on the memory structures of disorganized attachment
+
+developed in the relationship with the “unresolved” parent. Or the parent that had been
+
+“unresolved” may become gradually capable (e.g., thanks to psychotherapy) of elaborating personal
+
+traumatic memories, thereby offering, over the years, a progressively more secure and stable type of
+
+attachment experiences to the child (for a more detailed discussion of the different developmental
+
+pathways that may stem from early disorganized attachment, see Liotti, 1992, p. 201).
+
+
+
+Dissociation within the internal working model of disorganized attachment
+
+       Traumatic experiences, attachment dynamics and dissociative reactions are, in the above
+
+outlined research paradigm, inextricably intertwined, like three threads woven into a single strand.
+
+This strand may extend into developmental pathways leading, in the presence of later traumas, to
+
+complex forms of PTSD, dissociative disorders and BPD. Understanding the memory
+
+
+
+                                                                                                      14
+representation of early relational trauma is necessary in order to follow such developmental
+
+pathways.
+
+       According to attachment theory, the memories of attachment interactions are the basis for
+
+the construction of Internal Working Models (IWM) of self, of the attachment figures and of their
+
+accessibility or inaccessibility. The IWM is conceptualized as a cognitive structure based on
+
+generalized memories of past interactions with the attachment figure and providing expectations as
+
+to his/her future responses to the child’s attachment needs. When activated, an IWM can co-opt all
+
+the typical emotions of the attachment motivational system (fear of separation, anger-protest at
+
+expected separations, sadness, joy at reunion, felt security, etc.). At the beginning of life, the IWM
+
+is a structure of implicit memory (Amini et al., 1996), that is, a part of the type of memory that does
+
+not require language nor consciousness for its operations. (In contrast, explicit memory is conscious
+
+and mediated by language; it can operate both on a semantic level of generalized meanings or on an
+
+episodic level of retrieved specific events). During development, part of the formerly implicit IWM
+
+may become explicit and enter both in the consciously held meanings attributed to attachment needs
+
+and into the narratives of autobiographic memory.
+
+       Although open to modification because of later attachment experiences, the early IWMs
+
+show a remarkable stability over time (presumably because the relational style between child and
+
+parents also remains stable: Bowlby, 1982, 1983). Once established, the IWM guides both
+
+attachment behavior and the appraisal of attachment emotions in self and others. If the attachment
+
+figure has been accessible to the child in real-life situations, the corresponding IWM of the
+
+developing child conveys an inner sense of legitimacy of the attachment emotions and of potential
+
+accessibility of help and comfort even when the attachment figure is not actually present during
+
+distressing experiences. This is the IWM of secure attachments. On the contrary, the IWMs of
+
+insecure attachments (avoidant, ambivalent or disorganized) convey expectations that the
+
+attachment figure will not be available or will respond negatively to requests of help and comfort.
+
+The IWM of disorganized attachment differs from that of avoidant and ambivalent attachments
+
+                                                                                                      15
+because it not only prefigures negative consequences of asking for help and comfort, it also brings
+
+on a dissociated (non-integrated) multiplicity of dramatic and contradictory expectations (Hesse &
+
+Main, 1999, 2000; Hesse et al., 2003; Liotti, 1992, 1995, 1999, 2000, 2002; Main, 1995; Main &
+
+Hesse, 1992; Main & Morgan, 1996).
+
+
+
+Disorganized attachment and the “drama triangle”
+
+       In order to summarize the components of the multiple, dramatic and reciprocally non-
+
+integrated (i.e., dissociated) representations that compose the IWM of disorganized attachment,
+
+Liotti (1999, 2000, 2002) proposed use as a metaphor of the concept of “drama triangle” –
+
+originally formulated by Karpman (1968) with the purpose of identifying the basic structure both of
+
+fairy tales and of tragic plays in classic theater. This metaphor suggests that the disorganized child
+
+has reasons for construing, simultaneously or in quick sequence, both the attachment figure and the
+
+self according to the three basic positions of the drama triangle: persecutor, rescuer and victim. The
+
+attachment figure is represented negatively, as the cause of the ever-growing fear experienced by
+
+the self (self as victim of a persecutor), but also positively, as a rescuer: the parent, although
+
+frightened by unresolved traumatic memories, is nevertheless usually willing to offer comfort to the
+
+child, and the child may feel such comforting availability in conjunction with the fear. Together
+
+with these two opposed representations of the attachment figure (persecutor and rescuer) meeting a
+
+vulnerable and helpless (victim) self, the IWM of disorganized attachment also conveys a negative
+
+representation of a powerful, evil self meeting a fragile or even devitalised attachment figure
+
+(persecutor self, held responsible for the fear expressed by the attachment figure). Moreover, there
+
+is the possibility, for the child, of representing both the self and the attachment figure as the helpless
+
+victims of a mysterious, invisible source of danger. And finally, since the frightened attachment
+
+figure may be comforted by the tender feelings evoked by contact with the child, the implicit
+
+memories of disorganized attachment may also convey the possibility of construing the self as the
+
+powerful rescuer of a fragile attachment figure (i.e., the little child perceives the self as able to
+
+                                                                                                        16
+comfort a frightened adult). Indirect empirical support to this hypothesis is provided by data
+
+indicating that formerly disorganized infants assume, when they reach school age, either caregiving
+
+(rescuer) or punitive (persecutor) attitudes toward their caregivers (Hesse & Main, 2000; Hesse et
+
+al., 2003; Lyons-Ruth & Jacobvitz, 1999).
+
+       The sequence, in the child’s mind, of multiple representations in which both the self and the
+
+other person shift among the three incompatible roles of persecutor, rescuer and victim should be
+
+understood as a metaphorical rendition of the construction of contradictory emotional (i.e., pre-
+
+verbal) schemata that arose during the interactions that led to disorganized attachment. These
+
+emotional-relational mental structures, encoded in implicit memory, are too complex and
+
+intrinsically contradictory to be later synthesized in a unitary, cohesive structure of explicit,
+
+semantic memory. In this sense, the IWM of early disorganized attachment is intrinsically
+
+dissociative (for a general discussion of dissociation in the context of the operations of the
+
+attachment system see Cortina, 2003, p.285-286).
+
+       A dynamic understanding of the role of early attachment disorganization in the vulnerability
+
+to trauma-related disorders requires consideration of the consequences of an intrinsically
+
+dissociated IWM when facing later traumas. This will be the topic of the next two sections.
+
+
+
+The pathway leading from attachment disorganization to trauma-related disorders
+
+       Whenever, from infancy to old age, human beings are called to cope with a traumatic
+
+stressor, their attachment system is activated (i.e., they experience a strong wish to seek help and
+
+comfort). When the operations of the attachment system are guided by an insecure IWM, emotional
+
+reactions to distressing experiences may be made even more painful by the automatic inner
+
+evaluation that one’s wishes for comfort are either illegitimate or produce additional painful
+
+interactions with the attachment figures. Attachment theory suggests, on these grounds, that all
+
+types of insecure IWMs may generically increase the vulnerability to trauma-related emotional
+
+disorders (while, in contrast, the IWM of secure attachment is a protective factor: Adam, Keller &
+
+                                                                                                       17
+West, 1995; Dozier, Stovall & Albus, 1999). The IWM of early disorganized attachment adds
+
+specificity to this generic vulnerability, in the direction of greatly facilitating dissociative reactions
+
+to later traumas throughout the lifespan. Figure 1 summarizes this line of reasoning.
+
+                       /-------------------------------------------------------------------/
+
+                                        insert Figure 1 here
+
+                       /------------------------------------------------------------------/
+
+       The diagram acknowledges that, besides early disorganized attachment, other risk factors
+
+intervene in the pathogenesis of disorders that imply dissociation. Genetic, temperamental and
+
+neurobiological vulnerabilities, the severity and type of traumatic experiences during childhood and
+
+adolescence, and the individual organization of mental defenses against psychological pain may be
+
+legitimately considered among these risk factors. The inclusion of BPD among the disorders whose
+
+pathogenesis involves dissociation is supported by the fact that transient dissociative experiences
+
+are among the DSM-IV diagnostic criteria for BPD (American Psychiatric Association, 1994). The
+
+inclusion of PTSD is justified by the finding that peritraumatic dissociation (i.e., dissociative states
+
+of mind taking place during or immediately after a traumatic experience) is often the first step in the
+
+genesis of this disorder (Birmes et al., 2001; Cardeña et al., 1993; Harvey & Briant, 1998; Marmar
+
+et al., 1994; Shalev et al., 1996; Ursano et al., 1999).
+
+       We should now address an important question: what happens to the dissociated
+
+representations of the drama triangle before they are elicited by a traumatic stressor? Are they
+
+simply dormant, or are they actively kept at bay by some type of mental-relational strategy?
+
+Research findings on the developmental pathways stemming from infant attachment disorganization
+
+suggest that the second possibility is closer to the truth.
+
+
+
+Developmental pathways stemming from early attachment disorganization
+
+       Two prospective longitudinal studies (reviewed by Lyons-Ruth & Jacobvitz, 1999, p. 532-
+
+533) demonstrate a shift from disorganized attachment in infancy to a type of child behavior toward
+
+                                                                                                         18
+the caregiver at age 6 that has been labeled “controlling”. Over 80% of school-age children who
+
+have been classified “disorganized” in infancy display either punitive-dominant or care-giving
+
+behavior toward the attachment figure. These two attitudes have both been subsumed under the
+
+heading “controlling” because through either of them the child can exert active control on “the
+
+parent’s attention and behavior and assume a role which is usually considered more appropriate for
+
+a parent with reference to a child” (Main & Cassidy, 1988, p.418).
+
+       Children who exert control over the parent through a care-giving strategy seem to have
+
+inverted the usual direction of the attachment interaction, as if these children have activated, instead
+
+of their attachment system, their care-giving motivational system. This explanation of the
+
+motivational underpinnings of the controlling strategy is based on the consideration that the care-
+
+giving system is as innate in mammalian species as the care-seeking (i.e., attachment) system (cf.
+
+George & Solomon, 1999; Gilbert, 1989; Panksepp, 1998). Children who control the parent (in
+
+relation to whom their infant attachment was disorganized) through punitive-dominant strategies
+
+seem to have activated another inborn motivational system to substitute for the normal activation of
+
+the attachment system: namely, the evolved system that regulates interactions aimed at defining the
+
+reciprocal roles of dominance and submission in the social group of most mammals species
+
+(identified by ethologists as the social-ranking system: Gilbert, 1989). The interaction of
+
+controlling-punitive children with their parents seems regulated more often by an aggressive
+
+striving for dominance than by care-seeking (Sloman et al., 2002).
+
+       To recapitulate and clarify: when a disorganized IWM dominate them since infancy, the
+
+activities of the attachment system tend to be inhibited throughout development. Another inborn
+
+motivational system (i.e., the social-ranking or the care-giving system) intervenes instead of the
+
+attachment system to regulate the interactions between child and parent. The defensive activation of
+
+another motivational system in response to a disorganized IWM of attachment should not
+
+necessarily be construed as a purely intra-psychic process. Rather, there are empirical observations
+
+suggesting that the choice of the motivational system that defensively substitutes for the attachment
+
+                                                                                                      19
+system is influenced by the caregivers’ attitudes. Parents who show frightened/frightening
+
+behaviors toward their (disorganized) children also display toward them an unusual array of
+
+submissive, care-seeking or even sexualized behaviors (Hesse et al., 2003). These competitively
+
+aggressive, care-giving or sexualized interactions, substituting for the activation of the attachment
+
+system, limit the influence of its IWM on the child’s current thought, emotion and behavior (Liotti,
+
+2000, 2002). They, however, do not correct nor cancel the IWM of disorganized attachment from
+
+the child’s mind, as becomes obvious when the child’s attachment system is activated by conditions
+
+that are able to overcome its relative inhibition. For instance, 6 year old controlling children appear
+
+well oriented and organized in their thinking, behavioral and attentional strategies until they are
+
+shown the pictures of a version of the Separation Anxiety Test (Main, Kaplan & Cassidy, 1985).
+
+These pictures portray situations that are able to powerfully activate a child’s attachment system
+
+(e.g., parents leaving a child alone). Once the system is thus activated, the formerly organized
+
+strategies of thought and behavior of controlling children collapse: the underlying disorganization
+
+(dissociation) of their mental operations is suddenly revealed by the unrealistic, catastrophic and
+
+utterly incoherent narratives produced in response to the pictures (an illustration of these narratives
+
+may be found in Hesse et al., 2003).
+
+       The collapse of the seemingly coherence-yielding strategy of controlling/disorganized
+
+children in the face of a powerful activation of the attachment system illustrates an important
+
+process in the pathogenesis of trauma-related disorders based on a disorganized IWM. The relative
+
+inhibition of the attachment system through the defensive activation of other equally inborn
+
+motivational systems (the care-giving, the social-ranking, and/or perhaps the sexual system, as may
+
+occur in some sexually abusive families) is forcefully suspended under the influence of a powerful
+
+stressor. The coherence of thought, emotion and behavior that has been secured thanks to the
+
+defensive activation of other motivational systems disappears. The intrinsically dissociative IWM of
+
+disorganized attachment intervenes (together with the not always overwhelming emotions evoked
+
+by the stressor) in determining the dissociative response. This type of pathogenetic process may
+
+                                                                                                      20
+explain the intriguing cases of delayed manifestation or exacerbation of a dissociative disorder
+
+years after the original traumatic experience and without any repetition of the trauma.
+
+
+
+Delayed dissociative responses to traumatic memories
+
+        The issue of the veracity of delayed recall of childhood abuse has been the subject of much
+
+legal and scientific controversy in recent years (for recent reviews see, e.g., Bremner, 2003;
+
+McNally, 2003; Mollon, 2002). This controversy may have hindered the exploration of the equally
+
+important theoretical problem posed by the emergence of delayed dissociative reactions to
+
+traumatic memories that had been always accessible to recall. A clinical vignette will illustrate this
+
+problem.
+
+        Diana, a 33 years old physician, is married to a colleague and the mother of a 5 year old child. She always
+remembered that her father had sexually abused her when she was a child. She reacted to the incest by making an
+adamant decision to protect her younger sister from her father’s abusive behavior. She was convinced that she
+had been totally successful in this task. Compulsive care-giving, which may have later motivated her professional
+vocation, seemed the basis of her coping strategy. By devoting herself to preventing and alleviating other
+people’s illnesses, she had been able to attribute meaning to her own sufferings. As an adult, Diana never
+manifested either subjectively felt or observable dissociative symptoms, until she was told (at age 33) by her
+sister, now 25, that she, too, had been sexually abused by their father. Immediately thereafter, Diana started
+having problems with memory and concentration, suffered from sleep disturbances, experienced hypnagogic
+hallucinations and terrifying nightmares almost every night, and panicked because of abrupt episodes of
+depersonalization. She felt threatened by the uncanny feeling of impending grotesque transformations both of
+outside reality and of her own body. Psychotherapeutic work focused successfully on the interpretation of her
+ailments as the consequence of a collapse of her defensive strategy, which had been based on the representation
+of self as an almost omnipotent rescuer. The collapse followed the revelation that, contrary to what she had
+believed for almost twenty years, she had been unable to shelter her sister from her father’s incestuous
+approaches. Having lost confidence in her ability to take care of others, Diana now abruptly realized that she,
+too, needed help and comfort. The experience of this need was frightening to her since it emerged in her
+consciousness together with fragmented, contradictory expectations of how people would respond to it. For
+instance, she imagined that people seemingly available to provide sympathetic listening to her suffering would
+suddenly reveal themselves as “monsters of evilness,” or that they would withdraw because they would come to
+“realize” that she harbored an evil, dissociated alternate personality.
+
+
+
+
+                                                                                                                  21
+       This clinical vignette exemplifies the possibility that major changes in the meaning of
+
+significant relationships precipitate until then latent dissociative processes that had been held at bay
+
+thanks to the defensive inhibition of a disorganized IWM. This possibility may reconcile two
+
+seemingly opposite theses: (1) the thesis that delayed recall of trauma lends credence to the
+
+authenticity of memories, insofar as it is preceded or accompanied by dissociative symptoms, and
+
+(2) the thesis that preexisting dissociative mental processes may amplify and distort traumatic
+
+memories, thereby laying the ground open for the possible construction of false memories of abuse
+
+during retrieval of traumatic memories (for recent renditions of this debate, see Bremner, 2003,
+
+Mollon, 2002, and McNally, 2003). Insofar as the reactivation of a disorganized IWM is
+
+responsible for the appearance of dissociative symptoms, both possibilities may coexist. On the one
+
+hand, the propensity, linked to the disorganized IWM, to construe both self and others according to
+
+the drama triangle may sometimes foster exaggerated memories of evil deeds (e.g., an attachment
+
+figure is reconstructed according to the stereotype of the persecutor, and the self according to the
+
+stereotype of the helpless frightened victim). On the other, the very existence of a disorganized
+
+IWM hints, to the very least, at the veracity of early relational trauma, even when no other seriously
+
+traumatic event might have happened.
+
+
+
+Attachment dynamics and the definition of traumatic stressor
+
+       How the term “trauma” should be defined in conceptualizing the genesis of PTSD is,
+
+according to critics, quite problematic (McNally, 2003). Included among traumas considered
+
+potentially capable of causing PTSD are such qualitatively different events as direct threats to a
+
+person’s life or physical integrity, and merely witnessing other people’s exposure to those threats
+
+(American Psychiatric Association, 1994, p. 427). When two so conceptually distinct classes of
+
+events are both deemed causally related to the same disorder (PTSD), “it will be difficult to identify
+
+common psychobiologic mechanisms underlying symptomatic expression” (McNally, 2003, p.231).
+
+
+
+                                                                                                       22
+       The model of vulnerability to traumas described here addresses McNally’s concerns insofar
+
+as it identifies in the attachment system such a common psychobiologic mechanism, capable of
+
+being activated both by threats to one’s own life or integrity (e.g., fear that help is not forthcoming)
+
+and by witnessing other people similarly threatened (e.g., fear of losing the source of help). If
+
+careful consideration is paid to the contribution of attachment dynamics to the experience of
+
+trauma, then it becomes clear that there is an important difference not between direct and
+
+secondhand exposure to traumatic stressors, but between traumas inflicted by an attachment figure
+
+and traumas inflicted by an anonymous destructive force. Attachment theory predicts that the
+
+dissociating potential of the former is much greater than that of the latter (cf. Freyd, 1997).
+
+       The wide-ranging implications of this prediction for our understanding of the pathogenesis
+
+of trauma-related disorders is illustrated by reflections on recent findings concerning the
+
+intergenerational transmission of traumatic experiences in three-generation families of Holocaust
+
+survivors (Sagi-Schwartz et al., 2003). The daughters of female Holocaust survivors did not differ
+
+from the comparison group in terms of attachment representations, emotional disorders,
+
+vulnerability to PTSD, and maternal behavior toward their infants. This is a surprising finding,
+
+since the AAIs of Holocaust survivors (who lost parents and other family members in the Nazi
+
+concentration camps) still evidenced, after half a century, a very high percentage of unresolved
+
+states of mind concerning attachment (Sagi, van IJzendoorn, Joels & Scharf, 2002).
+
+       What factors could account for this difference from so many other samples (Lyons-Ruth &
+
+Jacobvitz, 1999), in which unresolved states of mind in the parents were strongly linked to
+
+attachment disorganization in the children? The possible answer is that, in these other samples,
+
+many unresolved states of mind were related to traumas inflicted by attachment figures (e.g., incest
+
+and/or parental violence toward the child) while in the Holocaust survivors traumas and losses were
+
+the deed of anonymous human beings. Moreover, before being relegated to the concentration
+
+camps, the children that survived the holocaust had benefited from years of secure attachment to
+
+their parents (Sagi-Schwartz et al., 2003, p.1091). In other words, the female survivors of the
+
+                                                                                                      23
+Holocaust might have been “unresolved” at the AAI classification, without having been
+
+disorganized in their early attachments, while most “unresolved” parents in other AAI samples had
+
+also been disorganized in their early attachments to their maltreating (i.e., frightening) caregivers.
+
+This interpretation, that seems quite plausible, further emphasizes the role of early disorganized
+
+attachment both in inducing long-term dissociative reactions (predictive of complex forms of later
+
+PTSD) after exposure to traumatic stressors, and in the intergenerational transmission of attachment
+
+patterns. This role is entrenched with that of the painful emotional experiences (dictated by the
+
+exposure to trauma) and with that of unresolved memories, and is at least equally important to if not
+
+more important than traumatic distress and unresolved memories of trauma.
+
+       To recapitulate: rather than striving for a definition of traumatic stressors based on the
+
+characteristics of external events, attachment theory suggests regarding trauma as related to
+
+unprocessed affect derived from the attachment figure that lives on in somatic states not integrated
+
+with the flow of explicit memory (Diamond, 2003, p.410). This affect may remain relatively
+
+dormant until, elicited by a stressor, it intervenes in disorganizing the integrative functions of the
+
+patient’s consciousness, memory and identity. Affect remains unprocessed, and therefore recorded
+
+only in bodily states (van der Kolk, 1994), insofar as it is not linked to the structures of semantic
+
+self-knowledge. The structures of semantic self-knowledge more relevant for the processing of
+
+affects are related to the dynamics of attachment (cf. also Schore, 2001, 2002). Unprocessed affects
+
+would be those emerging from disorganized attachments, since they, although related to a single
+
+class of events (i.e., attachment interactions to a specific caregiver), are too contradictory to be
+
+integrated in a unitary semantic structure.
+
+
+
+Some consequences for the psychotherapy of trauma-related disorders
+
+       The main consequence of the thesis of this paper for the psychotherapy of complex trauma-
+
+related disorders is that patients’ interpersonal difficulties should receive at least as much attention
+
+as their traumatic memories, their dissociative experiences and their dissociative defenses. The
+
+                                                                                                         24
+knowledge of the mental processes linked to attachment disorganization should guide the therapist’s
+
+understanding of these difficulties  as illustrated by clinical studies focusing on the
+
+phenomenological overlap and the developmental continuity between infants’ disorganized
+
+attachment behavior and the behavior of adult dissociative patients within the therapeutic
+
+relationship (Fonagy, 1999; Liotti,1993, 1995; Liotti & Intreccialagli, 2003; Muscetta et al.,1999).
+
+Whenever there is a hint that a disorganized IWM is guiding the patient’s way of construing the
+
+therapeutic relationship, the correction of such a model should become a primary aim of the
+
+treatment.
+
+       Clinicians willing to introduce principles of attachment theory into their therapeutic practice
+
+may find it useful to consult the now abundant references on the applications of this theory to
+
+various types of psychotherapy. Cortina (2003), Fonagy (1999, 2001), Holmes (1996), Marrone
+
+(1998), Shane, Shane and Gales (1997) and Slade (1999) provided important contributions to the
+
+integration of principles of attachment theory within the practice of various types of psychodynamic
+
+psychotherapy. Cognitively oriented psychotherapists may find useful suggestions for integrating
+
+attachment principles into their clinical practice by referring to writings by Liotti (1991, 1993),
+
+Liotti and Intreccialagli (2003) and Safran and Segal (1990). Family therapists will find, to the same
+
+effect, invaluable information in the works of Byng-Hall (1995, 1999) and Sloman et al. (2002).
+
+       Guidelines for the psychotherapy of complex trauma-related disorders that, even if they do
+
+not focus explicitly on attachment dynamics, are compatible with the above principles have been
+
+advocated in recent years (for reviews, see Courtois, 1997; Liotti, Mollon & Miti, in press).
+
+According to these guidelines, striving for safety and alliance within the therapeutic relationship
+
+should take precedence, both temporally and in the hierarchy of therapeutic aims throughout the
+
+treatment, over trauma work (i.e., on the reliving of traumatic memories in therapy). Phase-oriented
+
+treatments in which stabilization of the therapeutic relationship precedes trauma work has been
+
+made necessary by the widespread observation that trauma-centered therapies (that are often highly
+
+
+
+                                                                                                      25
+effective for simple types of PTSD) can exacerbate rather than resolve the patients’ difficulties in
+
+complex PTSD.
+
+         At least three psychotherapeutic models for the treatment of trauma-related disorders have
+
+been recently proposed that make explicit reference to attachment disorganization as part of their
+
+rationale for paying more therapeutic attention to the patients’ past and present relational difficulties
+
+than to their traumatic memories (Blizard, 2001; Gold, 2000; Steele, van der Hart & Nijenhuis,
+
+2001).
+
+         The model proposed by Steele, van der Hart and Nijenhuis (2001) focuses on the difference
+
+between secure and insecure dependency (defined in relation to attachment theory), and suggests
+
+striving to overcome “phobias of attachment” be a major focus from the first phase of the treatment.
+
+Steele, van der Hart and Nijenhuis (2001) offer a detailed description of how phobias of attachment
+
+and insecure dependency manifest themselves in patients with disorganized attachment, and provide
+
+many useful hints at therapeutic maneuvers that may deal with these manifestations.
+
+         The model outlined by Blizard (2001) highlights the relational dilemma of attachment
+
+disorganization by stating that in order to maintain attachment, traumatic memories of abuses
+
+suffered at the hand of family members must be dissociated, but to protect the self from abuse, the
+
+need for attachment must be disavowed. This relational dilemma, she asserts, should be addressed
+
+throughout the treatment.
+
+         Contextual therapy of complex PTSD, as Gold (2000) calls his approach, focuses on
+
+developing the patients’ capacities for secure attachments and for more comfortable relationships
+
+through three primary components of the treatment: collaborative relating (i.e., alliance building),
+
+collaborative conceptualization (i.e., dispelling beliefs of being undeserving and incapable of
+
+satisfactory attachment and cooperative interactions) and skill transmission (i.e., social skills
+
+training similar to the one deployed in Dialectic Behavior Therapy: Linehan, 1993). Gold et al.
+
+(2001) describe three cases of DID successfully treated according to the principles of contextual
+
+therapy. These cases illustrate how, when the relational difficulties stemming from disorganized
+
+                                                                                                       26
+attachment are successfully dealt with in psychotherapy, the process of resolving the traumatic
+
+memories and of giving up dissociative defenses is also set into motion.
+
+       The importance of having two or more therapists cooperating in the treatment of patients
+
+with complex trauma-related disorders, as for instance in Dialectic Behavior Therapy (DBT:
+
+Linehan, 1993), is highlighted by the knowledge of attachment disorganization. When the patient is
+
+guided by an IWM of disorganized attachment in construing the therapist’s behavior, the
+
+therapeutic relationship may become unbearably dramatic, changeable and complex for both
+
+partners (Liotti, 1995, 2000, 2002). Untoward countertransferential reactions, or premature
+
+termination of an otherwise promising treatment, may be the unfortunate consequence of the
+
+reactivation of a disorganized IWM within the therapeutic relationship. The presence of a second
+
+therapist (e.g., a group therapist as in DBT) to whom the patient is usually less strongly and less
+
+dramatically attached may be of great assistance in dealing with the difficulties emerging in the first
+
+therapeutic relationship (for a more detailed analysis of this possibility, and some clinical
+
+illustrations, see Liotti, 2000, 2002).
+
+       All these innovative guidelines for the psychotherapy of complex trauma-related disorders
+
+may, in the not too distant future, yield outcomes studies supporting, or falsifying, the hypothesis
+
+implied by the research findings reviewed in this paper: when the contribution of disorganized
+
+attachment to the disorder is successfully dealt with, traumatic memories become more easily
+
+integrated and dissociative defenses are less difficult to relinquish.
+
+
+
+
+                                                                                                       27
+                                    ACKNOWLEDGMENTS
+
+The Author gratefully acknowledges Dr. Steven Gold’s invaluable assistance in making readable
+
+the English of this paper, and in suggesting how to clarify and elaborate themes that otherwise
+
+would have remained obscure or relatively neglected.
+
+
+
+
+                                                                                                  28
+                                             References
+
+Adam, K.S., Keller, A.E., West, M. (1995) Attachment organization and vulnerability to loss,
+
+       separation and abuse in disturbed adolescents. In Goldberg, S., Muir, R. & Kerr, J. (eds),
+
+       Attachment Theory: Social, developmental and clinical perspectives. Hillsdale, NJ: Analytic
+
+       Press. (pp. 309-341).
+
+Ainsworth, M.D.S. (1982) Attachment: retrospect and prospect. In C. M. Parkes & J. Stevenson-
+
+       Hinde (eds.), The place of attachment in human behavior. London: Tavistock (pp. 3-30).
+
+American Psychiatric Association (1994) Diagnostic and statistical manual of mental disorders, 4th
+
+       ed: DSM-IV. Washington,DC: American Psychiatric Association.
+
+Amini, F., Lewis, T., Lannon, R., Louie, A., Baumbacher, G., McGuinnes, T. & Zirker, E. (1996)
+
+       Affect, attachment, memory: Contributions toward psychobiologic integration. Psychiatry,
+
+       59, 213-239
+
+Birmes, P., Carreras, D., Charlet, J.P., Warner, B.A., Lauque, D. & Schmitt, L. (2001) Peritraumatic
+
+       dissociation and posttraumatic stress disorder in victims of violent assault. Journal of
+
+       Nervous and Mental Disease, 189: 796-798.
+
+Blizard, R.A. (2001) Masochistic and sadistic ego states: Dissociative solutions to the dilemma of
+
+       attachment to an abusive caregiver. Journal of Trauma & Dissociation, 2: 37-58.
+
+Bowlby, J. (1979) The making and breaking of affectional bonds. London: Tavistock Publications.
+
+Bowlby, J. (1982) Attachment and loss. Vol.1: Attachment (2nd edition). London: Hogarth Press.
+
+Bowlby, J. (1988) A secure base. London: Routledge.
+
+Bremner, J.D. (2003) Clinical, legal and scientific issues related to delayed recall of childhood
+
+       abuse. Bridging Eastern and Western Psychiatry, 1: 39-46.
+
+Byng-Hall, J. (1995) Creating a secure family base: some implications of attachment theory for
+
+       family therapy. Family Process, 34: 45-58.
+
+Byng-Hall, J. (1999) Family and couple therapy: Toward greater security. In Cassidy, J. & Shaver
+
+       P.R. (eds), Handbook of attachment. New York: Guilford (pp. 625-647).
+
+                                                                                                     29
+Cardena, E. & Spiegel, D. (1993) Dissociative reactions to the San Francisco Bay Area earthquake
+
+       of 1989. American Journal of Psychiatry, 150: 474-478.
+
+Carlson, E.A. (1998) A prospective longitudinal study of disorganized/disoriented attachment.
+
+       Child Development, 69: 1970-1979.
+
+Cortina, M. (2003) Defensive processes, emotions and internal working models: A perspective from
+
+       attachment theory and contemporary models of the mind. In Cortina, M. & Marrone, M.
+
+       (eds.) Attachment theory and the psychoanalytic process. London: Whurr (pp.271-306).
+
+Courtois, C.A. (1997) Healing the incest wound: A treatment update with attention to the
+
+       recovered- memory issue. American Journal of Psychotherapy, 51: 464-496.
+
+Diamond, N. (2003) Attachment, trauma and the body. In Cortina, M. & Marrone, M. (eds.)
+
+       Attachment theory and the psychoanalytic process. London: Whurr (pp.409-429).
+
+Dozier, M., Stovall, K.C. & Albus, K.E. (1999) Attachment and psychopathology in adulthood. In
+
+       Cassidy, J. & Shaver P.R. (eds), Handbook of attachment. New York: Guilford (pp. 497-
+
+       519).
+
+Fonagy, P. (1999) The transgenerational transmission of holocaust trauma: Lessons learned from
+
+       the analysis of an adolescent with obsessive-compulsive disorder. Attachment and Human
+
+       Development, 1: 92-114.
+
+Fonagy, P. (2001) Attachment theory and psychoanalysis. New York: Other Press.
+
+Freyd, J.J. (1997) Betrayal trauma: The logic of forgetting child abuse. Cambridge, MA: Harvard
+
+       University Press.
+
+George, C. & Solomon, J. (1999) Attachment and caregiving: The caregiving behavioral system. In
+
+       Cassidy, J. & Shaver P.R. (eds), Handbook of attachment. New York: Guilford (pp. 649-
+
+       671).
+
+Gilbert, P. (1989) Human nature and suffering. London: LEA.
+
+Gold, S.N. (2000) Not trauma alone: Therapy for child abuse survivors in family and social
+
+       context. Philadelphia: Brunner/Routledge.
+
+                                                                                                  30
+Gold, S.N., Elhai, J.D., Rea, B.D., Weiss, D., Masino, T., Morris, S.L. & McInich, J. (2001)
+
+       Contextual treatment of dissociative identity disorder: Three case studies. Journal of
+
+       Trauma & Dissociation, 2: 5-35.
+
+Gunderson, J.C. & Sabo, A. (1993) The phenomenological and conceptual interface between
+
+       borderline personality disorder and post-traumatic stress disorder. American Journal of
+
+       Psychiatry, 150: 19-27.
+
+Harvey, A.G. & Briant, R.A. (1998) The effects of attempted though suppression in acute stress
+
+       disorder. Behavior Research and Therapy, 36: 583-590.
+
+Hesse, E. (1996) Discourse, memory and the Adult Attachment Interview: A note with emphasis on
+
+       the emerging cannot classify category. Infant Mental Health Journal, 17: 4-11.
+
+Hesse, E. (1999) The Adult Attachment Interview: Historical and current perspectives. In Cassidy,
+
+       J. & Shaver P.R. (eds), Handbook of attachment. New York: Guilford (pp. 395-433).
+
+Hesse, E. & van IJzendoorn, M.H. (1999) Propensities toward absorption are related to lapses in the
+
+       monitoring of reasoning or discourse during the Adult Attachment Interview: A preliminary
+
+       investigation. Attachment and Human Development, 1: 67-91.
+
+Hesse, E. & Main, M. (2000) Disorganized infant, child and adult attachment: Collapse in
+
+       behavioral and attentional strategies. Journal of the American Psychoanalytic Association,
+
+       48: 1097-1127.
+
+Hesse, E., Main, M., Abrams, K.Y. & Rifkin, A. (2003) Unresolved states regarding loss or abuse
+
+       can have “second-generation” effects: Disorganized, role-inversion and frightening ideation
+
+       in the offspring of traumatized non-maltreating parents. In D.J. Siegel & M.F. Solomon
+
+       (eds), Healing trauma: Attachment, mind, body and brain. New York: Norton (pp.57-106).
+
+Holmes, J. (1996) Attachment, intimacy, autonomy: Using attachment theory in adult
+
+       psychotherapy. Northville, NJ: Jason Aronson.
+
+Karpman, S. (1968) Fairy tales and script drama analysis. Transactional Analysis Bulletin, 7: 39-43.
+
+Kessler, R.C., Sonnega, A. Bromet, E., Hughes, M. & Nelson, C.B. (1995) Posttraumatic stress
+
+                                                                                                    31
+       disorder in the National Comorbidity Survey. Archives of General Psychiatry, 52: 1048-
+
+       1060.
+
+Kulka, R.A., Schlenger, W.E., Fairbank, J.A., Hough, R.L., Jordan, B.K., Marmar, C.R. & Weiss,
+
+       D.S. (1990) Trauma and the Vietnam war generation: Report of findings from the National
+
+       Vietnam Veterans’ Readjustment Study. New York: Brunner/Mazel.
+
+Lakatos, K., Toth, I., Nemoda, Z., Ney, K., Sasvari, M. & Gervai, J. (2000) Dopamine D4 receptor
+
+       gene polymorphism as associated with attachment disorganization in infants. Molecular
+
+       Psychiatry, 5: 633-637.
+
+Lichtenberg, J.D., Lachmann, F. & Fosshage, D. (1992) Self and motivational systems: Toward a
+
+       theory of technique. Hillsdale, NJ: The Analytic Press.
+
+Linehan, M. M. (1993) Cognitive-behavioral treatment of borderline personality disorder. New
+
+       York: Guilford Press.
+
+Liotti, G. (1991) Patterns of attachment and the assessment of interpersonal schemata:
+
+       Understanding and changing difficult patient-therapist relationships in cognitive
+
+       psychotherapy. Journal of Cognitive Psychotherapy, 5: 105-115.
+
+Liotti, G. (1992) Disorganized/ disoriented attachment in the etiology of the dissociative
+
+       disorders. Dissociation, 5: 196-204.
+
+Liotti, G. (1993) Disorganized attachment and dissociative experiences: An illustration of the
+
+       developmental-ethological approach to cognitive therapy. In K.T. Kuehlvein & H. Rosen
+
+       (Eds.) Cognitive therapies in action (pp.213-239). San Francisco: Jossey-Bass.
+
+Liotti, G. (1995) Disorganized/disoriented attachment in the psychotherapy of the dissociative
+
+       disorders. In S. Goldberg, R. Muir & J. Kerr (eds.), Attachment theory: Social,
+
+       developmental and clinical perspectives. Hillsdale, NJ: Analytic Press (p.343-363).
+
+Liotti, G. (1999) Disorganized attachment as a model for the understanding of dissociative
+
+       psychopathology. In: J. Solomon & C. George (eds.), Attachment Disorganization. New
+
+       York: Guilford Press (pp. 291-317).
+
+                                                                                                 32
+Liotti, G. (2000) Disorganized attachment, models of borderline states, and evolutionary
+
+       psychotherapy. In P. Gilbert, K. Bailey (Eds.) Genes on the couch: Essays in evolutionary
+
+       psychotherapy. Hove: Psychology Press (pp.232-256) .
+
+Liotti, G. (2002) The inner schema of borderline states and its correction during psychotherapy: A
+
+       cognitive-evolutionary approach. Journal of Cognitive Psychotherapy, 16: 310-325.
+
+Liotti, G. & Intreccialagli, B. (2003) Disorganized attachment, motivational systems and
+
+       metacognitive monitoring in the treatment of a patient with borderline syndrome. In Cortina,
+
+       M. & Marrone, M. (eds.) Attachment theory and the psychoanalytic process. London: Whurr
+
+       (pp.356-381).
+
+Liotti, G., Mollon, P. & Miti, G. (in press) Dissociative disorders. In: Gabbard, G., Beck, J. &
+
+       Holmes, J. (eds.) Oxford textbook of psychotherapy. Oxford: Oxford University Press.
+
+Liotti, G., Pasquini, P. & The Italian Group for the Study of Dissociation (2000) Predictive factors
+
+       for borderline personality disorder: Patients’ early traumatic experiences and losses suffered
+
+       by the attachment figure. Acta Psychiatrica Scandinavica, 102: 282-289.
+
+Lyons-Ruth, K., & Jacobvitz, D. (1999) Attachment disorganization: Unresolved loss, relational
+
+       violence and lapses in behavioral and attentional strategies. In J. Cassidy & P.R. Shaver
+
+       (eds.) Handbook of attachment. New York: Guilford Press (pp. 520-554).
+
+Main, M. (1995) Recent studies in attachment: Overview, with selected implications for clinical
+
+       work. In S. Goldberg, R. Muir & J. Kerr (Eds), Attachment Theory: Social, developmental
+
+       and clinical perspectives. Hillsdale, NJ: Analytic Press. (pp. 407-474).
+
+Main, M. & Cassidy, J. (1988) Categories of response to reunion with the parent at age six:
+
+       Predicted from infant attachment classification and stable over a one-month period.
+
+       Developmental Psychology, 24: 415-426.
+
+Main, M., Hesse, E. (1990) Parents' unresolved traumatic experiences are related to infant
+
+
+
+                                                                                                   33
+       disorganized attachment status: Is frightened and/or frightening parental behavior the linking
+
+       mechanism? In M.T. Greenberg, D. Cicchetti & E.M. Cummings (eds.), Attachment in the
+
+       preschool years. Chicago: Chicago University Press (p. 161-182).
+
+Main, M., Kaplan, N. & Cassidy, J. (1985) Security in infancy, childhood and adulthood: A move
+
+       to the level of representation. Monographs of the Society for Research in Child
+
+       Development, 50: 66-104.
+
+Main, M. & Morgan, H. (1996) Disorganization and disorientation in infant Strange Situation
+
+       behavior: Phenotypic resemblance to dissociative states? In L. Michelson & W. Ray (eds.),
+
+       Handbook of dissociation. New York: Plenum Press (p.107-137).
+
+Main, M. & Solomon, J. (1990) Procedures for identifying infants as disorganized/ disoriented
+
+       during the Ainsworth Strange Situation. In M.T. Greenberg, D. Cicchetti & E.M. Cummings
+
+       (Eds.), Attachment in the preschool years. Chicago: Chicago University Press (pp. 121-160).
+
+Marmar, C.R., Weiss, D.S., Schlenger, W.E., Fairbank, J.A., Jordan, B.K., Kulka, R.A. & Hough,
+
+       R.L. (1994) Peritraumatic dissociation and posttraumatic stress in male Vietnam theater
+
+       veterans. American Journal of Psychiatry, 151: 902-907.
+
+Marrone, M. (1998) Attachment and interaction. London: Jessica Kingsley.
+
+McNally, R.J. (2003) Progress and controversy in the study of post-traumatic stress disorder.
+
+       Annual Review of Psychology, 54: 229-252
+
+Mollon, P. (2002). Remembering Trauma. A Psychotherapist’s Guide to Memory and Illusion. 2nd
+
+       Edition. London: Whurr.
+
+Muscetta, S., Dazzi, N., DeCoro, A., Ortu, F., & Speranza, A.M. (1999) States of mind with respect
+
+       to attachment and change in a psychotherapeutic relationship. A study of the coherence of
+
+       transcript in a short-term psychotherapy with an adolescent. Psychoanalytic Inquiry, 19:
+
+       885-921.
+
+North, C.S., Nixon, S.J., Shariat, S., Mallonee, S., & MacMillen, J.C. (1999) Psychiatric disorders
+
+
+
+                                                                                                   34
+       among survivors of the Oklahoma city bombing. Journal of the American Medical
+
+       Association, 282: 755-762.
+
+Ogawa, J. R., Sroufe, L.A., Weinfield, N.S., Carlson, E.A. & Egeland, B. (1997) Development and
+
+       the fragmented self: Longitudinal study of dissociative symptomatology in a nonclinical
+
+       sample. Development and Psychopathology, 9: 855-879.
+
+Panksepp, J. (1998) Affective neuroscience: The foundations of human and animal emotions.
+
+       Oxford: Oxford University Press.
+
+Paris, J. (1996) Social context and the personality disorders.
+
+Pasquini, P., Liotti, G., Mazzotti, E., Fassone, G., Picardi, A. & The Italian Group for the Study of
+
+       Dissociation (2002) Risk factors in the early family life of patients suffering from
+
+       dissociative disorders. Acta Psychiatrica Scandinavica, 105: 110-116.
+
+Polan, H.J. & Hofer, M.A. (1999) Psychobiological origins of infant attachment and separation
+
+       responses. In Cassidy, J. & Shaver, P.R. (eds) Handbook of attachment. New York: Guilford
+
+       Press (pp. 162-180).
+
+Safran, J.D. & Segal, Z.V. (1990) Interpersonal process in cognitive therapy. New York: Basic
+
+       Books.
+
+Sagi, A., van IJzendoorn, M.H., Joels, T. & Scharf, M. (2002) Disorganized reasoning in Holocaust
+
+       survivors. American Journal of Orthopsychiatry, 72: 194-203
+
+Sagi-Schwartz, A., van IJzendoorn, M.H., Grossmann, K.E., Joels, T., Grossmann, K., Scharf, M.,
+
+       Koren-Karie, N. & Alkalay, S. (2003) Attachment and traumatic stress in female Holocaust
+
+       child survivors and their daughters. American Journal of Psychiatry, 160: 1086-1092.
+
+Schore, A.N. (2001) The effects of early relational trauma on right brain development, affect
+
+       regulation and infant mental health. Infant Mental Health Journal, 22: 201-269.
+
+Schore, A.N. (2002) Dysregulation of the right brain: A fundamental mechanism of traumatic
+
+       attachment and the psychopathogenesis of posttraumatic stress disorder. Australian and
+
+       New Zealand Journal of Psychiatry, 36: 9-30.
+
+                                                                                                    35
+Shalev, A.Y, Peri, T., Canetti, L. & Schreiber, S. (1996) Predictors of PTSD in injured trauma
+
+       survivors: A prospective study. American Journal of Psychiatry, 153: 219-225.
+
+Shane, M., Shane, E. & Gales, M. (1997) Intimate attachments: Toward a new Self-Psychology.
+
+       New York: Guilford Press.
+
+Slade, A. (1999) Attachment theory and research: Implications for the theory and practice of
+
+       individual psychotherapy with adults. In Cassidy, J. & Shaver, P.R. (eds) Handbook of
+
+       attachment. New York: Guilford Press (pp.575-594).
+
+Sloman, L. Atkinson, L., Milligan, K. & Liotti, G. (2002) Attachment, social rank, and affect
+
+       regulation: Speculations on an ethological approach to family interaction. Family Process,
+
+       41: 479-493.
+
+Solomon, J. & George, C. (1999) The place of disorganization in attachment theory. In Solomon, J.
+
+       & George, C. (eds.) Attachment disorganization. New York: Guilford Press (pp. 3-32).
+
+Solomon, Z., Kotler, M. & Mikulincer, M. (1988) Combat-related post-traumatic stress disorder
+
+       among second-generation Holocaust survivors. American Journal of Psychiatry, 145: 865-
+
+       868.
+
+Steele, H. & Steele, M. (2003) Clinical uses of the Adult Attachment Interview. In Cortina, M. &
+
+       Marrone, M. (eds.) Attachment theory and the psychoanalytic process. London: Whurr
+
+       (pp.107-126).
+
+Steele, K., Van der Hart, O. & Nijenhuis, E.R. (2001) Dependency in the treatment of complex
+
+       posttraumatic stress disorder and dissociative disorders. Journal of Trauma &Dissociation,
+
+       2: 79-115.
+
+Ursano, R.J., Fullerton, C.S., Epstein, R.S., Crowley, B., & Vance, K. (1999) Peritraumatic
+
+       dissociation and posttraumatic stress disorder following motor vehicle accidents. American
+
+       Journal of Psychiatry, 156: 1808-1810.
+
+van der Kolk, B. (1994) The body keeps the score: Memory and the evolving psychobiology of
+
+       post traumatic stress. Harvard Review of Psychiatry, 1: 253-265.
+
+                                                                                                    36
+Yehuda, R., Halligan, S.L. & Grossman, R. (2001) Childhood trauma and risk for PTSD:
+
+      Relationship to intergenerational effects of trauma, parental PTSD, and cortisol excretion.
+
+      Development and Psychopathology, 13: 733-753.
+
+
+
+
+                                                                                                    37
+                               FIGURE 1
+
+
+
+
+                  Attach
+                  ment
+Trauma            System        A pre-existing IWM of                  Emotional shifts of
+                                disorganized attachment is             the drama triangle
+                                activated                              (implicit memory)
+
+
+
+
+                PTSD                                                      Dissociative
+                Dissociative                                              experiences
+                Disorders         Different adjunctive risk facctors      & emotional
+                BPD                                                       disregulation
+
+
+
+
+   Figure 1.: A diagram of the sequence leading to trauma-related disorders
+   through the mediation of the IWM of disorganized attachment
+
+
+
+
+                                                                                             38
+                                                              ABSTRACT
+
+
+                         During the past decade, research findings, theoretical reflections and clinical experiences
+
+   wove together the themes of attachment disorganization, dissociative processes and vulnerability to
+
+   trauma-related emotional disorders. The resulting unitary perspective is captured in this paper by an
+
+   overview of inquiries on unresolved traumatic memories based on the Adult Attachment Interview
+
+   (AAI) and of studies on the sequelae of early disorganized attachments. To illustrate the intriguing
+
+   clinical implications of this unitary perspective, the paper considers such topics as vulnerability to
+
+   complex trauma-related disorders, delayed dissociative responses to past traumatic memories, and
+
+   the definition of psychological trauma. Some psychotherapeutic implications of the interplay
+
+   between trauma-related disorders and attachment disorganization are briefly addressed in the
+
+   concluding section.
+
+
+
+
+                                                                                                                       39
+
+View publication stats
+
