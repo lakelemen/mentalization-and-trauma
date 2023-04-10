@@ -1,0 +1,515 @@
+This article was downloaded by: [Adams State University]
+On: 16 October 2014, At: 12:55
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Attachment & Human Development
+Publication details, including instructions for authors and
+subscription information:
+http://www.tandfonline.com/loi/rahd20
+Attachment and development: A
+prospective, longitudinal study from
+birth to adulthood
+L. Alan Sroufe a
+a University of Minnesota , Minneapolis, MN, USA
+Published online: 16 Aug 2006.
+To cite this article:  L. Alan Sroufe (2005) Attachment and development: A prospective,
+longitudinal study from birth to adulthood, Attachment & Human Development, 7:4, 349-367, DOI:
+10.1080/14616730500365928
+To link to this article:  http://dx.doi.org/10.1080/14616730500365928
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the
+“Content”) contained in the publications on our platform. However, Taylor & Francis,
+our agents, and our licensors make no representations or warranties whatsoever as to
+the accuracy, completeness, or suitability for any purpose of the Content. Any opinions
+and views expressed in this publication are the opinions and views of the authors,
+and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content
+should not be relied upon and should be independently verified with primary sources
+of information. Taylor and Francis shall not be liable for any losses, actions, claims,
+proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or
+howsoever caused arising directly or indirectly in connection with, in relation to or arising
+out of the use of the Content.
+This article may be used for research, teaching, and private study purposes. Any
+substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing,
+systematic supply, or distribution in any form to anyone is expressly forbidden. Terms &
+Conditions of access and use can be found at http://www.tandfonline.com/page/terms-
+and-conditions
+
+Attachment and development: A prospective, longitudinal
+study from birth to adulthood
+L. ALAN SROUFE
+University of Minnesota, Minneapolis, MN, USA
+Abstract
+There is much to digest in a 30 year longitudinal study of the developing person (Sroufe, Egeland,Carlson, & Collins, 2005a). The following paper summarizes some key points regarding the place of infantattachment in the developmental course. It is argued that understanding the role of attachment entails
+grasping the organizational nature of the attachment construct and embracing a non-linear transactional
+model. Using such concepts, attachment history was shown in the Minnesota study to be clearly related tothe growth of self-reliance, the capacity for emotional regulation, and the emergence and course of social
+competence, among other things. Moreover, speciﬁc patterns of attachment had implications for both
+normal development and pathology. Even more important than such linkages, however, study of the placeof early attachment in later adaptation reveals much about developmental processes underlying bothcontinuity and change. Findings are overviewed concerning the complex links between attachment and
+ultimate outcomes and the preservation of early patterns even during times of change. In all, these ﬁndings
+have implications both for future research and for clinical application.
+Keywords: Attachment, continuity, developmental process, early experience and development,
+developmental organization
+Behavior is quite as much a matter of growth as is stature. Its qualitative variants and their
+permutations and combinations are beyond human reckoning; yet their organization andpatterning is at all times unitary and coherent (Goodenough, 1945, p. vii).
+Introduction
+For 30 years we have been wrestling with a key question in developmental psychology;
+namely, do individual patterns of adaptation emerge in a coherent manner, step-by-step,beginning in infancy (Sroufe et al., 2005a)? While there are many ways to characterize ourstudy and to frame its theoretical roots, one clear goal was to evaluate in a systematic way themajor propositions of attachment theory.
+It is well known that Bowlby put forward two central hypotheses; ﬁrst, that individual
+differences in the quality or effectiveness of infant–caregiver attachment relationships were
+largely the product of the history of interaction with the caregiver, and second, that variations
+in attachment quality were the foundation for later individual differences in personality. We
+Correspondence: L. Alan Sroufe, Institute of Child Development, University of Minnesota, 51 East River Road, Minneapolis, MN
+55455, USA. E-mail: srouf001@umn.eduAttachment & Human Development ,
+December 2005; 7(4): 349 – 367
+ISSN 1461-6734 print/ISSN 1469-2988 online /C2112005 Taylor & Francis
+DOI: 10.1080/14616730500365928
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+set out to test both of these hypotheses, with emphasis on the second one because it was so
+much the more prodigious task, requiring a 30-year rather than a 1-year study.
+It may not be as widely known that Bowlby also proposed a particular viewpoint on
+development. This was a non-linear, transactional model, akin to various systems
+perspectives (e.g., Fogel, 1993; Sameroff & Chandler, 1975; Thelen, 1989) and toGottlieb’s (1971) concept of probabilistic epigenesis. Bowlby’s viewpoint is most succinctlysummarized by a quotation from the second volume, where he says that the developmentalpathway chosen ‘‘. . . turns at each and every stage of the journey on an interaction betweenthe organism as it has developed up to that moment and the environment in which it thenﬁnds itself’’ (Bowlby, 1973, p. 412). In this viewpoint, it is not only presumed that bothhistory and present circumstances are important, but also that established patterns of
+adaptation may be transformed by new experiences while, at the same time, new experiences
+are framed by, interpreted within, and even in part created by prior history of adaptation.Bowlby’s was a dynamic view of development.
+In addition to examining the validity of Bowlby’s more speciﬁc hypotheses, we sought to
+illustrate the heuristic value of this rich and complex viewpoint on development. These tasksactually are interrelated. To show convincingly, for example, that infant attachmentvariations lead to variations in personality, one must carry out a complex, multifacetedlongitudinal study of children, their families, and their surrounding circumstances, with
+ongoing assessments each and every step of the way. Only in this way can one control for
+potentially confounding factors that could equally well explain any obtained outcomes.Jointly studying the history of adaptation and changing circumstances age by age was part ofour strategy from the beginning.
+The problem of continuity
+The problems we faced as we began our study were the very same as those being faced by
+developmental psychology as a whole in the mid-1970s. There was general agreement that
+individuals differed at every age. The problem was in agreeing how such variations should becharacterized and, in particular, within what conceptualization of variation (if any) would itbe possible to show continuity from one age to the next in such individual differences.Without being able to get a handle on the problem of continuity, it would not seem likelythat variations in infant attachment could possibly predict later variations in personality. Asit turned out, conceptualizations of individual differences in attachment put forward byBowlby and Ainsworth not only provided a means for measuring attachment quality but
+presented clues for solving the continuity problem as well. The continuity problem, and keys
+to its resolution, may be illustrated by considering some brief descriptions of individualvariations in infancy and at ages 2 and 5 years.
+Some infants, those that Ainsworth referred to as secure in their attachment, show a
+smoothly functioning balance between attachment and exploratory behaviors (Ainsworth,Blehar, Waters, & Wall, 1978). In a moderately novel setting, with the primary caregiverpresent, they become eagerly involved with available toys, perhaps sharing their play but notrequiring constant reassurance. When left brieﬂy by the caregiver, either ﬁrst with a stranger
+or later alone, they may or may not be frankly distressed. In any case, they are affected by the
+separation and their exploration suffers. Moreover, they are active in reconnecting when thecaregiver returns, either immediately seeking physical proximity or contact or activelyshowing toys, greeting, or otherwise interacting with the caregiver. This activity on the partof the infant is effective and leads to a return to play and exploration. Some other infants,those referred to as showing anxious/resistant attachment, may show an undue focus on the350 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+caregiver even with minimal external stress and may seek unremitting contact when stress is
+greater, or they may show weak and ineffective efforts to alleviate their distress. Others still,those who show anxious/avoidant attachment, may be ineffective in using the caregiver as a
+base for comforting or reassurance following clear stress (as when being left alone). In the
+case of either anxious group, exploration is clearly compromised, especially in reunionsfollowing separations. Once such variations in attachment patterns were pointed out byAinsworth, they were readily apparent to others.
+Likewise, we have described variations in behavior of toddlers in a tool problem-solving
+situation, in the presence of their primary caregivers. Some 2-year-olds approach theproblems with great enthusiasm. They show obvious joy in task mastery, and they are eagerand persistent. When their own resources are exhausted, they effectively seek help and
+support from their caregivers. Others, in the same tool problem situation, give up quickly
+after only weak efforts, or become easily frustrated, and are fussy, whine a great deal, or arepetulant. Still others may fail to seek help they need, ignore their caregiver’s suggestions, oreven seek help from the experimenter instead of the caregiver. They may be oppositional orpassively non-compliant when help is offered. These, too, are striking and obviousvariations.
+Finally, some 4½-year-olds observed in a preschool setting are enthusiastic participants in
+the peer group and are well regarded by teachers. They approach and respond to the
+overtures of other children with positive affect, are empathic when others are in distress, and
+can sustain coordinated interactions. They can both lead and follow. They are a delight toteachers because of this social competence and because they readily follow classroom rulesand ﬂexibly adjust their behavior to ﬁt the particular circumstances. They are self-directedand yet respond eagerly to activities introduced by teachers. Other preschoolers, in contrast,are isolated or aggressive, or impulsive and unresponsive to socialization, or are undulyreliant on the teachers for nurturance and guidance. Again, such individual differences arewell known to teachers and obvious to observers.
+In presenting these variations in child behavior as we have, and by beginning with
+Ainsworth’s descriptions of patterns of behavior in infancy, the continuity problem is already
+partially solved. To see this, consider for a moment the trait-like characterizations of infantbehavior that preceded Ainsworth. Some infants were described as crying or vocalizing a lotor a little, others as seeking a lot or a little proximity, and so forth, without regard to context.But such frequencies were shown to be highly unstable across both time and situations (e.g.,Masters & Wellman, 1974; Waters, 1978). Clearly, assessed this way they could not predictvariations of interest in the preschool years and beyond. In fact, it is unlikely that any infant
+behavior, without reference to context and its organization with regard to the caregiver,
+could predict later behavior very well. Infant behaviors are not only temporally unstable inthe short run, but they also change notably with development. Clinging to a caregiver isquite common in 12-month-olds who have been brieﬂy left alone in a novel setting; it is rarewith 3-year-olds and almost never happens with 5-year-olds. Emotional dependency, ingeneral, shows dramatic developmental changes. Infants are supposed to be highly
+dependent. It is a natural, universal state in infancy. Seeking physical closeness and contactis normative and functional. Five-year-olds do not need physical reassurance nearly as
+much. Predicting dependency in preschool from variations in infant dependency would thus
+seem very difﬁcult, and indeed it is (Kagan & Moss, 1962). As contrasting examples,aggression and empathic responsiveness to peers are quite common at age 5 years, but not atall common in the ﬁrst year. Linear predictions, based on frequencies of isomorphicbehaviors, would again seem doomed. Infants have neither the capacity for genuineprosocial behavior or for intentional, hostile aggression. However, at the level of patterns ofA longitudinal study of attachment and development 351
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+behavior, as we have described them at the three age periods, continuity of individual
+functioning may still obtain. Indeed, in our work we have demonstrated strong linkagesacross ages using such characterizations. Even differences in dependency, aggression, and
+empathy in the preschool and middle childhood periods, key aspects of emerging
+personality, are strongly predictable from infancy when Ainsworth’s patterns of behaviorare used (Sroufe et al., 2005a).
+An organizational perspective on development
+We formalized and extended Ainsworth’s concept of patterns of behavior into what we have
+referred to as an ‘‘organizational perspective’’ on development (e.g., Sroufe, 1979; Sroufe &
+Waters, 1977; Sroufe, Waters, & Matas, 1974). A major premise of this perspective is that the
+central feature of behavior is its organization: with other behaviors, with regard to context,and with regard to the salient issues of a particular developmental period. The meaning of abehavior depends on when and in what circumstances it occurs, what other behaviors areoccurring concurrently, and what its function is in the ongoing adaptation of the organism.Further, development is best characterized as changes in behavioral organization, not simplythe addition of behaviors. Finally, salient individual differences, those with signiﬁcance forsubsequent functioning, are best deﬁned in terms of differences in the organization of
+behavior with regard to the developmental challenges of the particular era.
+Our task, then, was to draw upon the literature to conceptualize the salient issues of each
+developmental period, to deﬁne constructs at the appropriate level of complexity forcapturing organization with respect to these issues, to deﬁne and assess patterns ofbehavioral organization that were functional and non-functional, and then to examinecontinuity in functioning. While this appears to be straightforward, the task is made morechallenging by the fact that complexity of organization increases with age. What could onemeasure in infancy that would be at a commensurate level of complexity for predicting
+patterns of individual adaptation in later childhood, adolescence, or adulthood? As
+anticipated by Ainsworth and others (e.g., Sander, 1975), the answer was that theorganization of the behavior of the infant–caregiver dyad was at this level of complexity. Ourhypothesis, as was Bowlby’s, was that the quality, nature, and effectiveness of the infant–caregiver behavioral organization would forecast the later evolving, complex organizationthat we know as personality.
+In our approach, we deﬁned each age in its own terms. We did not attempt to measure
+infant–caregiver attachment at each age (though we did assess attachment representation at
+multiple times). Our goal was not to demonstrate the stability of attachment, but rather to
+illustrate the coherent emergence of the self or personality. Thus, we deﬁned a changing setof issues, ranging from self-regulation, curiosity, and effective entry into the peer group inpreschool, to real-world competence, loyal friendships, and coordination of friendship andgroup functioning in middle childhood, to identity, intimacy, and self-reﬂection by lateadolescence. The proposal was that if the issues are properly chosen at each phase, and ifindividual variations with regard to these developmental issues are properly assessed, thenthe particular organization shown by individuals in facing the challenges of one age will
+forecast probabilistically the pattern of organization shown at the next.
+We adopted a hierarchical view of development (see Werner, 1948). Functioning in each
+phase of development incorporates and builds upon prior adaptation yet, in facing emergingissues of a new period, the possibility of fundamental transformation remains. In fact, inarticulating our view of the process of development (Sroufe et al., 2005a, Chapter 11), wehave pointed out that development will always involve drawing on prior adaptation, and thus352 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+entail continuity, and yet continuity, because of development, always entails change. Our
+hierarchical viewpoint leads to a particular position on the saliency of attachment. We viewattachment in the context of a number of important functions played by parents, peers, and
+siblings (Sroufe, Egeland, Carlson, & Collins, 2005b). Many of the important functions
+fulﬁlled by parents (e.g., providing guidance and limits, socialization of emotionalexpression, supporting relationships with peers, etc.) are not part of the attachment systemand are best not assimilated to it. Nonetheless, even within this broadened view, attachmentis critical and has a central place in the hierarchy of development because of its primacy. Theinfant–caregiver attachment relationship is the core, around which all other experience isstructured, whatever impact it may have. Thus, we came to a position that early experienceis never lost, however much transformation occurs in later development.
+As will be seen below, in our elaborated view of development the role of attachment is
+therefore not trivialized. Recognizing, for example, the important role of peer experiences inforging many aspects of social competence, does not negate the place of attachment (Sroufeet al., 2005b). In fact, it opens up new ways to think about the impact of attachment onsocial competence, to more powerfully predict mature variations in social functioning bycombining measures of attachment and peer experience, and to emphasize a concern withdevelopmental process. As it turns out, sometimes attachment exerts its inﬂuence indirectlyby supporting early effective commerce with peers which then enables the learning and
+practicing of many important attitudes and skills. Sometimes attachment history and peer
+experiences each predict independently to certain social outcomes, with great combinedpower. Finally, there are certain aspects of social functioning that are more closely related toattachment history and others that are more closely related to prior peer experiences. Suchﬁndings help us understand more about the nature and functions of both peer relationshipsand of attachment itself. Promoting such understanding was more important to us, and webelieve to Bowlby, than was merely demonstrating that attachment was important. TheMinnesota study was carried out with an eye on the place of attachment in the broader
+process of development.
+Outline of the Minnesota study
+In the mid-1970s, we recruited an urban sample of more than 200 mothers who were viewed
+as being at moderate risk for parenting difﬁculties due to the challenges associated withpoverty. Since poverty was not yet entrenched in our community, risk status was not assevere as in some urban communities, but the problems of stress, hardship, and instability
+for many in this sample led us to expect more than the usual percentages of anxious
+attachment than those found in middle-class samples. This appraisal was conﬁrmed, withthe speciﬁc ﬁnding that at 12 months we had more than double the frequency of anxious/resistant cases than is typically reported (22% vs. 10% or less). Later, when we were able toscore disorganized attachment, this too was elevated in our sample (30%).
+A primary focus of the study was, of course, assessment of the early caregiver relationship.
+We studied both the antecedents of attachment, through observations of infant–caregiverinteraction at two points in the ﬁrst half-year, and the quality of the formed attachment
+relationship. We used Ainsworth’s exact method, and we made our assessments at both 12
+and 18 months. This not only allowed the opportunity to examine continuity and change inattachment quality, but, by combining the two assessments, we could achieve a more robustpredictor for later parts of the study. Having two assessments was of more importance giventhe likely instability of our sample. Having these properly conducted attachmentassessments, however, was only one prong of what was required in attempting toA longitudinal study of attachment and development 353
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+demonstrate consequences of attachment variations for personality formation. Numerous
+controls were essential. Thus, there were 3 key features of our study.
+Comprehensive measures. It was essential to measure other salient features of the
+developmental landscape for two reasons. First, we had to control for factors that couldpossibly explain any attachment–outcome relationships. In some cases this meant ruling outthird factors that could account for both attachment and outcome. Therefore we hadmeasures of IQ, education level, maternal personality, infant temperament, cognitivedevelopment, and so forth. Other variables were potential mediators; that is, they couldexplain how attachment was linked to a certain outcome. Prominent here were measures ofrepresentation and of peer relationships. Our second interest in comprehensive measure-
+ment was that we expected that outcomes would be best predicted when attachment
+assessments were combined with other predictors. This was amply borne out.
+Age-by-age assessment, beginning before birth. Within a transactional model, beginning
+assessments early is critical. As a notable example, with few exceptions it is difﬁcult to knowto what degree a putative temperament measure is capturing endogenous variation or, morereasonably, a complex product of infant and environment interacting over time. The later atemperament measure is obtained the less legitimate is the claim that it is a ‘‘child’’ variable.
+And in our study, we found that immutable temperament markers (e.g., minor physical
+anomalies) had no predictive power. Beginning early also is important with regard toparental measures. For example, measures of parent expectations, if not obtained before thebirth of the ﬁrst child, may, of course, also be based in actual experiences with the child andnot be solely reﬂections of parental personality. Because we were interested indevelopmental process, and change as well as continuity, we also found it to be essentialto do very frequent assessments. For example, we had 13 direct observational assessmentsbetween birth and 30 months, and frequent assessments thereafter throughout childhood
+and adolescence and into adulthood. The typical assessment entailed interviewing caregivers
+(and later teachers as well), obtaining questionnaire data, carrying out formal testing,obtaining data from records, and carrying out observations in the home or the laboratory.The availability of direct observational measures at multiple points in time was a hallmark ofour study. Thus, our information about what parents say about their parenting, and whatparents and teachers say about children, could be corroborated with direct observation ofboth parenting and child functioning.
+Development in context. The infant’s development is inextricably tied to the care that
+surrounds it. In the same way, the care that caregivers provide is dependent upon the natureof the surrounding stresses and supports. We emphasized the caregiving context in our studyfor two reasons: ﬁrst, we wanted to make it clear from the outset that the emphasis on qualityof care in shaping development was not conceived within a concept of blaming parents. Theparents we studied were striving to do the best they could for their children. When onegrasps the critical importance of contexts, the pointlessness of blaming parents isimmediately obvious. Second, we emphasized context because of our interest in change.
+By showing that quality of attachment and other aspects of adaptation improve or worsen as
+supports and challenges for the family increase and decrease, we not only conﬁrm thatparents are not free-standing entities. We also gain some insight into the developmentalprocess. We can track the ease or difﬁculty of change at different points in development,individual variations in ease of change, and what we refer to as the fate of early experiencefollowing developmental change. In addition to surrounding aspects of context, we also354 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+looked at features of context that are more commonly viewed as caregiver characteristics,
+most notably depression. As with changes in stress, we found that waxing and waning ofdepression was associated with changes in child adaptation (Sroufe et al., 2005a). The
+impact of ﬂuctuations in any of these aspects of context was one way that we had open to us
+to show that outcomes we were studying could not be simply ascribed to genetic inﬂuences.
+One of the major strengths of this study was the capacity to examine the impact of various
+perturbations on developmental trajectories, in the context of varying developmentalhistories. Some challenges are devastating to almost anyone, while some are only a problemfor those whose competence is otherwise challenged or those who are vulnerable as aconsequence of earlier history. Who you are depends on both who you were andthe
+challenges faced in the present.
+The origins of attachment variations
+In our study we afﬁrmed Bowlby’s hypothesis and Ainsworth’s empirical ﬁnding (e.g.,
+Ainsworth et al., 1978) that infants who were securely attached had a history of moresensitive and cooperative interactions than did those who were anxiously attached. Thisconclusion was based on observations of feeding and play, at ages 3 and 6 months in thehome (see Egeland & Farber, 1984; Sroufe et al., 2005a). There was a comparably low level
+of sensitivity for both those infants who developed avoidant attachments and those who
+developed resistant attachments. However, resistant cases were associated with lower levelsof psychological awareness in mothers and developmental lags in the infants. In contrast,infants who later showed avoidant attachment had been very robust as newborns, in no waycompromised neurophysiologically. Their caregivers, however, as a group ‘‘had negativefeelings about motherhood, were tense and irritable, and engaged in caregiving in aperfunctory manner’’ (Sroufe, 2005a, p. 98). Moreover, a form of maltreatment, designatedas ‘‘psychological unavailability,’’ was strongly associated with avoidant attachment. These
+mothers showed a paucity of emotional engagement with their infants. At 18 months, each
+of the infants from this psychological unavailability group showed the avoidant pattern(Egeland & Sroufe, 1981). We view our ﬁndings as consistent with previous reports byAinsworth (Ainsworth et al., 1978) and by Isabella (1993) that caregivers of those who latershow avoidant attachment routinely rebuff their infants at times when they are needy andseeking physical closeness. In accord with other research (e.g., NICHD ECCRN, 1997), wedid not ﬁnd variations in attachment security to be well predicted by any of ourtemperament measures. However, in contrast to previous studies ﬁnding that newborn
+difﬁculties are over-ridden in a middle-class sample (Crockenberg, 1981), we found that
+non-optimal neurological status on the Brazelton neonatal exam did predict anxious/resistant attachment in our risk sample. Moreover, we uncovered an interesting interactionbetween newborn irritability and sensitive care. Caregiver sensitivity had a stronger effect forinfants who were low in irritability. Caregivers in our sample had a difﬁcult timecompensating for neurologically non-optimal infants. Also, irritability was related tosensitivity at 6 months, with sensitivity totally mediating the effect of irritability on laterattachment security. This was a general pattern in our study; rarely did we ﬁnd any direct
+effects of infant temperament, especially when based on direct observation, with a vast range
+of outcomes. But we did on occasion ﬁnd noteworthy interactive effects betweentemperament and caregiving (Sroufe et al., 2005a).
+We also conducted comprehensive analysis of the origins of disorganized attachment
+(Carlson, 1998; Sroufe et al., 2005a). Consistent with the theorizing of Main and Hesse(1990), we found that disorganization was strongly predicted by caregiver intrusiveness andA longitudinal study of attachment and development 355
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+by maltreatment, including physical abuse and psychological unavailability. While
+intrusiveness (doing things to the baby for which the baby was not prepared) and physicalabuse likely would be frightening and therefore disorganizing, emotional unavailability
+might be viewed as making it difﬁcult for the infant to organize attachment behavior in the
+ﬁrst place. Of critical importance, we provided major evidence for the discriminant validityof disorganization, in that it was notpredicted by prenatal or perinatal problems, infant
+anomalies, temperament, non-optimal neurological status, or early infant behavior ratings.Thus, disorganized attachment appears to be a reﬂection of particular qualities of therelationship history and is not simply a reﬂection of inherent infant neurological status.
+Major predictions from infant attachment
+The presentation of the major ﬁndings regarding the developmental sequelae of variations in
+infant–caregiver attachment relationships will be presented in three parts. We will ﬁrstdiscuss general differences between those with secure and those with anxious histories. Herewe will focus speciﬁcally on the clearest hypotheses derived from Bowlby’s theorizing, thoseconcerning self-reliance, emotional regulation, and social competence. Second, we presentthe evidence we have obtained on differential social and emotional outcomes for differenttypes of anxious attachment, focusing ﬁrst on comparing those with avoidant and resistant
+attachment histories. Finally, we discuss outcomes in the domain of psychopathology,
+including the apparent consequences of disorganized attachment.
+Secure vs. anxious attachment
+The growth of self-reliance. One of the most clear and the boldest of Bowlby’s (1973)
+hypotheses was that secure attachment relationships were the foundation for ‘‘the growth ofself-reliance’’; that is, infants who were effectively dependent in that they were able to use
+their caregivers as a secure base for exploration would later be more independent. Those
+who had ineffective or anxious attachment relationships, including those pushed towardprecocious independence as infants, later would be more dependent and less self-reliant. Interms of Ainsworth classiﬁcations, then, both members of the anxious/resistant group andthe anxious/avoidant group, who others might see as precociously independent, werepredicted to be higher on dependency later in childhood. Our study provided strong supportfor this hypothesis on multiple occasions, based upon both teacher reports and our ownobservations in school and summer camp settings.
+Our strongest ﬁndings came from our nursery school project, where we were able to run
+our own classrooms and have abundant data from multiple sources (live observation,videotape, teacher ratings). For example, we were able to observe large numbers of contactsbetween teachers and pupils, noting both initiator and context, and we kept records ofseating arrangements in every circle time (see Sroufe, Fox, & Pancake, 1983; Sroufe et al.,2005a). Not only were children with anxious histories, both avoidant and resistant,dramatically more reliant on teachers based on these measures, they also were rated ashighly dependent by the teachers, with very little overlap between those with secure and
+anxious histories. Very similar results were obtained in a series of summer camps when the
+children were 10 years old.
+The capacity for emotional regulation. Another clear hypothesis from the Bowlby–Ainsworth
+position is that a history of secure attachment will provide a foundation for emotionalregulation. In part, this is based on the critical place of attachment in the regulation of fear,356 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+and the balance between wariness, exploration, and attachment (Bischof, 1975). We
+elaborated this idea in a number of early papers on attachment as an organizational construct(e.g., Sroufe, 1979; Sroufe & Waters, 1977; Sroufe, Waters, & Matas, 1974). In our work on
+emotional development, attachment was explicitly deﬁned as ‘‘the dyadic regulation of
+emotion’’ (Sroufe, 1996, p. 172). Further, drawing on the conceptual framework of Sander(1975), we elaborated the position that this dyadic regulation of emotion was the prototypefor later individual regulation (Sroufe, 1989). Another feature of Bowlby’s theory pertinent tothis issue is his idea that working models of other and self are complementary; that is, as onebecomes conﬁdent in the caregiver’s capacity to provide regulatory assistance, one also gainsconﬁdence in one’s own capacities for regulation. Conﬁdence in one’s capacity to remainorganized, even in the face of high arousal, and the literal entraining of regulatory capacities
+in dyadic attachment relationships, together underlie the growth of emotional regulation.
+We obtained ample data in support of this general hypothesis, as well as in support of a
+variety of speciﬁc manifestations of this capacity. Our preschool and summer camp data,where very detailed measures were available, again provided the strongest evidence. Basedon teacher or counselor ratings and Q-sort descriptions of the children, for example, thosewith secure histories were consistently rated as more self-conﬁdent, higher on self-esteem,and more ‘‘ego-resilient’’ than those with either histories of resistant or avoidant attachment.The ego-resiliency measure is speciﬁcally a measure of regulation. Being high on this
+construct reﬂects the capacity to ﬂexibly adjust expression of feelings and impulses to suit
+situational requirements; that is, to be exuberant on the playground but contained andattentive during classroom structured activities. Those with secure histories were evensigniﬁcantly higher on speciﬁc features, such as ‘‘ﬂexible, able to bounce back after stress ordifﬁculty’’ and ‘‘curious and exploring,’’ and lower on items such as ‘‘falls to pieces understress,’’ ‘‘inhibited and constricted,’’ and ‘‘becomes anxious when the environment isunpredictable’’ (Sroufe et al., 2005a, p. 73; see also Chapter 7).
+These differences based on behavioral ratings were conﬁrmed by detailed behavioral
+observations (Erez, 1987; Sroufe, Schork, Motti, Lawroski, & LaFreniere, 1984; see also
+Sroufe et al., 2005a). Using child-sampling methodology, we collected voluminous data onsocial encounters with peers in the preschool classroom and on the playground. We wereable to document the greater frequency of positive affective expression of those with securehistories when they initiated a contact with a peer or responded to a peer initiation, andthe way they used positive affect to sustain and build interactions, all in stark contrast to thosewith anxious attachment histories. They also were signiﬁcantly higher on speciﬁc indicatorssuch as ‘‘shows exuberance, lights up’’ and ‘‘has a lot of fun.’’ Similarly, we documented that
+those with secure histories less frequently coped with social problems with frustration
+behavior, aggression, or simply giving up. Their coping strategies, in comparison to thosewith anxious attachment histories, were characterized by persistence and ﬂexibility. They didnot as frequently respond to the overtures of others with negative affect, and, in general, theyexhibited less whining, fussing, and frustration behavior across all settings than did those withhistories of anxious attachment. Signiﬁcantly more often than those with anxious histories,the affect of those with secure histories was observed to be appropriate to the situation.
+Social competence. According to Bowlby, those with histories of secure attachment will have
+positive expectations regarding relationships with others, an inclination to be closelyinvolved with others, and the social and emotional capacities that promote socialcompetence. Our work has perhaps been strongest of all with regard to this third ofBowlby’s predictions. We have found signiﬁcant links between secure attachment andgeneral measures of social competence, age by age, from early childhood to adulthoodA longitudinal study of attachment and development 357
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+(Sroufe et al., 2005a). Our competence assessments have utilized a variety of procedures,
+ranging from direct observation, to peer sociometrics, to teacher and counselor ratings andrankings, to interviews with the young people themselves. Thus, from their expectations and
+representations of relationships, to their engagement with others and skill in interaction, to
+their popularity, those with histories of secure attachment exhibit higher social competencethan those with histories of avoidant or resistant attachment.
+In addition to these global differences in social competence, those with secure histories
+were found to be higher than those with avoidant or resistant histories on more speciﬁcaspects of competence as well (see Sroufe et al., 2005a, for a review). In both preschool andmiddle childhood, for example, they were more active participants in the peer group and lessfrequently isolated. In preschool, they were higher on rated and directly observed measures
+of empathy and were observed to have deeper, more mutual relationships in an extensive
+series of play pair observations. In middle childhood, they more frequently had reciprocated,close friendships, abided by the rules of the same-gender peer group (including maintenanceof gender boundaries), and coordinated friendships with group functioning; that is, theywere able to maintain their close connection with a friend even while participating with otherchildren. In adolescence, those with histories of secure attachment were more effective in themixed-gender peer group, were observed to participate smoothly in a wider range of socialencounters (including those that entailed a degree of emotional vulnerability), and had
+notable leadership qualities. In a camp study, not only were these teens signiﬁcantly more
+frequently elected spokespersons for their small groups in designed assessments, but theywere observed to be the young persons most frequently looked to by others at criticaljunctures in the discussion (Englund, Levy, Hyson, & Sroufe, 2000). They manifested socialassurance and a quiet authority. Finally, we have found security of attachment to be relatedto the emotional tone of adult romantic relationships.
+Patterns of adaptation
+Bowlby’s theory, as well as our own organizational perspective on development, implies
+more than global differences between those with secure and anxious attachment histories ona variety of outcomes. If the organized patterns of dyadic attachment relationships are theprototypes for later individual organization, then there should be consequences for thepatterning and organization of later behavior. Not only should behavior be coherent in termsof its organization with other behavior, it should be predictably related to context, varying inmeaningful ways. Further, there should be predictable variations in the patterning of
+behavior between those with histories of resistant attachment and those with histories of
+avoidant attachment. We have found substantial evidence in support of this position.
+Situational variations. We found that ‘‘situations of novelty, high stimulation, object mastery,
+and cognitive challenge are especially difﬁcult for those with resistant histories’’ (Sroufeet al., 2005a, p. 137). Thus, those with resistant histories, in comparison to both those withsecure and those with avoidant history, were less competent as toddlers in an initialencounter with a peer in a playroom, showed more hesitance and less active exploration of a
+novel, complex object (a curiosity box), showed less ﬂexibility and effectiveness in a variety
+of problem solving tasks, and were more often viewed by preschool teachers as helpless,passive, and easily frustrated. When social problems arose they were observed to be lesspersistent and more often used the coping strategy of leaving the situation than did thosewith avoidant histories. In stark contrast, those with histories of avoidant attachment wereuniquely challenged by situations that called for a degree of interpersonal closeness. Not the358 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+ﬁrst day of class but later classes, when close friendships were occurring, were most difﬁcult
+for them. Engaging novel objects or solitary play with LegoTMwas not challenging to them
+but play that involved close physical or emotional encounters with other children was. They
+were more frequently viewed by teachers as isolated, asocial, and emotionally insulated.
+Patterns of behavior. Both those with avoidant and resistant attachment histories were highly
+dependent on preschool teachers or middle childhood summer camp counselors, but theyshowed this dependency in different ways. For example, those with resistant histories weremuch more direct in eliciting contact from their preschool teachers. They hovered near them,sought assistance in the face of the most minimal challenges, and, in general, ‘‘wore theirhearts on their sleeves.’’ ‘‘Whenever children in the resistant group were upset, disappointed,
+or anxious, all of which happened easily and often, they went directly to a teacher’’ (Sroufe
+et al., 2005a, p. 138). In turn, based upon independent analysis of videotaped records, theirteachers were rated as showing them more nurturance and more tolerance of violatingclassroom rules. In other words, they saw them as more needy and treated them as lessmature than other 5-year-olds. Those with avoidant histories, in contrast, sought contactmuch more obliquely. They explicitly did not seek out teachers when upset or disappointed,but rather during quiet times, when they would unobtrusively and indirectly draw close.Teachers were not especially nurturing toward them or tolerant of their misbehavior, but they
+had low expectations concerning their compliance and were controlling of them, and in
+contrast to their treatment of the resistant cases, they were at times even angry with them.Still, teachers rated both children with avoidant and resistant histories as highly dependent.
+These differences in manner of expression but not amount of dependency were also seen
+in our middle childhood summer camps. There was a great deal of contact betweencounselors and children from each of these groups but the contact was much more ofteninitiated by the children in the case of those with resistant histories and by the counselors forthose with avoidant histories. For only one category of counselor behavior was this trend
+reversed, namely ‘‘support giving.’’ Thus, again, ministrations by adults were more often
+instructive and controlling for those with avoidant histories, more often nurturing for thosewith resistant histories, but both groups ultimately had much more contact with counselorsthan did those with secure histories. Children with secure histories, although having verypositive relationships with teachers and counselors, were very occupied in the world of peers.
+There also were differences in the proﬁles of peer problems shown by those with avoidant
+and resistant histories. Those with avoidant histories often were self-isolating, not initiatingmuch in the way of contact with peers. In our summer camps, they were not likely to be involved
+in friendships and when they were the relationship was characterized by exclusivity and avoid-
+ance of contact with other children (Shulman, Elicker, & Sroufe, 1994). In stark contrast, thosewith resistant histories often were oriented toward peers, but ineffective in their relationships.They would frequently hover near the peer group as onlookers. Their immaturity and quicknessto become frustrated were handicapping conditions in their efforts to sustain interactions. Then,in middle childhood, they had difﬁculty coordinating friendship maintenance with peer groupfunctioning. They could do one or the other to some extent, but the complexity of this combinedsocial task was beyond them. We will further discuss the distinctiveness of the consequences of
+avoidant and resistant attachment in the section on psychopathology below.
+Attachment and psychopathology
+In terms of the discipline of developmental psychopathology, patterns of anxious attachment in
+infancy are viewed as potential risk factors for later disturbance; that is, they are not viewed asA longitudinal study of attachment and development 359
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+pathological in themselves or as inevitably leading to pathology but as conditions that increment
+the probability of disturbance compared to the general population. Likewise, a history of secureattachment is not viewed as a guarantee of healthy functioning but as a ‘‘promotive’’ (Sameroff,
+2000, p. 35) or protective factor with regard to pathology. For example, by instilling positive
+expectations concerning self and others, and by providing a platform for establishing successfulclose relationships and a viable social support network, early secure attachment promotesstrength in the face of challenges and resilience following periods of trouble. Similarly, byentraining ﬂexible patterns of arousal and emotional regulation, histories of secure attachmentmay make individuals less vulnerable to the consequences of stress. All of this is consistent withBowlby’s views on the role of early attachment in psychopathology and his insistence thatdevelopmental outcomes were dependent on the entire history of experience, as well as current
+circumstances, not just early care.
+We have again found ample evidence in support of these propositions (Sroufe et al.,
+2005a). Of course it is the case that in a risk sample, such as ours, many of those who asinfants had secure attachments nonetheless showed behavior problems in childhood andultimately qualiﬁed for some form of psychiatric diagnosis by late adolescence. Still,signiﬁcantly fewer of these participants had problems at any given age than did those withresistant or avoidant histories or, especially, those with histories of disorganized attachment.More noteworthy, when groups of children whose families were experiencing high stress
+were formed in middle childhood, one high-stress group made up of children having
+histories of secure attachment and one high-stress group made up of those with anxioushistories, those with secure histories had dramatically fewer behavior problems. Thus,indeed, a history of secure attachment moderated the impact of stress on disturbance.Likewise, when children showing troubled behavior, either in the preschool years or middlechildhood, were followed into the next period, their degree of recovery was forecast by ahistory of secure attachment and nurturing in the ﬁrst 2 years (Sroufe, Carlson, Levy, &Egeland, 1999; Sroufe, Egeland, & Kreutzer, 1990). Those with anxious histories continued
+to show high levels of problems in the next period, while those with secure histories became
+indistinguishable from the larger sample.
+In parallel fashion, most of those with histories of anxious attachment do nothave serious
+behavior problems or qualify for psychiatric diagnoses. Avoidant and resistant patterns ofinfant attachment are only moderate risks for disturbance. Still, as with other risk factors,they do statistically increment the probability of disturbance in comparison to those withsecure history. Moreover, when combined with other measures of parenting acrosschildhood and, especially, when combined with a number of other risk factors, probability of
+disturbance is notably increased (see Sroufe et al., 2005a, Chapter 12). The one exception
+to this pattern of very moderate risk concerns the consequences of disorganized attachment.Disorganized attachment, in infancy, is by itself a quite strong predictor of later disturbance.For example, the correlation between degree of disorganization in infancy and number andseverity of psychiatric symptoms at age 17½, based on diagnostic interviews, approaches.40. While this leaves a great deal of unexplained variance, this relation is far stronger thanfor any other measure from the infancy period. It rivals the prediction from behaviorproblems already manifest in early childhood.
+There also has been some speciﬁcity in the relations between various patterns of anxious
+attachment and later disturbance, and these relations have been theoretically meaningful.For example, avoidant attachment history has tended to be more related to conductproblems. This seems reasonable, given the interpersonal alienation and anger that derivesfrom a history of emotional unavailability and rejection that characterized their early care. Incontrast, resistant history is most strongly related to anxiety disturbances that, at age 17½,360 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+avoidant attachment was not. In fact when we examined anxiety disorders and ‘‘all other
+disorders,’’ resistant attachment was related only to the former and no more than secureattachment to the latter. Based on Main’s concept of conditional strategies (e.g., Main &
+Hesse, 1990), we ﬁnd this speciﬁcity to be extraordinarily compelling. In the face of an only
+inconsistently responsive caregiver, infants in the resistant group adopt a strategy of hyper-vigilance and hyper-attentiveness to the caregiver, emitting attachment behaviors stronglyand frequently, even with mild external provocation. Such a stance may be adaptive ininsuring contact with the caregiver when there is a genuine threat, but a price is paid for suchchronic wariness and vigilance. Interestingly, both avoidant and resistant attachment weremoderately related to depression (Duggal, Carlson, Sroufe, & Egeland, 2001). We havespeculated that two distinctive pathways may be involved, one based on alienation and
+hopelessness and the other based on anxiety and helplessness, the cardinal features of
+depression (Sroufe et al., 2005a).
+We also had some speciﬁc predictions regarding disorganized attachment. In particular,
+based on ample theory (Liotti, 1992; Main & Hesse, 1990), we predicted that disorganizedattachment in infancy would predict later dissociation. This prediction was strongly borneout, both in terms of checklists in middle adolescence and based on scores on theDissociative Experiences Scale (Carlson & Putnam, 1993) at age 19 (Carlson, 1998; Ogawa,Sroufe, Weinﬁeld, Carlson, & Egeland, 1997; see Sroufe et al. 2005a for further details). In
+infancy, in the face of confusing or frightening caregivers, these children had been
+confronted with the irresolvable conﬂict of striving to ﬂee from the source of fear and yet ﬂeeto the source of fear—the caregiver. Collapse of strategies, rapid state changes, and otherproto-dissociative mechanisms were all that were available to them. Thus, a prototype ofpsychic collapse or segregating experience was established. Disorganized attachment alsopredicts conduct disorder, we believe, because of the dissociative tendencies and attendantproblems with impulse control.
+As our study now moves into adulthood proper, we are working toward a long-term goal
+of examining the link between early attachment history and personality disorders. According
+to Bowlby, malevolent attachment experiences, especially a contradiction between one’sown experiences and what one is told has been the case, can lead to a constellation offactors, including ‘‘chronic distrust of people, inhibition of their curiosity, distrust of theirown senses, and a tendency to ﬁnd everything unreal’’ (1988, p. 103). These are hallmarksof major personality disorders, including borderline personality. It is our position thatserious personality disorders, on those rare occasions when they do occur, will be the legacyof disorganized attachment, at times in conjunction with avoidant attachment (and thus a
+combination of alienation and a tendency toward dissociation). We do not expect serious
+disorder to be at all related to anxious/resistant attachment. Findings of such a link based onthe Adult Attachment Interview have been retrospective; seriously disturbed individualspresent incoherent and preoccupied accounts of their childhoods. In our own prospectivestudy we ﬁnd no such link, and, in fact, preoccupied status on the AAI is linked only toanxiety disorders, congruous with our ﬁndings for resistant attachment, presented above(Sampson & Carlson, 2005).
+We do not yet have the data on full-blown personality disorders in adulthood, but we have
+been able to carry out an intermediate step (Yates, 2004). We view serious self-injurious
+behavior (SIB) as a likely precursor of such disorders. Our data show that such behavior(e.g., cutting, burning) in early adulthood was strongly related to a history of disorganizedattachment, maltreatment (especially sexual abuse), and, ultimately dissociation. Thesefactors remained signiﬁcant when other potential causal factors were controlled (see Sroufeet al., 2005a, for further details).A longitudinal study of attachment and development 361
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+Attachment and the developmental process
+In our recent book, we have detailed the place of attachment within an integrative, systemic
+view of development (Sroufe et al., 2005a). Three features of this viewpoint will be brieﬂy
+outlined here: (a) non-linearity, (b) multiple inﬂuences, and (c) complexity of process.
+Non-linearity of attachment–outcome linkages
+In the pathways view outlined by Bowlby (see, especially, 1973), early variations in
+attachment are viewed as initiating conditions, launching individuals on pathways that areonly probabilistically related to outcomes. Moreover, attention is drawn not just to the early
+attachment patterns but also to a myriad of factors that either support progress along the
+initial pathway or promote deﬂections from the initial course. Such change can occur allalong the way, yet it is also proposed that change becomes more difﬁcult the longer thepathway in question has been followed. Thus, in this view, it is the cumulative history (aswell as current challenges and supports), and not early attachments alone that account forany observed outcome. In our work we repeatedly documented that factors such as changesin social support and life stress were associated with change (Sroufe et al., 2005a).
+Another important feature of Bowlby’s model is its implications for continuity as well as
+for change. Since behavior is always a function of the entire history, change, even when
+substantial, does not mean that early experience and early adaptation is erased. Bowlby(1973) described development as ‘‘homeorhetic’’; that is, there is a tendency forindividuals to return to trajectories of development following perturbations. We were ableto document the tendency of early attachment patterns to be preserved following change.First, we found that even following clear and demonstrable change, early patterns couldstill be discerned in certain settings or in certain ways. For example, we asked ourpreschool teachers, who were completely blind to information about the children’s
+histories, to review the entire list of children that they had described as having serious
+struggles. They then were asked in which of these children they could nonetheless observea core of inner self-worth, an indication that let teachers predict that maybe they could getbetter. Remarkably, the children they selected were signiﬁcantly more likely to have beensecurely attached as infants, even though the teachers had rated them as comparably lowon competence in the preschool.
+Second, as we presented earlier, we were also able to make actual prospective predictions
+regarding which children would recover from a period of behavior problems, based on their
+histories of attachment security. As we will discuss in the next section, this led us to a
+particular view on the concept of resilience. Some children do have the capacity to recoverfollowing a period of trouble, one deﬁnition of resilience, but this capacity is based at least inpart in history and is not a magical characteristic simply inherent in the child.
+Multiple inﬂuences
+While attachment history was clearly and reliably related to a host of meaningful outcomes
+in our work, it was also the case that predictions routinely were dramatically improved when
+attachment was combined with other predictors (Sroufe et al., 2005a). This included otheraspects of parenting that lay outside of the attachment domain and that we measured beyondinfancy. In addition to serving as a secure base for exploration, a haven of safety, and as asource of reassurance for a distressed child (the hallmarks of the attachment function),parents do many other things for children. For example, parents ‘‘provide stimulation for362 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+the child that may or may not be appropriately modulated. They provide guidance, limits,
+and interactive support for problem solving. In addition, they support the child’scompetence in the broader world, for example by making possible and supporting social
+contacts outside the home’’ (Sroufe et al., 2005b, p. 51). In our work, we created an early
+care composite that included sensitive caregiving at 6 months and attachment security at 12and 18 months, but also some of these other aspects of parental support at 24, 30, and 42months. With great regularity, this care composite was a stronger predictor of latercompetence or problems than was attachment alone. Moreover, for some areas offunctioning (e.g., competence at school), other aspects of parental care out performedattachment as predictors. When it came to predicting functioning in adolescence, laterassessments of parental supports for emerging autonomy also were important. Attachment
+clearly is important, but other aspects of care are signiﬁcant. Including them in our
+developmental models does not trivialize attachment.
+Similarly, parents are not the only important social inﬂuences on development. We have
+shown both sibling and peer relationships to be important (Sroufe et al., 2005a). Our peerrelationship measures have been hugely important in predicting certain outcomes, such as,for example, competence in romantic relationships and in the work arena (Collins &van Dulmen, in press). Again, when attachment and peer measures are combined, they arewith notable exceptions (see ‘‘Complexity’’ section) more powerful than when they are
+treated separately, for outcomes ranging from school performance to behavior problems and
+to social competence. In combination, attachment, other parenting variables, and peervariables are at times extraordinarily strong predictors, with multiple correlations oftenexceeding .50 or .60, even over substantial periods of time.
+Finally, surrounding context too must be considered. When measures of family stress and
+social support are added to our regression analyses, they routinely add to parenting and peermeasures in predicting outcomes. Also, as we mentioned earlier, there is an important rolefor changing family stresses and supports in altering patterns of adaptation. For example,
+increases in social support for the primary caregiver was the strongest factor in predicting
+improved functioning in kindergarten for those who had been anxiously attached as infants.Likewise, one of the strongest predictors of recovery from a period of troubled behavior inthe preschool or middle childhood periods and later functioning was differential changes inlife stress during the intervening years. When changes in life stress were combined with ahistory of secure infant attachment, this accounted for the clear majority of variance inrecovery (Sroufe et al., 1990; Sroufe et al., 1999). It is our view that, as in accounting forcontinuity in functioning, accounting for change entails considering both early history and
+ongoing supports and challenges. Children who recover from a period of adversity or
+maladaptation have either a solid foundation on which they can rely, increased supports anddecreased challenges, or, more often, both.
+Complexity
+Over the years of this study, our focus has shifted from questions concerning whether infant
+attachment variations predict later important outcomes, and even from questions
+concerning the combined power of attachment and other variables, to questions about
+how such linkages occur; that is, to questions about the developmental process itself. Wehave thought about this process in two complementary ways, and we have generatedsubstantial evidence for both. The ﬁrst, springing from the idea of initiating conditions, isthat certain ‘‘structures’’ are created which, while changeable, nonetheless are a forcein subsequent reactions to experience. The second way we have thought about linkages is inA longitudinal study of attachment and development 363
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+terms of intermediate (and mediating) outcomes; for example, that early attachment security
+sets up positive functioning in a subsequent period or subsequent arena that then itselfsupports further growth.
+The structures that may be created through early attachment experiences range across
+levels from excitatory and inhibitory systems of the brain, to established patterns of affectregulation, to frameworks for coordinated interpersonal behavior, and to attitudes andexpectations regarding the self, others, and relationships (e.g., Kraemer, 1992; Sroufe et al.,2005a). In outlining some of our outcome data earlier, we illustrated the consequences forsome of these linkages (e.g., emotional regulation). We also obtained a great deal of data atthe level of representation. We assessed representations of self and others at multiple ages andin multiple ways, from play to drawings and other projectives to narratives (Carlson, Sroufe,
+& Egeland, 2004; Sroufe et al., 2005a). We found that, indeed, attachment variations were
+consistently related to these later measures of representation and that, in each case,representation measures were related to contemporary and later measures of behavioralfunctioning. We will comment more on the interplay of representation and behavior below.
+As implied in the preceding section, intermediate outcomes of early attachment include
+later parenting itself and peer relationships. For example, patterns of inconsistent care leadto resistant attachment and subsequently to a pattern of toddler adaptation characterized byfrustration, whining, and fretful non-compliance. Such a child, because of this, will need
+more clear, ﬁrm, and consistent limits than even most 2-year olds, but this is precisely what is
+difﬁcult for caregivers in this group to provide. The problem worsens. Subsequentimmaturity and affect dysregulation in preschool thus is properly seen as the outcome of thiscumulative process. In some cases in our analyses, once care at a subsequent age isconsidered, attachment is no longer a signiﬁcant predictor (Sroufe et al., 2005b). Similarly,attachment history provides the foundation for variations in early peer relationships, becauseof variations in expectations, problems solving skills, and affect regulation capacities. Thereis no question that secure attachment is a critical platform for engaging the world of peers.
+Still, once successfully engaged in the peer group, many capacities are acquired in that arena
+vital for later social relationships. Mastering the frustrations of symmetrical relationships andlearning to negotiate and resolve conﬂicts with equals really requires the world of peers. Notsurprisingly, therefore, we ﬁnd that aspects of smooth interaction in adult socialrelationships often are well predicted by earlier peer competence and, at times, are onlyindirectly related to attachment.
+The complexity of this developmental process can be great indeed. For one thing,
+depending on the outcome in question, there is great variety in the nature of linkages
+obtained. Sometimes there is mediation, and attachment effects are no longer signiﬁcant.
+Sometimes attachment effects remain signiﬁcant even when a host of intermediate variablesare included. This seems to be especially true when outcomes concern issues ofinterpersonal trust or the emotional tone of relationships (Sroufe et al., 2005b). Forexample, in our observation-based measure of hostility in romantic relationships in earlyadulthood we found substantial prediction from attachment history. (Disorganizedattachment alone correlated .42, a remarkable effect across 2 decades and numerousdevelopmental periods.) Peer competence in middle childhood also predicted this outcome,
+but this effect did not mediate attachment in this case; both independently predicted
+hostility. In contrast, in the case of a composite positive parenting variable from ourlaboratory-based observations of 13-year-olds, there were direct effects of both attachmentand 13-year parenting andan indirect effect of attachment through the 13-year parenting
+variable. We uncovered repeated evidence for each of these scenarios.364 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+The ﬁnal complexity arises when we consider multiple time points. Not only does
+representation mediate the effect of prior experience on later adaptation, later experience,and adaptation impact representation. Later representation may be predicted by experience
+at a given time with representation established by that time controlled (Carlson et al., 2004).
+For example, attachment history predicts self- and caregiver-representations in drawings inearly elementary school, and these together predict peer competence at that age. But earlyelementary peer competence accounts for changes in representation assessed in the sixthgrade, and so on. The developmental process is characterized by the mutual interplay ofexperience and representation of experience over time.
+Conclusion
+Variations in infant–caregiver attachment do not relate well to every outcome, nor do they
+relate inexorably to any outcome whatsoever. They are related to outcomes onlyprobabilistically and only in the context of complex developmental systems and processes.Still, the importance of attachment is not trivialized by such considerations. Within asystemic, organismic view of development, attachment is important precisely because of itsplace in the initiation of these complex processes. It is an organizing core in developmentthat is always integrated with later experience and never lost. While it is not proper to think
+of attachment variations as directly causing certain outcomes, and while early attachment
+has no privileged causal status, it is nonetheless the case that nothing can be assessed ininfancy that is more important. Infant attachment is critical, both because of its place ininitiating pathways of development and because of its connection with so many criticaldevelopmental functions—social relatedness, arousal modulation, emotional regulation, andcuriosity, to name just a few. Attachment experiences remain, even in this complex view,vital in the formation of the person.
+Acknowledgement
+This paper was supported by a grant from the National Institute of Mental Health (#MH
+40864-22).
+References
+Ainsworth, M. D. S., Blehar, M., Waters, E., & Wall, S. (1978). Patterns of attachment. Hillsdale, NJ: Erlbaum.
+Bischof, N. (1975). A systems approach towards the functional connections of attachment and fear. Child
+Development, 46 , 801 – 817.
+Bowlby, J. (1973). Attachment and loss. Vol. 2: Separation: Anxiety and anger. New York: Basic Books.
+Bowlby, J. (1988). A secure base. New York: Basic Books.
+Carlson, E. A. (1998). A prospective longitudinal study of attachment disorganization/disorientation. Child
+Development, 69 , 1107 – 1128.
+Carlson, E. B., & Putnam, F. W. (1993). An update on the Dissociative Experiences Scale. Dissociation, 6 , 16 – 27.
+Carlson, E. A., Sroufe, L. A., & Egeland, B. (2004). The construction of experience: A longitudinal study of
+representation and behavior. Child Development, 75 , 66 – 83.
+Collins, W. A., & van Dulmen, M. (in press). The course of true love(s): Origins and pathways in the development
+of romantic relationships. In A. Booth & A. Crouter (Eds.), Romance and sex in adolescence and emerging
+adulthood: Risks and opportunities. Mahwah, NJ: Erlbaum.
+Crockenberg, S. (1981). Infant irritability, mother responsiveness, and social support inﬂuences on the security of
+infant–mother attachment. Child Development, 52 , 857 – 865.
+Duggal, S., Carlson, E. A., Sroufe, L. A., & Egeland, B. (2001). Depressive symptomatology in childhood and
+adolescence. Development and Psychopathology, 13 , 143 – 164.A longitudinal study of attachment and development 365
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+Egeland, B., & Farber, E. (1984). Infant–mother attachment: Factors related to its development and changes over
+time. Child Development, 55 , 753 – 771.
+Egeland, B., & Sroufe, L. A. (1981). Developmental sequelae of maltreatment in infancy. In R. Rizley &
+D. Cicchetti (Eds.), Developmental perspectives in child maltreatment (pp. 77 – 92). San Francisco, CA: Jossey
+Bass, Inc.
+Englund, M., Levy, A., Hyson, D., & Sroufe, L. A. (2000). Adolescent social competence: Effectiveness in a group
+setting. Child Development, 71 , 1049 – 1060.
+Erez, T. (1987). Individual patterns of coping. Unpublished doctoral dissertation, University of Minnesota,
+Minneapolis.
+Fogel, A. (1993). Developing through relationships: Origins of communication, self, and culture. Chicago, IL: University
+of Chicago Press.
+Goodenough, F. (1945). Developmental Psychology (2nd ed.). New York: Appleton-Century Company.
+Gottlieb, G. (1971). Development of species identiﬁcation in birds: An inquiry into the prenatal determinants of perception.
+Chicago, IL: University of Chicago Press.
+Isabella, R. (1993). Origins of attachment: Maternal interactive behavior across the ﬁrst year. Developmental
+Psychology, 64 , 605 – 621.
+Kagan, J., & Moss, H. (1962). Birth to maturity. New York: Wiley.
+Kraemer, G. (1992). A psychobiological theory of attachment. Behavioral and Brain Sciences, 15 , 493 – 511.
+Liotti, G. (1992). Disorganized/disoriented attachment in the etiology of dissociative disorders. Dissociation ,4,
+196–204.
+Main, M., & Hesse, E. (1990). Parents’ unresolved traumatic experiences are related to infant disorganized
+attachment status: Is frightened or frightening parental behavior the linking mechanism? In M. Greenberg,D. Cicchetti, & E. M. Cummings (Eds.), Attachment in the preschool years (pp. 161 – 182). Chicago, IL:
+University of Chicago Press.
+Masters, J., & Wellman, H. (1974). Human infant attachment: A procedural critique. Psychological Bulletin, 81 ,
+218 – 237.
+NICHD ECCRN. (1997). The effects of infant child care on infant–mother attachment security: Results of the
+NICHD study of early child care. Child Development, 68 , 860 – 879.
+Ogawa, J. R., Sroufe, L. A., Weinﬁeld, N. S., Carlson, E. A., & Egeland, B. (1997). Development and the
+fragmented self: Longitudinal study of dissociative symptomatology in a nonclinical sample. Development and
+Psychopathology, 9 , 855 – 879.
+Sameroff, A. (2000). Dialectical processes in developmental psychopathology. In A. Sameroff, M. Lewis, &
+S. Miller (Eds.), Handbook of developmental psychopathology (2nd ed., pp. 23 – 40). New York: Plenum.
+Sameroff, A., & Chandler, M. J. (1975). Reproductive risk and the continuum of caretaking casualty. In
+F. D. Horowitz, M. Hetherington, S. Scarr-Salapatek, & G. Siegel (Eds.), Review of child development research
+(Vol. 4, pp. 187 – 243).
+Sampson, M., & Carlson, E. (2005, April). Prospective and concurrent correlates of attachment insecurity in young
+adulthood in a high risk sample. Paper presented at the Meetings of the Society for Research in Child
+Development, Atlanta, GA.
+Sander, L. (1975). Infant and caretaking environment. In E. J. Anthony (Ed.), Explorations in child psychiatry
+(pp. 129 – 165). New York: Plenum Press.
+Shulman, S., Elicker, J., & Sroufe, L. A. (1994). Stages of friendship growth in preadolescence as related to
+attachment history. Journal of Social and Personal Relationships, 11 , 341 – 361.
+Sroufe, L. A. (1979). The coherence of individual development. American Psychologist, 34 , 834 – 841.
+Sroufe, L. A. (1989). Relationships, self, and individual adaptation. In A. J. Sameroff & R. N. Emde (Eds.),
+Relationship disturbances in early childhood: A developmental approach (pp. 70 – 94). New York: Basic Books.
+Sroufe, L. A. (1996). Emotional development: The organization of emotional life in the early years. New York:
+Cambridge University Press.
+Sroufe, L. A., Carlson, E. A., Levy, A. K., & Egeland, B. (1999). Implications of attachment theory for
+developmental psychopathology. Development and Psychopathology, 11 , 1 – 13.
+Sroufe, L. A., Egeland, B., Carlson, E., & Collins, W. A. (2005a). The development of the person: The Minnesota study
+of risk and adaptation from birth to adulthood. New York: Guilford.
+Sroufe, L. A., Egeland, B., Carlson, E., & Collins, W. A. (2005b). Placing early attachment experiences in
+developmental context. In K. E. Grossmann, K. Grossmann, & E. Waters (Eds.),
+The power of longitudinal
+attachment research: From infancy and childhood to adulthood (pp. 48 – 70). New York: Guilford.
+Sroufe, L. A., Egeland, B., & Kreutzer, T. (1990). The fate of early experience following developmental
+change: Longitudinal approaches to individual adaptation in childhood. Child Development, 61 , 1363 –
+1373.366 L. A. Sroufe
+Downloaded by [Adams State University] at 12:55 16 October 2014 
+
+
+Sroufe, L. A., Fox, N., & Pancake, V. (1983). Attachment and dependency in developmental perspective. Child
+Development, 54 , 1615 – 1627.
+Sroufe, L. A., Schork, E., Motti, F., Lawroski, N., & LaFreniere, P. (1984). The role of affect in social competence.
+In C. E. Izard, J. Kagan, & R. Zajonc (Eds.), Emotions, cognition, and behavior (pp. 289 – 319). New York:
+Plenum.
+Sroufe, L. A., & Waters, E. (1977). Attachment as an organizational construct. Child Development, 48 , 1184 – 1199.
+Sroufe, L. A., Waters, E., & Matas, L. (1974). Contextual determinants of infant affective response. In M. Lewis &
+L. Rosenblum (Eds.), Origins of fear (pp. 49 – 72). New York: Wiley.
+Thelen, E. (1989). Self-organization in developmental processes: Can a systems approach work? In M. Gunnar
+& E. Thelen (Eds.), Minnesota symposia in child psychology: Vol. 22. Systems and development (pp. 77 – 117).
+Hillsdale, NJ: Erlbaum.
+Waters, E. (1978). The stability of individual differences in infant–mother attachment. Child Development, 49 ,
+483 – 494.
+Werner, H. (1948). The comparative psychology of mental development. New York: International Universities Press.
+Yates, T. M. (2004). A longitudinal study of self-injurious behavior in a community sample . Unpublished doctoral
+dissertation. University of Minnesota, MN.A longitudinal study of attachment and development 367
+Downloaded by [Adams State University] at 12:55 16 October 2014 

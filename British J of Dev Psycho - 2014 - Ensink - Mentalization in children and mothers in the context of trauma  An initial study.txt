@@ -1,0 +1,542 @@
+British Journal of Developmental Psychology (2015), 33, 203–217
+©2014 The Authors. British Journal of Developmental Psychology published by
+John Wiley & Sons Ltd on behalf of British Psychological Society
+www.wileyonlinelibrary.com
+Mentalization in children and mothers in the
+context of trauma: An initial study of the validity ofthe Child Reﬂective Functioning Scale
+Karin Ensink1*, Lina Normandin1, Mary Target2, Peter Fonagy2,
+St/C19ephane Sabourin1and Nicolas Berthelot3
+1University of Laval, Qu /C19ebec, Canada
+2University College London, UK
+3University of Qu /C19ebec at Trois-Rivieres, Qu /C19ebec, Canada
+This study examined the validity of the Child Reﬂective Functioning Scale (CRFS: Ensink,
+Target, & Oandason, 2013, Child reﬂective functioning scale scoring manual: for application to
+the Child Attachment Interview. London, UK: Anna Freud Centre –University College
+London), a measure designed to assess reﬂective functioning (RF) or mentalization during
+middle childhood. Participants were 94 mother –child dyads divided into two subgroups;
+46 dyads where children had histories of intrafamilial ( n=22 dyads) or extrafamilial
+(n=24 dyads) sexual abuse, and a community control group composed of 48 mother –
+child dyads. RF of children and their mothers was assessed using videotaped and
+transcribed data gathered using the Child Attachment Interview and the Parent
+Development Interview (PDI: Slade, Aber, Bresi, Berger, & Kaplan, 2004, The parent
+development interview-Revised . New York, NY: The City University of New York). The
+ﬁndings indicate that the CRFS proved reliable, with excellent intraclass correlation
+coefﬁcients for general RF, as well as RF regarding self and others. Signiﬁcant differences inRF were found between sexually abused children and the control group, and also between
+children who had experienced intrafamilial and extrafamilial sexual abuse. This provides
+support for the discriminant validity of the CRFS. Furthermore, maternal RF wasassociated with child RF. Both abuse and maternal RF made signiﬁcant contributions to
+predicting children’s RF regarding themselves, but child sexual abuse was the only variable
+that made a signiﬁcant contribution to explaining variance in children’s RF regardingothers.
+How do children understand their relationships with their attachment ﬁgures and how do
+they think about themselves? Despite a burgeoning body of research on the developmentof children’s social cognition and understanding of feelings and reactions of others, weknow surprisingly little about the development of children’s capacities to consider theirclose relationships and themselves in mental state terms. The reﬂective functioning (RF)
+paradigm developed by Fonagy, Steele, Moran, Steele, and Higgitt (1991) provides a
+methodology for assessing, in adults, this particular dimension of social cognition or
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+*Correspondence should be addressed to Karin Ensink, /C19Ecole de psychologie, Pavillon F /C19elix-Antoine-Savard, 2325, rue des
+Biblioth /C18eques, Bureau 1116, Universit /C19e Laval, Qu /C19ebec, QC, Canada G1V 0A6 (email: karin.ensink@psy.ulaval.ca).
+DOI:10.1111/bjdp.12074203
+
+mentalization, involving the capacity to consider close relationships and the self in terms
+of mental states and see the behaviours of signiﬁcant others in terms of underlyingpsychological motivations, thought, feelings, intentions, and desires (Fonagy, Gergely,Jurist, & Target, 2002). There is evidence suggesting that RF is particularly important in
+the context of trauma and adversity, with high RF associated with resilience (Berthelot
+et al. , 2014; Ensink et al. , 2014; Fonagy, Steele, Steele, Higgitt, & Target, 1994), but at this
+stage, research on child RF in general and in the context of trauma in particular ishampered by the lack of a reliable and validated measure of child RF. The aim of this studywas to provide evidence of the reliability and validity of the Child Reﬂective FunctioningScale (CRFS) by examining whether the CRFS could be used to detect differences in RFassociated with exposure to trauma (sexual abuse), as well as the context of trauma (intra-versus extrafamilial).
+Development of mentalization and socio-cognitive capacities in children
+Fonagy and Target (1996) have elaborated a developmental model of mentalization andRF based on an integration of ﬁndings from research on attachment, Theory of Mind(ToM), social cognition, and emotional understanding. In this model, the early sense ofself crystalizes around the experience of being treated by a caregiver as a psychologicalbeing with a mind, with the child developing a coherent sense of self and identity through
+interactions with a caregiver that reﬂects on his mind (Fonagy, Gergely, & Target, 2007;
+Fonagy & Target, 2006). As Fonagy and Target (2006) observed, it is also difﬁcult todevelop the capacity to imagine the minds of others and to mentalize in relation to otherswithout the experience of having been treated as someone with a mind.
+From this perspective, parental RF is considered to be central to the processes
+through which children develop their mentalization capacities (Slade, 2005) and thereis growing direct and indirect evidence in support of this proposition. For example,mothers with higher RF have been shown to use more mind-minded comments that
+refer to the child’s state of mind when interacting with their infants and young
+children (Rosenblum, McDonough, Sameroff, & Muzik, 2008). In turn, mental statetalk across diverse situations ranging from picture-book reading to dinner-time familydiscussions has consistently been found to be pivotal for the development ofchildren’s emotional understanding and ToM (de Rosnay, Harris, & Pons, 2008; Doan& Wang, 2010; Dunn, Brown, & Beardsall, 1991; Ereky-Stevens, 2008; Ruffman, Slade,& Crowe, 2002; Symons, Fossum, & Collins, 2006; Taumoepeau & Ruffman, 2008).Furthermore, there is research evidence that parent –child dyadic co-construction of
+narratives about emotionally signiﬁcant events (Bettens, Favez, & Stern, 2003; Laible,
+Murphy, & Augustine, 2013) facilitates the development of event- and autobiograph-ical memory (Prebble, Addis, & Tippett, 2013), considered central to the develop-ment of the self. This research evidence and the developmental model developed byFonagy and Target (2006) is consistent with the earlier proposition by Vygotsky’s(1978) that children learn complex competencies in the context of interpersonalrelationships in which they are scaffolded and practiced before they become,through a process of internalization and representation, part of the intrapersonal
+repertoire.
+There is evidence that parental RF predicts the development of emotional
+understanding of children (Steele, Steele, Croft, & Fonagy, 1999), as well as RF in
+adolescence (Benbassat & Priel, 2012). However, data on the relationship betweenparental RF and that of children are still lacking.204 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Mentalization in the context of trauma
+Considering the importance of the parent’s reﬂective stance for all the parent –child
+interactions through which children learn about themselves and others and develop theirmentalization capacities, it is not surprising that deﬁcits across a range of mentalization
+capacities have been identiﬁed in maltreated children. Abuse and neglect have
+been shown to be associated with poor discrimination of all emotions (Edwards,Shipman, & Brown, 2005; Pollak, Cicchetti, Hornung, & Reed, 2000) as well as delays inself-recognition in the mirror between 18 and 30 months (Schneider-Rosen & Cicchetti,1991), ToM (Cicchetti, Rogosch, Maughan, Toth, & Bruce, 2003; Pears & Fisher, 2005),and emotional understanding (Camras, Sachs-Alter, & Ribordy, 1996; Rogosch, Cicchetti,& Aber, 1995; Shipman & Zeman, 1999). Less is known regarding mentalization inchildren who have experienced sexual abuse. Sexually abused girls have been found to
+have lower emotional understanding compared to non-maltreated peers in one study
+(Shipman, Zeman, Penza, & Champion, 2000) and this requires further replications. Fewstudies on child maltreatment have speciﬁcally addressed the relationship between familyprocesses and children’s emotional understanding, but there is some evidence thatmaltreating parents engage their children less often in emotional discussions (Edwardset al. , 2005) and that they manifest impairments in their capacity to understand their
+children’s expression of affect (Shipman & Zeman, 2001). Intrafamilial sexual abuse canbe expected to undermine the development of mentalization at multiple levels. The act of
+abuse can be argued to be incompatible with mentalizing the child’s experience (Allen,
+2013). Parents who abuse may be unable or unwilling to imagine the child’s internalexperience, may discourage coherent discourse about mental states, and undermine thedevelopment of mentalization in children to avoid engaging with the psychologicalimpact and suffering they inﬂict (Allen, Fonagy, & Bateman, 2008; Fonagy & Luyten,2009). Children may be terriﬁed to think of the minds of caregivers who sometimesharbour malevolent intentions or have distorted representations of them and may avoidthinking of this in order to preserve their attachment relationships (Allen, 2013; Fonagy
+et al. , 2002). By comparison, children who experienced extrafamilial sexual abuse are
+more likely to have access to relationships with parents that have fostered mentalizationregarding self and others and will help the child to mentalize the traumatic experience.
+Developing a reliable measure for assessing mentalization in children
+Whereas the theoretical literature on mentalization in middle childhood is burgeoning,empirical efforts to develop psychometrically sound and age appropriate measure of RF in
+this subpopulation are lagging behind (Humfress, O’Connor, Slaughter, Target, & Fonagy,
+2002; Shmueli-Goetz, Target, Fonagy, & Datta, 2008). The challenge is to develop anassessment procedure that takes advantage of the increasing language capacities ofchildren of this age group, but is able to distinguish between developmentally determinedlimitations in narrative abilities (Shmueli-Goetz et al. , 2008) and mentalization difﬁculties.
+The assessment of mentalization in attachment contexts is arguably the best indicator
+of an individual’s mentalization capacities, and for this reason, it is traditionally codedfrom the Adult Attachment Interview (AAI; George, Kaplan, & Main, 1996) using the Adult
+Reﬂective Functioning Scale (ARFS; Fonagy, Target, Steele, & Steele, 1998). Following the
+practice of rating adult RF from AAIs, the Child Attachment Interview (CAI; Shmueli-Goetzet al. , 2008) also makes it possible to assess RF in children. To pursue this objective,
+Ensink, Target, and Oandasan (2013) developed the CRFS. The CRFS is applied to thevideotaped and transcribed narratives children produce in response to the CAI.Mentalization in middle childhood and trauma 205
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Descriptions of themselves and their attachment relationships are rated to obtain
+indicators of mentalization regarding self as well as attachment ﬁgures. Compared to otherunderstanding, self-understanding has been argued to be a more complex developmentalachievement (Bodgan, 2003), involving slightly different, although proximal, neural
+networks (Lieberman, 2007) and possibly associated with different forms of interpersonal
+difﬁculties and psychosocial disturbances (Luyten & Fonagy, 2012).
+The main purpose of this study was to examine the reliability and preliminary validity
+of the CRFS, a measure speciﬁcally designed to assess RF or mentalization activated in anattachment context during middle childhood. To do this, we examined whether the CRFS(Ensink et al. , 2013) could be used to reliably rate children’s RF elicited in response to the
+CAI questions. The validity of two speciﬁc predictions was examined. First, it is generallyassumed that abuse and trauma during childhood is associated with negative impacts in a
+number of domains including self-understanding, social cognition, and emotional
+understanding (Cicchetti & Toth, 1995). Empirical literature on the impact of childsexual abuse on mentalization is practically non-existent, but based on previous ﬁndingswith children exposed to physical abuse, we will test the hypothesis that, as compared tomatched controls, sexually abused children will have poorer RF. Second, there is a largernumber of empirical studies showing that parental mentalization –maternal causal mental
+state talk, stimulation of perspective taking, family discussion of emotions, etc. –facilitates
+young children’s early self-understanding and other understanding (Sharp & Fonagy,
+2008a). There are no comparable studies for middle childhood, but based on ﬁndings with
+younger children as well as adolescents, we predicted that parent mentalization and childmentalization, measured as RF in adult and child interviews, respectively, would besigniﬁcantly associated.
+Method
+Participants and procedureParticipants were 94 mother –child dyads divided into two subgroups. The clinical group
+consisted of 46 dyads where the children had histories of intrafamilial ( n=22 dyads, 15
+girls, 7 boys, Mage=111 months, SD=17.1) or extrafamilial ( n=24 dyads, 19 girls, 5
+boys, Mage=120 months, SD=18.1) sexual abuse. Intrafamilial abuse was perpetrated
+either by fathers ( n=11), stepfathers ( n=3), siblings ( n=6), or grandfathers ( n=2).
+Extrafamilial abuse was perpetrated by acquaintances ( n=14), members of the
+extended, but not immediate, family ( n=9), or strangers ( n=1). Mothers of sexually
+abused children were single ( n=18), separated or divorced ( n=13), married ( n=9), or
+cohabiting ( n=6). These dyads were referred by Youth Protection Services. In terms of
+the type and severity of the abuse, 45 (98%) of 46 cases involved genital contact, with 19(42%) involving penetration.
+The community control group was composed of 48 mother –child dyads, selected to
+broadly match the socio-demographic, age, and gender characteristics of the abusedgroup. Mean age for the 29 girls and 19 boys in this group was 119 months ( SD=16).
+Mothers were cohabiting ( n=21), married ( n=15), separated or divorced ( n=6), or
+single ( n=6). This group was recruited through advertisements at Community Health
+Services and Day Care centres. To identify and exclude children in the control group withpossible histories of sexual abuse and other traumatic life events, parents of control groupchildren were interviewed about the child’s developmental history and traumatic lifeevents.206 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Control group families were matched with families from the clinical group on maternal
+education and child age (within 6 months). This procedure proved effective, and therewere no signiﬁcant between-group differences with regard to maternal education(M=13.7 years, SD=2.8, for the intrafamilial abuse group; M=13.8 years, SD=2.3,
+for the extrafamilial group; and M=14.9 years, SD=3.3 for the comparison group), F(2,
+91)=2.38, p>.05, child age ( M=111 months, SD=17, for the intrafamilial abuse
+group; M=120 months, SD=18, for the extrafamilial group; and M=119 months,
+SD=16, for the comparison group), F(2, 91) =2.20, p>.05, or number of siblings
+(M=2.38, SD=0.92, for the intrafamilial abuse group; M=3.09, SD=2.7, for the
+extrafamilial group; and M=2.15, SD=0.99, for the comparison group), F(2,
+91)=2.06, p>.05. The majority of the participants were Caucasians. A signed consent
+was obtained from all subjects and their parents, and the research was approved by our
+University Ethics Committee. Parents received a modest stipend to cover transport costs,
+and children were invited to choose a toy or small gift.
+Measures
+Child Reﬂective Functioning Scale
+The CRFS (Ensink et al. , 2013) was adapted from the ARFS (Fonagy et al. , 1998) and was
+used to rate videotaped and transcribed data gathered using the CAI (Shmueli-Goetz et al. ,
+2008; Target, Fonagy, Shmueli-Goetz, Datta, & Schneider, 1998). The CAI is a 15-questionassessment protocol developed to activate the attachment system and to elicit narrativesabout the self and relationships with attachment ﬁgures. For the purpose of the present
+study, the CAI was translated into French and then back-translated to assure equivalence
+with the original English version. Four female doctoral psychology students conductedthe interviews.
+The CRFS manual enables trained raters to make an objective assessment of children’s
+ability to provide mentalizing accounts of themselves and their key attachment
+relationships in response to the CAI questions. The manual contains descriptions andexamples of different levels and types of CRF. Children’s narratives are coded on an 11-point scale ( /C01 to 9) descriptively anchored at six points in terms of their propensity to
+consider interpersonal interactions and personal reactions in mental state terms.
+Examples of the different levels of RF are provided in Table 1. To obtain a generalindicator of children’s RF (CRF-G), the mean RF of all the coded responses was used. Thescale alpha was .94, and item-total correlations ranged from .57 to .79, conﬁrming that thetotal score (CRF-G) could be used as a good indicator of overall RF. Because of theoreticalconsiderations and previous ﬁndings with adults indicating that self- and otherunderstanding may have distinct implications, self and other items were treated asseparate scales. (A factor analysis is not reported given that the sample was composed in
+part of children with histories of sexual abuse involving their fathers and that this may
+have had an effect on their mentalization regarding fathers that may be particular to thissample and would be unlikely to be replicated in other samples.)
+To obtain an indicator of children’s RF regarding themselves (CRF-S), the mean RF for
+the four items eliciting self-descriptions and the child’s reactions in response to upsettingevents was used. Furthermore, an indicator of CRF-Other (CRF-O) was calculated based onthe mean RF on the nine questions regarding the child’s relationships with their parentsand a description of parents’ reactions when upset or when they argue. Inter –rater
+reliability of the CRFS items has been reported to be good, with intraclass coefﬁcientsMentalization in middle childhood and trauma 207
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Table 1. Examples of different levels of child reﬂective functioning
+RF Scores Example
+Bizarre, disorganized response
+mentalization is avoided“When was the last time you felt it was fun to be with
+mom?” –“Uhhh ...there’s a poem there, fun to be with
+mom ...I’m fun to be with mom ...I’ve got this video of
+Sesame Street ...”(/C01)
+Absence of mentalization “What happens when dad gets upset with you?” –“I don’t
+know, it just is” (0)
+Self description in terms of
+behavior, non-mental
+characteristics“I have lots of energy, I am athletic. I take part in lots of
+sports” (1)
+Descriptions are given without
+explicit reference to mental
+states“It is fun to be with mum” The child then gives the
+following example. “Sometimes on a Saturday she says
+come let me treat you, and we go to the shopping centreand I can try out a dress, or some jewelry, and then we
+go to McDonalds and have something to eat” (2)
+Some vague, basic but
+unelaborated references tomental states“I am friendly and helpful, I enjoy helping my friends, I
+always know how to solve things on the computer” (3)
+The child may recognize that
+when they experience anegative affect, their own
+behavior may elicit responses
+from others, which in turn canhelp to soothe or regulate their
+affect in various ways“When I get sad, Mom like, comforts me” (4)
+Clear description which shows a
+solid mental state understandingWhat happens when your mum gets upset? “It is usually
+about homework. By 5 pm I have had enough and I
+cannot stomach anymore, but it isn’t ﬁnished. So then I
+ask my mum if I can do something else” and she says“only if you have ﬁnished your homework. And I say “Ican’t stand it anymore” and she says “it is your
+responsibility to ﬁnish it, I can’t do it in your place.” and
+she says, “I don’t want to see you before you haveﬁnished it unless you want to see me get angry.” But I am
+frustrated, so I argue with her and get angry with her, but
+I know she is right and that I have to do it. There is noother way around it” (5)
+Clearly communicates the fact
+that she knows what she feels,but intentionally hides this“I am so angry at her ...but I would never show that to
+her” (6)
+Reﬂects an understanding that
+different people may perceive a
+given behavior or situationdifferently often based on
+differing knowledge of the
+situation or false belief“She was upset because she thought the secret was about
+her but it wasn’t. I did not know how to reassure her and
+keep the secret at the same time, and whatever I said,she just became more and more convinced it was about
+her” (7)
+Continued208 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+(ICCs) ranging from .60 to 1.00, with a median of .93 (Ensink, 2004). Temporal stability of
+children’s RF was shown to be high over a 3-month period and adequate over 12 months(Ensink, 2004). Coding was carried out by the ﬁrst author and two doctoral studentstrained by the ﬁrst author to 85% agreement. This level of reliability was achieved after12 hr of training. Coders were blind to the status of the case. Every effort was made toremove indicators from the transcript that might have indicated the participant’s abusestatus, although this was a limited problem as few children disclosed abuse-relatedinformation. Responses were screened for inadvertent indications of group identity by the
+interviewer, and all identifying references were either deleted in their entirety or key
+indicative content was blanked out (e.g., references to investigations and sexual abusewere taken out of the text).
+Maternal RF
+Maternal RF was measured with the Parent Development Interview (PDI) Addendum tothe ARFS (Fonagy et al. , 1998). The PDI-R (Slade, Bernbach, Grienenberger, Levy, &
+Locker, 2004) is a 45-item interview developed to assess parental representations of the
+child and of the parent –child relationship. Reliability estimates produced using ICCs
+range from .78 to .95 (Slade, Grienenberger, Bernbach, Levy, & Locker, 2005). Theinterview was videotaped and transcribed for coding purposes. Each demand questionwas coded with reference to the manual, which provides illustrations of different typesand levels of RF responses. An overall RF score (ranging from /C01 to 9) was assigned
+using the manualized guidelines. All protocols were coded by the ﬁrst and secondauthor of the study, both trained to code parental RF. Protocols were allocated so that
+the ﬁrst author never coded both parent and child measures for any dyad. Inter –rater
+reliability was calculated on 20% of protocols and was satisfactory (ICCs ranged from.67 to .98 and reached .93 for the global PDI score).Table 1. (Continued )
+RF Scores Example
+Unusually nuanced understanding
+of reactions of self and otherthat also incorporates a sense of
+feelings and reactions changing
+over time“When I was younger I had lots of problems after the
+abuse. I used to escape into a phantasy life, dreamingabout being a princess living in a castle, having beautiful
+clothes and an expensive car. I felt different from the
+others and did not want to play with them even whenthey asked me to. It was really not going well. But now I
+accept what has happened. It was difﬁcult for me at the
+time because it was someone in my family, and I felt thatmy parents and grandparents did not completely takemy side and I could not understand why he could get
+away with doing what he did and the family still kept
+contact with him. Now I understand that what he didwas wrong, that he made a mistake, but he was young
+and immature. I still ﬁnd it difﬁcult to see him, but I
+accept that he is part of the family and they cannot justthrow him away, but at the time I could not understand
+that because I was so upset, and I felt that if they did not
+do that it was because they did not love me, they did notprotect me and support me” (8)Mentalization in middle childhood and trauma 209
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Results
+Child RF and mothers’ RF in the clinical and comparison groups
+Preliminary analyses
+First, inter –rater reliability of the CRFS was calculated on 30% of protocols and was
+demonstrated to be excellent (ICCs ranging f r o m. 8 0t o. 9 0 ) .F u r t h e r m o r e ,a n dp r i o rt o
+testing the hypotheses, we examined the distribution of RF and explored the data for
+potential confounding variables. Gender differences in CRF-S, F(1, 93) =.01,p>.05, and
+CRFS-O, F(1, 93) =.02,p>.05, were not signiﬁcant. The distribution of RF scores was
+normal/somewhat skewed for both children and parents but not sufﬁciently to necessitatethe use of nonparametric statistics for hypothesis testing. Child RF was signiﬁcantlycorrelated with age, and thus, the effect of age was controlled in multiple regression analyses.
+Child RF
+From a descriptive viewpoint, mean CRF-G scores were very low for the sexually abused
+group ( M=2.08, SD=1.44, SE=.21, Min =/C00.25, Max =6.92) and, also, to a lesser
+extent, in the comparison group ( M=3.25, SD=1.02, SE=.15, Min =1.17,
+Max =5.83). The difference between the two groups was signiﬁcant, t(93) =4.51,
+p<.001, and, using conventional interpretative criteria (Cohen, 1988), could be
+considered large as the mean of the abused group was at the 79th percentile of thecomparison group (Hedges’ g=.94, 95% CI: 0.65 –1.67). Thus, child sexual abuse was
+associated with increased difﬁculties in mentalization.
+When total RF scores were broken down into separate indicators of CRF-S and CRF-O,
+mentalization capacities were, again, at the lower end of the spectrum. More speciﬁcally,CRF-S was very low in the sexually abused group ( M=2.22, SD=1.76, SE=.25,
+Min=/C00.50, Max =7.75) and, also, but to a certain degree only, in the comparison
+group ( M=3.38, SD=1.08, SE=.16, Min =1.25, Max =
+5.5). This difference was
+signiﬁcant, t(93) =3.84, p<.001, and, reﬂected a medium to large effect (Hedges’
+g=.79, 95% CI: 0.56 –1.76). Mentalization capacities about others as measured by CRF-O
+showed a similar pattern of ﬁndings for the sexually abused ( M=2.01,
+SD=1.39, SE=.20, Min =/C00.13, Max =6.5) and comparison ( M=3.15, SD=1.09,
+SE=.16, Min =1.0, Max =6.0) groups. Again, this difference was signiﬁcant,
+t(93) =4.44, p<.001, and the effect size was large (Hedges’ g=.92, 95% CI: 0.63 –1.65).
+Finally, to determine whether there were signiﬁcant differences in the RF of children
+who experienced intrafamilial and extrafamilial sexual abuse, additional comparisonswere made within the clinical group. At the combined self/other understanding (CRF-G)level, the mentalization capacities of children who had suffered intrafamilial abuse(M=1.65, SD=1.06, SE=.22, Min =/C00.25, Max =4.33) were somewhat lower than
+those of children in the extrafamilial group ( M=2.49, SD=1.63, SE=.33, Min =0.00,
+Max =6.92), and this difference was signiﬁcant, t(93) =2.13, p=.04 (Hedges’ g=.62,
+95% CI: 0.05 –1.64). When these results were subdivided into separate dimensions of RF
+regarding self and other, CRF-S proved to be signiﬁcantly lower in cases of intrafamilialabuse ( M=
+1.70, SD=1.50, SE=.31, Min =/C00.50, Max =6.50) than in cases of
+extrafamilial abuse ( M=2.70, SD=1.87, SE=.37, Min =0.00, Max =7.75),
+t(93) =2.06, p=.05, and the associated effect size was medium (Hedges’ g=.60, 95%
+CI: 0.02 –1.98). For CRF-O, the difference between intrafamilial ( M=1.61, SD=0.99,
+SE=.21, Min =/C00.13, Max =3.25) and extrafamilial ( M=2.38, SD=1.60, SE=.32,210 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Min=0.00, Max =6.50) cases was in the expected direction and reached signiﬁcance,
+t(93) =1.99, p=.05 (Hedges’ g=.58, 95% CI: /C00.01 to 1.55).
+Mothers’ RF
+Mothers’ RF varied from very low to rudimentary and was signiﬁcantly lower in theintrafamilial sexual abuse ( M=2.61, SD=1.64, SE=.34, Min =/C01.0, Max =6) and
+extrafamilial sexual abuse ( M=3.12, SD=1.86, SE=.37, Min =.05, Max =6) groups
+than in the comparison group ( M=4.35, SD=1.66, SE=.25, Min =2.2, Max =7.65),
+F(2, 93) =9.23, p<.001. The effect size associated with this group difference was large
+(Hedges’ g=.86, 95% CI: 0.77 –2.77).
+Prediction of Child RF
+Correlational analyses revealed that children’s age ( r=.28, p<.01, r=.27, p<.01
+andr=.26,p<.05) and maternal RF ( r=.33,p<.01,
+r=.32,p<.01 and r=.31,
+p<.01) were, respectively, related to CRF-G, as well as to CRF-S and CRF-O. To better
+circumscribe the unique effects of this set of predictors, and because CRF-S and CRF-Owere not perfectly dependent ( r=.79,p<.01), three separate hierarchical multiple
+regression analyses were conducted: one to predict CRF-G, one to predict CRF-S, and
+one to predict CRF-O. In all three analyses, child age was entered ﬁrst, followed by
+mothers’ RF and ﬁnally sexual abuse status (dummy coded abused vs. comparison, withthe comparison participants serving as the reference group). The results of theseanalyses are presented in Table 2. In the ﬁrst analysis examining predictors of CRF-G,child age, mothers’ RF, and sexual abuse status were all signiﬁcant unique predictors ofCRF-G. More speciﬁcally, being an older child, having mothers with elevated RF and theabsence of sexual abuse were associated with higher global RF in children. However,when abuse status was entered, the association between CRF-G and mothers’ RF
+became marginally signiﬁcant. In the second analysis examining predictors of CRF-S,
+child age, mothers’ RF, and sexual abuse status were signiﬁcant predictors of CRF-S.Again, as with CRF-G, when abuse status was entered, the association between CRF-Sand mothers’ RF became marginally signiﬁcant. In the third analysis examiningpredictors of CRF-O, child age and sexual abuse signiﬁcantly predicted CRF-O but theeffect of mothers’ RF became nonsigniﬁcant when abuse status was entered into theequation.
+Finally, to ascertain whether intrafamilial and extrafamilial child sexual abuse were
+independent contributors to explained variance in CRF-G, CRF-S, and CRF-O, previous
+regression analyses were repeated and the role of abuse was assessed by creating a three-category dummy variable, with control children as the reference group. The resultsshowed that intrafamilial and extrafamilial sexual abuse were independent contributors toexplained variance in CRF-G ( b=/C0.44,p<.001, for intrafamilial abuse and b=/C0.22,
+p<.05, for extrafamilial abuse) and CRF-O ( b=/C0.40,p<.001, for intrafamilial abuse
+andb=/C0.22, p<.05, for extrafamilial abuse). For CRF-S, only intrafamilial abuse
+(b=/C0.36,p<.001) was speciﬁcally related to child RF.
+Discussion
+This study extends the literature on mentalization in middle childhood in three important
+ways. First, the CRFS used to code the CAI proved reliable with excellent intraclassMentalization in middle childhood and trauma 211
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+correlation coefﬁcients, conﬁrming that it is possible to reliably measure mentalization
+(RF) in children aged from 7 to 12 years old from the narratives they produce regardingthemselves and their relationships with attachment ﬁgures.
+Second, the association between child sexual abuse and RF supports the criterion
+validity of the observational coding system speciﬁcally developed to assess mentalizationwith the CAI. This conclusion rests on several complementary empirical ﬁndings. Forexample, when looking at children’s mentalization capacities in general (CRF-G), thedifference between children who had histories of sexual abuse and the comparison group
+from the community was not only signiﬁcant but, by conventional criteria, represented a
+large effect size. By comparison, the mean RF of children in the normative group indicatesthat they had developed the capacity to use a rudimentary level of emotional and mentalstate terms in thinking about themselves and others. The mean RF of the normative groupwas lower than expected in middle class samples, likely due to the fact that the controlgroup in this study was matched on socio-economic variables with the abuse group.Signiﬁcant differences between the sexual abuse and comparison group were also evidentwhen using separate indicators to operationalize children’s RF regarding themself (CRF-S)Table 2. Hierarchical regression analyses for the prediction of child reﬂective functioning (RF; N=94)
+VariableModel 1 Model 2 Model 3
+BS E B b BS E B b BS E B b
+Child Reﬂective Functioning (CRF) General
+Age .02 .01 .28** .02 .01 .27** .02 .01 .27**
+Maternal RF .24 .07 .32** .13 .07 .18†
+Child sexual abuse
+No abuse
+Sexual abuse /C0.94 .27 /C0.34**
+R2.081 .18 .281
+DR2.071 .16 .26
+Ffor change in R28.08** 11.25** 12.47**
+CRF-Self
+Age .02 .01 .27** .02 .01 .26** .02 .01 .26**
+Maternal RF .26 .08 .31** .17 .09 .20†
+Child sexual abuse
+No abuse
+Sexual abuse /C0.89 .31 /C0.29**
+R2.07 .17 .24
+DR2.06 .15 .21
+Ffor change in R27.40** 10.39* 8.08**
+CRF-Other
+Age .02 .01 .26** .02 .01 .25** .02 .01 .24**Maternal RF .22 .07 .30** .12 .07 .16
+Child sexual abuse
+No abuseSexual abuse /C0.94 .27 /C0.35**
+R
+2.07 .16 .26
+DR2.06 .14 .23
+Ffor change in R26.74** 9.45** 12.25**
+Note .†p<.10;*p<.05;**p<.01.212 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+and others (CRF-O), two important domains of mentalization abilities. These differences
+were, respectively, of moderate and large magnitude and were maintained even aftercontrolling for children’s age and maternal RF. These ﬁndings conﬁrm that child sexualabuse is associated with mentalization difﬁculties in both the domains of CRF-S and CRF-O.
+Furthermore, even if these comparisons had less statistical power, children with histories
+of intrafamilial abuse, when compared to children who experienced extrafamilial sexualabuse, had signiﬁcantly lower mentalization capacities in general (CRF-G). Morespeciﬁcally, children who had experienced intrafamilial sexual abuse had signiﬁcantlylower mentalization capacities regarding self (CRF-S) and others (CRF-O), suggesting thatintrafamilial abuse has a more severe impact on children’s capacity to think of self andothers in coherent mental state terms than extrafamilial abuse.
+Third, maternal RF was associated with child CRF-G, including CRF-S and CRF-O. These
+ﬁndings extend the growing body of research demonstrating the importance of maternal
+inﬂuences in particular on the development of children’s ToM and emotionalunderstanding (Sharp & Fonagy, 2008a,b). The relation between maternal and child RFis likely to be mediated by the mother’s capacity to imagine the child as a person andpsychological being and communicate this to the child and then elaborate or co-constructan understanding with the child. The ﬁndings of this study suggest that by middlechildhood, the magnitude of this effect is at best moderate.
+In addition to conﬁrming the reliability and validity of the CRFS coding system, the
+study also produced a number of additional ﬁndings that contribute to understanding
+mentalization in children with histories of sexual abuse and their mothers. The ﬁndingswith regard to speciﬁc difﬁculties in CRF-G, CRF-S, and CRF-O in children with histories ofsexual abuse add to the existing evidence of delayed ToM (Cicchetti et al. , 2003; Pears &
+Fisher, 2005), dissociation, as well as problems in identity and incoherence of parentalrepresentations in maltreated children (Macﬁe, Cicchetti, & Toth, 2001). In addition, theﬁndings of the study draw attention to speciﬁc difﬁculties children who have experiencedsexual abuse, and particularly intrafamilial sexual abuse, have in mentalizing regarding
+themselves and others. These difﬁculties are likely to contribute to subsequent difﬁculties
+with identity, sense of self and intimate relationships, which in turn can be hypothesizedto increase vulnerability in the context of further stress, and the risk of developing a formof psychopathology in adolescence or adulthood.
+Two different patterns emerged when examining the predictors of children’s RF-O and
+RF-S in the context of abuse. The ﬁndings of the regression analyses indicate that bothmaternal RF and sexual abuse made independent contributions to explaining variance inCRF-S. This suggests that the impact of maternal RF remains important for CRF-S, even
+when considering the impact of abuse and the multiple levels through which it can disrupt
+children’s mentalization capacities regarding themselves. This is consistent with Fonagyand Target’s (2006) developmental model where the early sense of self crystalizes aroundthe experience of being treated by a caregiver as a psychological being with a mind andwhere the child develops a sense of self and identity through interactions with a caregiverthat reﬂects on his mind. In addition to maternal RF, sexual abuse also made a signiﬁcantcontribution to explaining variance in CRF-S. Abuse may contribute to a phobic avoidanceof mentalizing and thinking about emotional reactions out of fear of encountering
+unbearable feelings and thoughts related to the trauma (Briere, Hodges, & Godbout, 2010;
+Schwarz, 2002).
+Sexual abuse was the only variable that explained variance in CRF-O, as the
+contribution of maternal RF was no longer signiﬁcant after abuse was entered. Oneexplanation of these ﬁndings could be that the experience of abuse and trauma inﬂictedMentalization in middle childhood and trauma 213
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+intentionally disrupts trust, openness, and curiosity and installs an aversion to considering
+the intentions and minds of others given the frankly destructive intentions towards him orher that the child must infer from the abusive act. In addition, sexual abuse in the contextof attachment relationships and the family may produce a decoupling or inhibition of
+mentalization that helps children adapt to situations where they cannot avoid a member of
+the family who abuse them or where they are dependent on attachment ﬁgures whoprovoke fear.
+In this study, the CRFS made it possible to identify important deﬁcits in mentalization
+associated with child sexual abuse. There are important limitations to this study thatshould be considered before making conclusions based on these ﬁndings. The sample sizewas relatively small, although adequate for testing the hypotheses of this study.Undoubtedly, there was substantial heterogeneity in the sample, the range and context of
+the sexual abuse was highly variable, and many children may have experienced additional
+forms of maltreatment. Furthermore, the sample certainly was not of a sufﬁcient size toexplore the implication of this heterogeneity on CAI-RF outcomes. The ﬁndings of thepresent study provides preliminary support for the validity of the CRFS, but further work isneeded to examine whether children’s psychological understanding of self and others hasthe expected implications for self-concept, social adaptation, and psychopathology. Atpresent, there is no measure that can be considered the gold standard of mentalizationcapacities or psychological understanding of children and against which the CRFS can
+thus be compared. However, further research is needed to clarify the relationship
+between child RF and related constructs such as emotional understanding and ToM.
+The validation of CRFS potentially opens the door for child researchers to join
+researchers working with adult populations and to examine the implications ofmentalization capacities in psychopathology. The use of the CRFS does require aninvestment in training as well as in transcribing and coding the interview, but the trainingand coding is relatively less complex than that needed to rate attachment. It is likely topresent a worthwhile investment for researchers given the lack of alternative measures.
+Furthermore, many child researchers have already been trained to use the CAI to assess
+attachment in school-aged children and could use the CRFS to examine the speciﬁccontribution of mentalization capacities.
+Conclusion
+The ﬁndings conﬁrm that the CRF scale is a reliable and valid measure that can be used toidentify clinically relevant mentalization difﬁculties and have important research and
+clinical implications for assessing and understanding the repercussions of child sexual
+abuse. Sexual abuse, especially intrafamilial sexual abuse, was found to be associated withsigniﬁcant difﬁculties in mentalization in children as well as their mothers. The ﬁndingsunderscore the importance of maternal RF for the development of CRF-S. It is apparentthat in the context of sexual abuse, children and mothers frequently do not considermental states and see beyond behaviour. This is likely to make it challenging to understandchildren’s psychological reactions consequent to abuse and respond appropriatelywithout additional help and intervention.
+Acknowledgements
+The second author received ﬁnancial support from the Fond de Recherch /C19ed uQ u /C19ebec-Sant /C19e
+(FRSQ).214 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+References
+Allen, J. G. (2013). Mentalization in the development and treatment of Attachment Trauma .
+London, UK: Karnac Books.
+Allen, J. G., Fonagy, P., & Bateman, A. W. (2008). Mentalizing in clinical practice . Arlington, VA:
+American Psychiatric.
+Benbassat, N., & Priel, B. (2012). Parenting and adolescent adjustment: The role of parental
+reﬂective functioning. Journal of Adolescence ,35, 163 –174. doi:10.1016/j.adolescence.2011.
+03.004
+Berthelot, N., Ensink, K., Bernazzani, O., Normandin, L., Luyten, P., & Fonagy, P. (2014) Mother –
+infant attachment, reﬂective functioning, and unresolved trauma in mothers with childhood
+histories of abuse and neglect: A 20 month prospective study . Manuscript submitted for
+publication.
+Bettens, C. G., Favez, N., & Stern, D. N. (2003). The mother –child co-construction of an event lived
+by the preschool child: The role of the mother’s knowledge of “What happened”. In R. N. Emde,D. P. Wolf & D. Oppenheim (Eds.), Revealing the Inner Worlds of Young Children (pp. 268 –
+302). Cambridge, UK: Oxford University Press.
+Bodgan, R. J. (2003). Interpreting minds . Cambridge, MA: MIT Press.
+Briere, J., Hodges, M., & Godbout, N. (2010). Traumatic stress, affect dysregulation, and
+dysfunctional avoidance: A structural equation model. Journal of traumatic stress ,23, 767 –
+774.
+Camras, L., Sachs-Alter, E., & Ribordy, S. (1996). Emotion understanding in maltreated children:
+Recognition of facial expressions and integration with other emotion cues. In M. Lewis & M.
+Sullivan (Eds.), Emotional development in atypical children (pp. 203 –225). Hillsdale, NJ:
+Erlbaum.
+Cicchetti, D., Rogosch, F. A., Maughan, A., Toth, S. L., & Bruce, J. (2003). False belief understanding
+in maltreated children. Development and psychopathology ,15, 1067 –1091.
+Cicchetti, D., & Toth, S. L. (1995). A developmental psychopathology perspective on child abuse
+and neglect. Journal of American Academy of Child & Adolescent Psychiatry ,34, 541 –565.
+Cohen, J. (1988). Statistical power analysis . Hillsdale, NJ: Lawrence Erlbaum.
+de Rosnay, M., Harris, P. L., & Pons, F. (2008). Making links between emotion understanding and
+developmental psychopathology in young children. In C. Sharp, P. Fonagy & I. Goodyer (Eds.),
+Social cognition and developmental psychopathology (pp. 443 –386). Oxford, UK: Oxford
+University Press.
+Doan, S. N., & Wang, Q. (2010). Maternal discussions of mental states and behaviors: Relations to
+emotion situation knowledge in European American and immigrant Chinese children. Child
+Development ,81, 1490 –1503.
+Dunn, J., Brown, J., & Beardsall, L. (1991). Family talk about feeling states and children’s later
+understanding of others’ emotions. Developmental Psychology ,27, 448 –455.
+Edwards, A., Shipman, K., & Brown, A. (2005). The socialization of emotional understanding: A
+comparison of neglectful and nonneglectful mothers and their children. Child Maltreatment ,
+10, 293 –
+304.
+Ensink, K. (2004). Assessing theory of mind, affective understanding and reﬂective functioning in
+primary school-aged children (Unpublished PhD Dissertation). London, UK: University College
+London.
+Ensink, K., Berthelot, N., Bernazzani, O., Normandin, L., Luyten, P., & Fonagy, P. (2014). Reﬂective
+Functioning regarding Trauma, Attachment and unresolved trauma in pregnant women
+with histories of abuse and neglect . Manuscript submitted for publication.
+Ensink, K., Target, M., & Oandasan, C. (2013). Child reﬂective functioning scale scoring manual:
+For application to the Child Attachment Interview . Unpublished manuscript, London, UK:
+Anna Freud Centre - University College London.
+Ereky-Stevens, K. (2008). Associations between mothers’ sensitivity to their infants’ internal states
+and children’s later understanding of mind and emotion. Infant and Child Development ,17,
+527–543.Mentalization in middle childhood and trauma 215
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). Affect regulation, mentalization, and the
+development of the self . New York, NY: Other Press.
+Fonagy, P., Gergely, G., & Target, M. (2007). The parent –infant dyad and the construction of the
+subjective self. Journal of Child Psychology and Psychiatry ,48, 288 –328.
+Fonagy, P., & Luyten, P. (2009). A developmental, mentalization-based approach to the
+understanding and treatment of borderline personality disorder. Development and
+Psychopathology ,21, 1355 –1381.
+Fonagy, P., Steele, M., Moran, G., Steele, H., & Higgitt, A. (1991). Measuring the ghost in the nursery:
+A summary of the main ﬁndings of the Anna Freud Centre-University College, London Parent –
+Child Study. Bulletin of the Anna Freud Centre ,14, 115 –131.
+Fonagy, P., Steele, M., Steele, H., Higgitt, A., & Target, M. (1994). The Emmanuel Miller Memorial
+Lecture 1992. The theory and practice of resilience. Journal of Child Psychology and
+Psychiatry and Allied Disciplines ,35, 231 –257.
+Fonagy, P., & Target, M. (1996). Playing with reality: I. Theory of mind and the normal development
+of psychic reality. International Journal of Psycho-Analysis ,77, 217 –234.
+Fonagy, P., & Target, M. (2006). The mentalization-focused approach to self pathology. Journal of
+personality disorders ,20, 544 –576.
+Fonagy, P., Target, M., Steele, H., & Steele, M. (1998). Reﬂective-functioning manual, version 5.0:
+For application to Adult Attachment Interviews . London, UK: University College London.
+George, C., Kaplan, N., & Main, M. (1996). Adult Attachment Interview (3rd ed.). Unpublished
+manuscript, Berkeley, CA: University of California.
+Humfress, H., O’Connor, T. G., Slaughter, J., Target, M., & Fonagy, P. (2002). General and
+relationship-speciﬁc models of social cognition: Explaining the overlap and discrepancies.
+Journal of Child Psychology and Psychiatry ,43, 873 –883.
+Laible, D., Murphy, T., & Augustine, M. (2013). Predicting the quality of mother –child reminiscing
+surrounding negative emotional events at 42- and 48-months. Journal of Cognition and
+Development ,14, 270 –291. doi:10.1080/15248372.2011.645972
+Lieberman, M. D. (2007). Social cognitive neuroscience: A review of core processes. Annual Review
+of Psychology ,58, 259 –289.
+Luyten, P., & Fonagy, P. (2012). The multidimensional construct of mentalization and its relevance
+to understanding borderline personality disorder. In A. Fotopoulou, D. Pfaff & M. A. Conway
+(Eds.), From the couch to the lab: Trends in psychodynamic neuroscience edition (pp. 405 –
+427). New York, NY: Oxford University Press.
+Macﬁe, J., Cicchetti, D., & Toth, S. (2001). Dissociation in maltreated versus non-maltreated pre-
+school-aged children. Child Abuse & Neglect ,25, 1253 –1267.
+Pears, K., & Fisher, P. A. (2005). Emotion understanding and theory of mind among maltreated
+children in foster care: Evidence of deﬁcits. Development and Psychopathology ,17,4 7–
+65.
+Pollak, S. D., Cicchetti, D., Hornung, K., & Reed, A. (2000). Recognizing emotion in faces:
+Developmental effects of child abuse and neglect. Developmental Psychology ,36, 679 –688.
+Prebble, S., Addis, D. R., & Tippett, L. J. (2013). Autobiographical memory and sense of self.
+Psychological Bulletin ,139, 815 –840. doi:10.1037/ a0030146
+Rogosch, F. A., Cicchetti, D., & Aber, J. L. (1995). The role of child maltreatment in early deviations in
+cognitive and affective processing abilities and later peer relationship problems. Development
+and Psychopathology ,7, 591 –609.
+Rosenblum, K. L., McDonough, S. C., Sameroff, A. J., & Muzik, M. (2008). Reﬂection in thought and
+action: Maternal parenting reﬂectivity predicts mind-minded comments and interactivebehavior. Infant Mental Health Journal ,29, 362 –376.
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation between children’s and mothers’ mental
+state language and theory-of-mind understanding. Child development ,73, 734 –751.
+Schneider-Rosen, K., & Cicchetti, D. (1991). Early self-knowledge and emotional development.
+Developmental Psychology ,27, 471 –478.
+Schwarz, R. (2002). Tools for transforming trauma . New York, NY: Routledge.216 Karin Ensink et al.
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Sharp, C., & Fonagy, P. (2008a). The parent’s capacity to treat the child as a psychological agent:
+Constructs, measures and implications for developmental psychopathology. Social
+Development ,17, 737 –754.
+Sharp, C., & Fonagy, P. (2008b). Social cognition and attachment-related disorders. In C. Sharp, P.
+Fonagy & I. Goodyer (Eds.), Social cognition and developmental psychopathology (pp. 269 –
+302). Oxford, UK: Oxford University Press.
+Shipman, K. L., & Zeman, J. (1999). Emotional understanding: A comparison of physically
+maltreating and nonmaltreating mother –child dyads. Journal of Clinical Child Psychology ,28,
+407–417.
+Shipman, K. L., & Zeman, J. (2001). Socialization of children’s emotion regulation in mother –child
+dyads: A developmental psychopathology perspective. Development and Psychopathology ,
+13, 317 –336.
+Shipman, K., Zeman, J., Penza, S., & Champion, K. (2000). Emotion management skills in sexually
+maltreated and nonmaltreated girls: A developmental psychopathology perspective.Development and Psychopathology ,12,4 7–62.
+Shmueli-Goetz, Y., Target, M., Fonagy, P., & Datta, A. (2008). The Child Attachment Interview: A
+psychometric study of reliability and discriminant validity. Developmental Psychology ,44, 939 –
+956.
+Slade, A. (2005). Parental reﬂective functioning: An introduction. Attachment & Human
+Development ,7, 269 –281.
+Slade, A., Aber, J. L., Bresgi, I., Berger, B., & Kaplan, M. (2004). The parent development interview-
+Revised . Unpublished manuscript, New York, NY: The City University of New York.
+Slade, A., Bernbach, E., Grienenberger, J., Levy, D., & Locker, A. (2004). Addendum to Fonagy,
+Target, Steele, & Steele reﬂective functioning scoring manual for use with the ParentDevelopment Interview . Unpublished manuscript, New York, NY: The City University of New
+York.
+Slade, A., Grienenberger, J., Bernbach, E., Levy, D., & Locker, A. (2005). Maternal reﬂective
+functioning, attachment, and the transmission gap: A preliminary study. Attachment & Human
+Development ,7, 283 –298.
+Steele, H., Steele, M., Croft, C., & Fonagy, P. (1999). Infant mother attachment at one year predicts
+children’s understanding of mixed emotions at 6 years. Social Development ,8, 161 –178.
+Symons, D. K., Fossum, K., & Collins, T. B. K. (2006). A longitudinal study of belief and desire state
+discourse during mother –child play and later false belief understanding. Social Development ,
+15, 676 –691.
+Target, M., Fonagy, P., Shmueli-Goetz, Y., Datta, A., & Schneider, T. (1998). The child attachment
+interview (CAI) protocol (Revised Edition VI). Unpublished manuscript, London, UK:
+University College London.
+Taumoepeau, M., & Ruffman, T. (2008). Stepping stones to others’ minds: Maternal talk relates to
+child mental state language and emotion understanding at 15, 24, and 33 months. Child
+Development ,79, 284 –302.
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes .
+Cambridge, MA: Harvard University Press.
+Received 24 April 2014; revised version received 30 October 2014Mentalization in middle childhood and trauma 217
+ 2044835x, 2015, 2, Downloaded from https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12074 by University Of Szeged, Wiley Online Library on [01/04/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

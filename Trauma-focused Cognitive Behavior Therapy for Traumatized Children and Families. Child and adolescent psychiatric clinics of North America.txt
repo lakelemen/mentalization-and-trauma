@@ -1,0 +1,657 @@
+Trauma-Focused Cognitive Behavioral Therapy for Traumatized 
+Children and Families
+Judith A. Cohen, M.D.  and
+Department of Psychiatry, Allegheny General Hospital, Drexel University College of Medicine, 4 
+Allegheny Center, 8th Floor, Pittsburgh, PA 15212, Jcohen1@wpahs.org
+Anthony P. Mannarino, Ph.D.
+Department of Psychiatry, Allegheny General Hospital, Drexel University College of Medicine, 4 
+Allegheny Center, 8th Floor, Pittsburgh, PA 15212, amannari@wpahs.org
+Keywords
+Children; adolescents; trauma; PTSD; parents; families; Trauma-Focused CBT; treatment
+Overview: Nature of the Problem
+Child trauma is a serious societal problem. At least one trauma is reported by two-thirds of 
+American children and adolescents (hereafter referred to as “children”); 33% of children 
+experience multiple traumas before reaching adulthood1. Although most children are 
+resilient, trauma exposure is associated with increased risk for medical and mental health 
+problems including Posttraumatic Stress Disorder (PTSD), depression, anxiety, substance 
+abuse, and attempted and completed suicide2;3. Early identification and treatment of 
+traumatized children can prevent these potentially serious and long term negative outcomes.
+Parents can have a significant impact on children’s trauma responses. For example, lower 
+levels of parental distress about the child’s trauma and greater parental support predict more 
+positive outcomes after child trauma exposure whereas greater parental PTSD symptoms 
+predicts more negative child outcomes4. Involving parents in the traumatized child’s 
+treatment can effectively address these factors and thus positively impact the child’s 
+outcome.
+Non-offending parents are typically children’s primary source of safety, support, and 
+guidance. (It should be noted that TF-CBT does not include offending parents , that is, 
+parents who perpetrated the trauma for which the child is receiving treatment such as a 
+parent who perpetrated the child’s sexual abuse or domestic violence.) However, trauma 
+experiences teach children that the world is dangerous and that adults may not protect them. 
+Such children often become angry at and stop trusting their parents, leading parents to 
+© 2015 Published by Elsevier Inc.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be 
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+HHS Public Access
+Author manuscript
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Published in final edited form as:
+Child Adolesc Psychiatr Clin N Am . 2015 July ; 24(3): 557–570. doi:10.1016/j.chc.2015.02.005.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+become confused and upset. Trauma-focused therapy can help parents recognize and 
+respond appropriately to their children’s trauma responses while setting appropriate 
+behavioral limits. This enables parents to provide the traumatized child with ongoing 
+opportunities to relearn (or learn for the first time) that people can be safe and trustworthy. 
+Thus, there are many reasons to suggest that family-focused treatment that integrally 
+includes parents will significantly enhance outcomes for traumatized children.
+Child Evaluation Overview
+Evaluating children after trauma exposure is complex and is described in detail elsewhere5. 
+There are important differences between forensic and clinical evaluations, particularly after 
+child abuse6. The following discussion pertains only to clinical evaluations. As with all child 
+mental health evaluations, these evaluations should include multiple informants. At a 
+minimum this includes interviewing the child and parent, but school reports, pediatric 
+records, and/or other information should also be obtained as clinically indicated. This often 
+includes speaking to or reviewing records from the child’s Child Protective Services case 
+worker; juvenile justice parole officer, and/or past and current psychiatric treatment 
+providers (e.g., medication prescriber, in-home or wrap around services, residential 
+treatment facility, etc.) If a forensic evaluation has been conducted by the local Child 
+Advocacy Center or a private evaluator, these records should also be reviewed and included 
+in the evaluation.
+To benefit from TF-CBT, children must have experienced at least one remembered trauma . 
+The remembered trauma can be any type of trauma, including multiple traumas or complex 
+trauma. Since avoidance is a hallmark of PTSD, children often initially minimize 
+information about their trauma experiences and symptoms; in some cases they may 
+completely deny having experienced trauma, thus contributing to under-diagnosis of trauma-
+related disorders. Additionally, as noted above, trauma involves the betrayal of trust, 
+typically by adults; meeting a new adult such as a therapist can therefore serve as a trauma 
+reminder and lead to high levels of mistrust during the initial evaluation, particularly for 
+children with early interpersonal trauma and attachment disruption (“complex trauma”).
+Children should have prominent trauma-related symptoms. A PTSD diagnosis is not 
+necessary, although some PTSD symptoms are typically present. The use of a validated 
+screening instrument such as the UCLA PTSD Reaction Index for DSM-57 or the Children’s 
+Posttraumatic Symptom Scale8 may be useful for following these symptoms but is not a 
+replacement for a thorough clinical interview. Evaluators must develop competence at 
+interviewing children across the developmental spectrum for the range of trauma symptoms 
+with which children may present. Other common diagnoses are depressive, anxiety, 
+behavioral or adjustment disorders. Therapists should clearly understand the manifestations 
+of complex trauma and the multiple domains of trauma impact (i.e., affective, behavioral, 
+biological, cognitive, interpersonal, perceptual), rather than depending solely on diagnosis to 
+determine appropriateness for trauma-focused treatment. At the same time, therapists must 
+distinguish between complex trauma and other comorbidities. For example, children whose 
+behavioral problems occur within a constellation of affective, biological, cognitive and 
+interpersonal dysregulation that is triggered by trauma reminders will likely respond to TF-Cohen and Mannarino Page 2
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+CBT, and must be differentiated from children with severe primary externalizing behavior 
+problems (e.g., Conduct Disorder) who will likely benefit more from another evidence-
+based treatment that addresses these difficulties before embarking on trauma-focused 
+treatment.
+Management Goals
+As the above description suggests, the goals of TF-CBT are to address and re-regulate the 
+individual child’s domains of trauma impact, which may be summarized by but not limited 
+to the following:
+A: Affective, e.g., anxiety, sadness, anger, affective dysregulation
+B: Behavioral, e.g., avoidance of trauma reminders, self-injurious behaviors, 
+maladaptive behaviors modeled during trauma (e.g., sexual behaviors, bullying, 
+aggression), non-compliance, severe behavioral dysregulation
+B: Biological, e.g., hypervigilance, poor sleep, increased startle, stomachaches, 
+headaches, other somatic problems that interfere with functioning
+C: Cognitive/perceptual, e.g., intrusive trauma-related thoughts and memories; 
+maladaptive trauma-related beliefs, dissociation, psychotic symptoms, cognitive 
+dysregulation
+S: Social/school: e.g., impaired relationships with family, friends, peers, social 
+withdrawal, decline in school concentration, performance and/or attendance; impaired 
+attachment and/or trust
+Description of Treatment
+Core TF-CBT Principles
+Core TF-CBT principles are 1) phase- and components-based treatment; 2) component order 
+and proportionality of phases; 3) the use of gradual exposure in TF-CBT and 4) the 
+importance of integrally including parents or other primary caregivers into TF-CBT 
+treatment. The first three are briefly described here. More details about these principles are 
+described on our free web-based training site, TF-CBT Web, available at www.musc.edu/
+tfcbt and elsewhere9; 10. The remainder of this paper addresses how parents are incorporated 
+into TF-CBT treatment.
+Trauma-focused CBT is a phase-and components-based treatment as shown in Box 1. The 
+three phases of TF-CBT are stabilization, trauma narration and processing, and integration 
+and consolidation. The components of TF-CBT are summarized by the acronym 
+“PRACTICE”. These components are described in detail below.
+Fidelity to the TF-CBT model is important to assure positive outcomes. Fidelity to the TF-
+CBT model includes the following: 1) the PRACTICE components are provided in 
+sequential order (with some flexibility within the stabilization skills as clinically indicated 
+and addressing Enhancing Safety first when clinically appropriate); 2) all PRACTICE 
+components are provided (with the exception of In vivo Mastery when this is not clinically Cohen and Mannarino Page 3
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+indicated), and 3) the three TF-CBT phases are provided in appropriate proportion and 
+duration. For typical trauma treatment cases, TF-CBT duration is 12–15 sessions and each 
+treatment phase receives about an equal number of treatment sessions (i.e., 4–5 sessions/
+phase). For complex trauma cases treatment duration is somewhat longer (16–25 sessions) 
+and the proportionality is altered slightly with about ½ of treatment (8–12 sessions) 
+dedicated to stabilization skills and a quarter of treatment (4–6 sessions) spent on trauma 
+narrative and integration/consolidation phases, respectively, as described elsewhere11.
+Gradual exposure is included in all of the TF-CBT components. During each session the 
+therapist carefully calibrates and includes increasing exposure to trauma reminders while 
+encouraging the child and parent to use skills learned in previous sessions in order to master 
+the fear, anxiety or other negative emotions evoked upon exposure to these trauma 
+memories. Through this process the child and parent learn new cognitions (e.g., “I can talk 
+about sexual abuse without crying”; “Maybe my child is not damaged by what happened”). 
+With time and ongoing practice, these cognitions become stronger and generalize to other 
+situations, gradually replacing the maladaptive ones they initially had about the child’s 
+traumatic experience. Current evidence suggests that this may be the underlying process 
+through which trauma-related fear is diminished12.
+Parental Involvement in TF-CBT
+Parent involvement is an integral part of the TF-CBT model and parents receive as much 
+time in the treatment as children. During most TF-CBT sessions, the therapist spends about 
+30 minutes individually with the child and 30 minutes individually with the parent. Conjoint 
+child-parent sessions are included later in the TF-CBT model to optimize open children-
+parent communication, both generally and related to the child’s trauma experiences, as 
+described in detail below. This structure was selected over family sessions based on the 
+rationale that child trauma significantly impacts parents and children and thus both benefit 
+from individual opportunities to process personal trauma responses before meeting together 
+to do so.
+The therapist meets with the parent each session to provide the parent with each PRACTICE 
+component as the child is receiving that component. In this manner, the parent is able to help 
+the child to practice using the appropriate TF-CBT skills during the week when the child is 
+not in therapy. Many parents report that the TF-CBT skills are personally helpful to them, 
+and that encouraging their children to use these is helpful in reminding the parent to use the 
+skills as well. Often parents practice the skills together with their children at home and this 
+encourages the development of family resilience rituals that continue long after the end of 
+therapy. Another reason for individual parent sessions is to facilitate open therapist-parent 
+communication about difficult topics. For example, some parents may use demeaning 
+language to describe the child’s behaviors, use ineffective discipline strategies, or say 
+hurtful things to the child about the trauma. In such situation individual parent sessions 
+allow the therapist to provide more appropriate parenting skills, as described below.
+Most children in foster care have experienced trauma. As described below, including foster 
+parents in treatment can enhance engagement and treatment completion for these children. 
+In these cases, the therapist can also include the birth parent in TF-CBT if the therapist Cohen and Mannarino Page 4
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+considers this to be clinically appropriate (e.g., if the child is having regular visits with this 
+parent and/or reunification is anticipated in the near future). Typically the therapist sees the 
+birth parent in individual sessions at a separate time from the child and foster parent, and 
+provides the birth parent with the same information as the foster parent. If the visits with the 
+birth parent are going well and both foster parent and birth parent desire this, the therapist 
+may consider having some sessions that include the birth and foster parents together at some 
+points during the treatment, if clinical judgment suggests that this would be beneficial. 
+Whether or not the birth parent participates, it is important that whenever possible at least 
+one consistent parenting figure participates with the child throughout the course of TF-CBT.
+Orienting the Family to TF-CBT
+From the beginning of treatment it is important for the therapist to help the family 
+understand that TF-CBT is a collaborative child-parent, trauma-focused treatment. The 
+therapist may find it useful to review the information from the child’s assessment that led 
+the therapist to conclude that trauma-focused treatment was appropriate. Collaborative child-
+parent treatment means that the child and parent will both receive about equal time each 
+session and that the treatment will include two-way open communication about important 
+issues. The parent and child may express discomfort about this (e.g., lack of confidentiality 
+in therapy). The therapist can often address this by asking each what their concerns are 
+about sharing information and making appropriate adjustments to the extent to which this 
+occurs when indicated. For example, youth with complex trauma who are attending TF-CBT 
+with new foster parents often have understandable issues with trusting these new caregivers 
+or even in trusting the therapist; the therapist needs to attend to this appropriately or the 
+therapy may be derailed11.
+The therapist also explains what trauma-focused treatment entails in TF-CBT, i.e., that 1) 
+the therapist believes that the following problems (the therapist specifies what these are 
+here) are related to the child’s trauma experiences; 2) these problems and their relationship 
+to the child’s trauma experiences are the focus of this treatment; 3) this is the focus of TF-
+CBT and what the treatment will be addressing every session, even if other issues arise 
+during the course of treatment. By clarifying the nature of trauma-focused treatment, the 
+therapist helps the family to understand what to expect and also differentiates TF-CBT from 
+other treatments (e.g., usual care) that they may have received in the past.
+We recognize that a variety of caregivers may participate in TF-CBT and in many cases 
+these may not be the child’s legal parents and/or may be a single parent or caregiver. For 
+consistency and simplicity, the term “parents” is used throughout the following description 
+of TF-CBT components except where specifically noted.
+STABILIZATION PHASE (4–12 sessions)
+Psychoeducation: During psychoeducation the therapist provides information about 
+common trauma responses and trauma reminders, and connects these to the child’s trauma 
+experiences. The therapist also normalizes and validates these as trauma responses, as many 
+children and parents view traumatic behavioral and affective dysregulation as the child 
+having become a “bad kid”. Helping children and parents understand these as the child’s Cohen and Mannarino Page 5
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+response to the bad thing(s) that have happened in his or her life, and recognizing trauma 
+reminders that may trigger these responses, is often extremely helpful in changing the 
+child’s and parent’s perspective on the problem. Importantly, this gives them hope that the 
+child can recover and return to more positive functioning. This is true even if the child has a 
+long history of complex trauma and long-standing dysregulation. As with all TF-CBT 
+components, the therapist individually tailors how to provide psychoeducation, taking into 
+consideration the developmental level, culture and interests of the child and family. This 
+may include playing interactive psychoeducational games such as the What Do You Know 
+game13, or for teens, discussing psychoeducational information such as that available at 
+www.nctsn.org .
+During psychoeducation for parents, the therapist provides information about the child’s 
+trauma experiences and common responses as described above. Important information 
+related to the child’s trauma experience may be provided during the psychoeducation 
+component, for example, children who have experienced sexual abuse begin to receive 
+developmentally appropriate information about sexual abuse including proper names for 
+private parts. Some safety information may be incorporated during the psychoeducation 
+component (for example, the names of doctor’s names for private body parts and 
+information about okay and not okay touches for young children who have experienced 
+sexual abuse). However; for children with complex trauma or those at very high risk of 
+experiencing ongoing trauma, the Enhancing Safety component may be provided as the 
+initial TF-CBT component before psychoeducation as described in detail elsewhere11; 14–15.
+Importantly, the therapist helps the parents begin to identify potential trauma reminders . 
+Trauma reminders are any cue (e.g., people, places, situations, sights, smells, memories, 
+internal sensations, etc.) that remind the child of an earlier trauma; this initiates a cascade of 
+psychological, physical and neurobiological responses similar to those the child experienced 
+at the time of the original trauma. When parents understand this process, they can make 
+more sense of children’s trauma responses and intervene earlier in the process to support the 
+child’s use of TF-CBT skills to interrupt, reverse or mitigate the process. For example, a 
+child in foster care who had experienced previous domestic violence and physical abuse 
+from his father became angry and aggressive when yelled at by an older foster brother, 
+leading him to hit younger children in the home. For this child, loud or angry voices were 
+trauma reminders of his father (perpetrator), who often screamed before becoming 
+physically abusive. The foster mother yelled at this child when he became aggressive to the 
+younger children, causing him to become even more dysregulated. Psychoeducation about 
+the child’s trauma reminders and responses was the first step in changing this pattern.
+Parenting Skills: During the parent skills component, parents gain effective strategies for 
+responding to children’s behavioral and emotional dysregulation. The therapist typically 
+provides specific instruction, practice, and role plays in parenting skills which the therapist 
+clinically determines according to the child’s presentation and the parents’ current 
+knowledge and skills. The therapist always encourages parents to use these skills while 
+remembering that the child’s behavioral problems occur in the context of trauma reminders. 
+More detailed information about implementing these skills is available elsewhere9; 10.Cohen and Mannarino Page 6
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+“Time in” and “time out”: “Time out” involves placing the child in a quiet place that lacks 
+child-family interaction or other positive stimulation in order to encourage the child to re-
+regulate his or her own emotions and/or behavior. When the larger family context is that the 
+child has frequent positive, nurturing and enjoyable interactions with parents (so-called 
+“time in”), the child typically finds “time out” to be very negative and wants to return to 
+“time in” as soon as possible. Thus, “time out” is most effective when the family provides 
+high quality “time in”.
+Praise, positive attention, selective attention: In order to create “time in”, therapists instruct 
+parents in using praise, positive and selective attention. Elements of effective praise include 
+identifying specific behaviors the parents want the child to continue, labeling these for the 
+child immediately after they occur and enthusiastically praising these behaviors without 
+“taking back” the praise with negative statements or qualifications.
+Example of ineffective praise: Mother (several hours after son takes out garbage 
+when asked): Thanks for doing your chores. I wish you were always good like that. 
+(Errors: did not label the specific desired behavior; did not provide praise 
+immediately after the behavior occurred; “took back” the praise with negative 
+qualifying statement.)
+Example of effective praise: Mother (immediately after son takes out garbage when 
+asked): I like how you took out the garbage as soon as I asked you to do it. Thank 
+you so much for doing that!
+Often parents expect, take for granted, and/or ignore children when they are behaving well, 
+and only give attention to negative or problematic behaviors. Since all children crave 
+parental attention, this paradigm tends to reinforce children’s negative behaviors –the exact 
+opposite of what parents intend. In order to reverse this, positive attention requires parents to 
+look for, attend to and promptly provide positive attention (hugs, high fives, verbal praise 
+and/or other positive attention) in response to children’s positive behaviors. The therapist 
+helps parents to selectively attend to these positive behaviors while paying relatively less 
+attention to minor negative behaviors that, while annoying or irritating, are not actually 
+dangerous (e.g., pestering or intrusive behaviors, rolling eyes, etc.) By reinforcing desired 
+behaviors with high levels of attention and not attending to undesired behaviors, parents 
+often see marked improvements in behavioral problems.
+For more significant behavioral problems, the therapist helps the parents and child to 
+collaboratively develop an individualized contingency reinforcement program. Such 
+programs address specific behaviors (e.g., aggression, sleep problems, sexually 
+inappropriate behaviors), and provide specific contingencies (rewards such as stars; 
+punishments such as loss of access to electronics) if the child does or does not meet the 
+expectations for the number of times the behavior occurs within a given time period 
+(typically one day or part of a day). Critical to the success of these programs are to 1) 
+include the child and parents in developing the program and prizes associated with rewards; 
+2) chose only one behavior to address at a time rather than attempting to resolve multiple 
+behaviors simultaneously; 3) have parents provide praise for any successes and provide 
+contingencies and rewards promptly and consistently.Cohen and Mannarino Page 7
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+Relaxation Skills: As noted above, traumatized children experience multiple 
+neurobiological changes that tend to maintain trauma responses. Parents may experience 
+their own personal biological hyperarousal responses. Relaxation skills can help children 
+and parents to re-regulate these stress systems, both in resting states and in response to 
+trauma reminders. The therapist provides personalized relaxation strategies to the child and 
+encourages them to practice these on a regular basis at home. These may include focused 
+(yoga) breathing, progressive muscle relaxation and visualization, skills that have been 
+demonstrated to produce physiologic relaxation responses; but therapists may also 
+encourage children to use a variety of other relaxation strategies based on the child’s own 
+interests and developmental level. For example, younger children often like to relax through 
+blowing bubbles, dance (e.g., “Hokey Pokey”, Chicken Song) and song (“Row, Row, Row 
+Your Boat”); while teens often prefer to relax using their favorite music, physical activities 
+or crafts such as crochet or knitting. Other children find reading or prayer relaxing. It is 
+important for children to develop a variety of different relaxation strategies since a particular 
+strategy (e.g., exercise) may be effective in some settings (e.g., after school or with peers) 
+but not in others (e.g., when going to sleep at night).
+After the child has identified and practiced several acceptable relaxation strategies, the 
+therapist meets with the parents and teaches them the relaxation skills preferred by the child. 
+The therapist helps the parents to recognize situations in which the child may be 
+experiencing physiological arousal in response to trauma reminders and encourages the 
+parents to support the child in using the relaxation skills in these situations. Parents often 
+find relaxation skills to help with their personal anxiety or hyperarousal responses and the 
+therapist may encourage parents to use relaxation in this regard as well. As noted above, 
+younger children may enjoy demonstrating the newly practiced relaxation skills directly to 
+the parents in a brief joint meeting with the parents at the end of this session.
+Affect Modulation Skills: During trauma experiences many children learn to not express, 
+develop distance from, or even deny negative feelings as a self-protective mechanism. 
+During this component the therapist helps children to become comfortable with expressing a 
+variety of different feelings and to develop skills for managing negative affective states. 
+These may include strategies such as problem solving, seeking social support, positive 
+distraction techniques (e.g., humor, journaling, helping others, perspective taking, reading, 
+taking a walk, playing with a pet, etc.), focusing on the present, and a variety of anger 
+management techniques. The therapist encourages the child to develop a “tool kit” of these 
+skills that work in different settings and for different negative feelings9. These skills are 
+familiar to most child therapists; however, in contrast to other child treatments, in TF-CBT 
+the therapist encourages the child to implement the affective modulation skills in response to 
+trauma reminders.
+After identifying the child’s preferred affective modulation strategies, the therapist then 
+educates, practices, and role plays with the parents about how they can support the child in 
+implementing these skills. This often requires substantial parental tolerance and forbearance. 
+Helping parents to tolerate children’s verbal expressions of negative emotions as a positive 
+step toward improved affective regulation is often challenging for the therapist and parents, 
+especially when the parents’ cultural perspective views verbalizations of negative emotions Cohen and Mannarino Page 8
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+(e.g., using cuss words; “I hate you”) as disrespectful. Some parents have limited tolerance 
+for their child’s demands for parental support, especially when these come at inconvenient 
+times or are viewed as “whining” or “manipulative”. The therapist may address this by 
+having the parents keep a chart of the child’s negative behaviors and requests for support; 
+often such parents find that negative behaviors occur soon after the child unsuccessfully asks 
+for support; and that if/when the parents begin to respond more consistently to the child’s 
+requests for support, the problematic behaviors begin to decrease.
+Cognitive Processing Skills: During this component the therapist helps children recognize 
+connections among thoughts, feelings and behaviors (the “cognitive triangle”) and replace 
+maladaptive cognitions (inaccurate or unhelpful thoughts) related to everyday events with 
+more accurate or helpful cognitions. At this point in TF-CBT the therapist is not focusing on 
+trauma-related thoughts with the child, since it is more effective to process these during the 
+trauma narrative component. The therapist may use a variety of techniques to assist children 
+with cognitive processing, including progressive logical (Socratic) questioning, 
+responsibility pie, and best friend role play9; 10.
+The therapist meets with the parent to introduce the cognitive triangle and to begin 
+processing the parents’ maladaptive cognitions. Initially the therapist identifies parents’ 
+maladaptive cognitions related to everyday events and helps the parents use cognitive 
+processing in this regard Many parents have maladaptive cognitions related to the child’s 
+trauma (e.g., “I should have protected my child”; “I should have known sooner that this was 
+happening to my child”; “My child is forever damaged because of what happened”). The 
+therapist uses clinical judgment to decide whether to begin processing the parents’ trauma-
+related maladaptive cognitions (i.e., before or during the child’s trauma narrative). Cognitive 
+processing techniques are described in a free web-based training site, CPTWeb, available at 
+www.musc.edu/cpt .
+TRAUMA NARRATIVE AND PROCESSING PHASE (2–6 sessions)
+Trauma Narrative and Processing\: During the trauma narrative and processing phase, the 
+therapist and child engage in an interactive process during which the child describes 
+increasingly difficult details about personal trauma experiences, including thoughts, 
+feelings, and body sensations that occurred during these traumas. Through this process the 
+child speaks about even the most horrific and feared traumatic memories, thus “speaking the 
+unspeakable” which enables the child to learn a mastery rather than avoidance response to 
+these memories. Through the process of retelling the story as it is being developed further, 
+the child has multiple opportunities for repeated practice of learning this mastery over 
+traumatic memories; this also enables the child to gain perspective about the trauma 
+experiences and thereby to identify potential errors in beliefs that the child previously 
+assumed to be “set in stone” (maladaptive cognitions, e.g., “I deserved to be abused”, etc.). 
+Through the cognitive processing strategies learned previously the therapist helps the child 
+to process trauma-related maladaptive cognitions. The child develops a written summary of 
+the trauma narrative process, usually in the form of a book, poem or song. However, it is 
+critical to emphasize that this written document is only a small fraction of the actual trauma 
+narrative, which is an interactive process that occurs between the child and therapist, Cohen and Mannarino Page 9
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+typically over the course of several sessions. The written narrative often is organized into 
+chapters (e.g., “About me”; “How it all began”’ “Sexual Abuse through the years” 
+“Domestic violence sucks”’ Death” “Escape” “How I’ve changed”). Children who have 
+experienced complex trauma often develop a life narrative rather than a chapter narrative, 
+organized around a central trauma “theme”11. However, like other TF-CBT trauma 
+narratives, these also describe specific trauma episodes in detail.
+As the child meets with the therapist weekly to develop the narrative, the therapist meets in 
+parallel sessions with the parents to share the content of the child’s narrative. This serves 
+multiple purposes. Few parents have heard all of the details about the child’s trauma 
+experiences, and this process allows the parents to understand the child’s trauma experiences 
+more fully. (Even when the parent co-experienced the trauma, such as a mother who was the 
+direct victim of domestic violence that the child witnessed, it is common for these 
+perspectives to differ considerably and a primary goal of the TF-CBT process is for non-
+offending parents to hear and support the child’s personal perspective). Another goal is to 
+help parents to identify and process their personal trauma-related maladaptive cognitions; 
+for example, hearing the child’s trauma narrative may cause parents to question why their 
+child did not tell them about the abuse sooner, and this provides an opportunity for the 
+parents to thoroughly process this maladaptive cognition. Finally, hearing the child’s trauma 
+narrative in separate sessions with the therapist as the child is developing the narrative 
+provides the parents with adequate time to prepare emotionally and cognitively for the 
+conjoint child-parent sessions, during which the child typically shares the narrative directly 
+with the parents. Through repeated exposure to the child’s narrative the parents, like the 
+child, gain new mastery related to hearing about their child’s trauma experiences, and thus 
+more ability to model adaptive coping in the child’s presence during the conjoint sessions.
+INTEGRATION AND CONSOLIDATION PHASE (2–8 sessions)
+In vivo Mastery: In vivo mastery is the only optional TF-CBT component. Some children 
+develop ongoing fears and avoidance of situations that are inherently innocuous . When this 
+avoidance significantly interferes with children’s adaptive functioning, it becomes an 
+important issue to address in treatment; the TF-CBT therapist uses clinical judgment to 
+determine which children require this component. For example, a child who was sexually 
+abused in her bedroom by a perpetrator who is no longer in the home was still be afraid to 
+sleep in her own bed, and eventually afraid to sleep at night at all, and was disrupting other 
+family members’ sleep. Another child who witnessed his sibling’s sudden death at home 
+avoided attend school for fear that his mother or another younger sibling would also die 
+when he wasn’t home. In vivo mastery would be appropriate for these children. In 
+distinction to the trauma narrative, which involves imaginal exposure to children’s trauma 
+experiences, “in vivo” (“in real life”) mastery involves exposure to the actual innocuous 
+situation (e.g., sleeping in one’s own bed; returning to school, etc.) that the child fears and 
+avoids. Through gradually facing the feared situation and learning that the feared outcome 
+does not happen, the child learns mastery rather than avoidance.
+In order to implement in vivo mastery, the therapist, child and parents develop a fear 
+hierarchy (sometimes referred to as a fear ladder), ascending from the least feared (“1”) to Cohen and Mannarino Page 10
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+most feared (“10”) scenarios, with 10 being the desired end point, e.g., the child sleeping in 
+her own bed or attending full days of school. In vivo mastery involves gradually building up 
+to or mastering the end point through mastering a series of smaller steps.. Since in vivo 
+mastery typically takes several weeks to complete and also because the child’s adaptive 
+functioning is significantly impacted, the therapist usually begins in vivo mastery during the 
+TF-CBT stabilization skills phase. Since relaxation and other TF-CBT stabilization skills are 
+needed to help the child (and often the parent) to tolerate the intermediate steps in the fear 
+hierarchy, the therapist often provides psychoeducation, parenting skills and relaxation skills 
+prior to initiating the in vivo mastery plan.
+The parents are critical to the success of in vivo mastery. Children are often reluctant to 
+surrender the fears that they believe are keeping bad things from happening and parents 
+provide confidence and reassurance that helps the child to get through the difficult early 
+stages of the mastery process. Parents and (if applicable) school personnel must understand 
+why in vivo mastery is important to the child’s improved adaptive functioning and must 
+“buy in” to the plan for it to be successful. The therapist must address the parents’ concerns 
+or fears about the child gaining mastery over the feared situation, as well as any potential 
+secondary gain that parents may derive from the child continuing the avoidant behavior. The 
+therapist also encourages the parents to use ongoing praise, patience and persistence in 
+encouraging the child to use relaxation and other TF-CBT skills during the in vivo mastery 
+plan. These increasingly reap rewards for the child and parents as the child gains increasing 
+pride in mastering previously feared situations. If the parents do not carry out the in vivo 
+plan consistently, the child’s fear and avoidance often get even worse, due to the power of 
+intermittent reinforcement. The therapist should not embark on an in vivo plan unless the 
+parents are fully invested in seeing the plan through to completion.
+Conjoint Child-Parent Sessions: The therapist provides several conjoint child-parent 
+sessions during the integration and consolidation phase. This provides opportunities for 
+modeling and optimizing direct communication among family members about the child’s 
+traumatic experiences and other important topics before treatment closure. During conjoint 
+sessions the therapist typically meets briefly with the parents alone (5–10 minutes) and the 
+child alone (5–10 minutes) to prepare each for the rest of the session (conjoint child-parent 
+session, 40–50 minutes).
+The first conjoint session is usually devoted to the child sharing the trauma narrative. If this 
+occurs, the parents have already heard and cognitively processed the child’s narrative during 
+their individual parent sessions with the therapist (described above under Trauma Narrative). 
+In addition to the child sharing the narrative itself, the child and parents may ask each other 
+several questions that they prepared during their respective preparation time. For example, 
+one child asked his parents “How were you feeling when I disclosed the sexual abuse”; a 
+parent asked her son, “Did you ever blame me for your sister’s death?” These questions 
+often facilitate open discussion of deeper feelings and cognitions related to the child’s 
+trauma experiences and many families report that these sessions were the most valuable part 
+of their TF-CBT treatment.Cohen and Mannarino Page 11
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+Subsequent conjoint child-parent session may address healthy sexuality, bullying 
+prevention, substance use refusal skills, making good peer or dating decision, enhancing 
+family communication, enhancing safety, or other topics according to the therapist’s clinical 
+judgment. For children who have experienced sexual abuse it is particularly important for 
+therapists to address healthy sexuality and parents often prefer to be included in this process. 
+Whatever the topic the therapist selects, it is helpful to make the process fun and interactive 
+rather than didactic. For example, most children enjoy competing with their parents in quiz 
+or other games in which they can display their increasing knowledge and understanding 
+about trauma and its impact. During the conjoint sessions the therapist may reintroduce 
+What Do You Know or other therapeutic games used earlier in TF-CBT to use in this regard.
+Enhancing Safety: Since traumatic experiences involve the loss of safety and betrayal of 
+trust, it is important for children and parents to acknowledge this openly during treatment 
+and to develop practical strategies for enhancing children’s actual safety as well as 
+emotional and interactive means for enhancing the child’s internal sense of security and 
+trust. In cases where there is ongoing risk of trauma exposure, the safety component is 
+addressed at the beginning and often throughout TF-CBT11; 14–15. Whether or not there is 
+risk of repeated trauma exposure, it is usually helpful to develop a systematic family safety 
+plan that applies to all family members that might include “no violence”, “no substance 
+abuse”, “no secrets” (i.e., everyone tells and no one keeps secrets related to breaking the 
+family safety rules), and other mutually agreed upon rules that help all family members to 
+feel safe within the home. Communicating these to all family members and practicing their 
+implementation at home enhances the child’s belief that everyone in the family will adhere 
+to the safety plan going forward.
+Evaluation of Outcome
+Trauma-focused CBT has been evaluated in 15 randomized controlled trials (RCT) in which 
+it was compared to other active treatments/usual community care (in clinical settings) or 
+wait list control conditions (in refugee or war conditions). Among the currently evidence-
+based child trauma treatments, TF-CBT alone has been evaluated across the child and 
+adolescent developmental spectrum (3–18 years), for multiple index trauma types (e.g., 
+sexual abuse, commercial sexual exploitation, domestic violence, disaster, war, traumatic 
+grief, multiple and complex trauma), in different settings (e.g., clinic, foster care, 
+community domestic violence center, refugee NGO, HIV treatment centers) and in multiple 
+countries and cultures (e.g., US, Africa, Europe, Australia) and with both mental health and 
+non-mental health providers. In all of these studies TF-CBT has been found to be superior to 
+the comparison conditions for improving PTSD symptoms/diagnosis, as well as other related 
+mental health difficulties such as depressive, anxiety, behavioral, cognitive, relationship and 
+other problems.
+In many of these studies the impact of including parents in treatment has been examined. 
+One study compared TF-CBT provided to child only, parent only, or child + parent, to usual 
+community treatment16. The TF-CBT conditions that included the parent led to significantly 
+greater improvement in positive parenting practices as well as in the child’s behavioral 
+problems and child-reported depressive problems. A study of preschoolers who had Cohen and Mannarino Page 12
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+experienced sexual abuse documented that TF-CBT led to greater improvement in child 
+outcomes as well as in parental support and parental emotional distress than nondirective 
+supportive therapy. Improvement in parental support significantly mediated improvement in 
+children’s PTSD symptoms at post-treatment and improvement in parental support and 
+emotional distress significantly mediated improvement in children’s behavioral problems at 
+6- and 12-month follow-ups. A study of children ages 8–14 years who experienced sexual 
+abuse showed that TF-CBT led to significantly greater improvement in parental support and 
+this improvement significantly mediated improvement in children’s depressive and anxiety 
+symptoms19. Recent research has shown that including foster parents in TF-CBT enhanced 
+the foster parent’s engagement in treatment and the family’s retention in treatment20; 21. A 
+recent community treatment study in Norway study comparing TF-CBT to usual care found 
+that in addition to children in the TF-CBT group experiencing significantly greater 
+improvement in PTSD, general mental health symptoms and functional impairment22, 
+parents in the TF-CBT condition experienced significantly greater improvement in their 
+personal depressive symptoms and this mediated significantly greater improvement in 
+children’s depressive symptoms in the TF-CBT condition only23.
+Conclusion/Summary
+Trauma-focused CBT is a family-based treatment for traumatized children with strong 
+empirical support for improving PTSD, depressive, anxiety, behavioral, cognitive, 
+relationship and other problems. Parents or caregivers participate in all components of TF-
+CBT during initial parallel individual parent sessions and later conjoint parent-child 
+sessions. Several studies document that parental inclusion significantly contributes to 
+positive child outcomes.
+Acknowledgments
+Disclosures:  Drs. Cohen and Mannarino receive grant funding from NIMH and SAMHSA and book royalties from 
+Guilford Press.
+Acronyms
+TF-CBT Trauma-focused cognitive behavioral therapy
+PTSD Posttraumatic Stress Disorder
+RCT randomized controlled trials
+References
+1. Copeland W, Keeler G, Angold A, Costello EJ. Traumatic Events and post-traumatic stress in 
+childhood. Arch General Psychiatry. 2007; 64:577–584.
+2. Felitti VJ, et al. Relationship of childhood abuse and household dysfunction to many of the leading 
+causes of death in adults. The Adverse Childhood Experiences (ACE) Study. Am J Prev Med. 1998; 
+14(4):245–258. [PubMed: 9635069] 
+3. Kilpatrick D, et al. Violence and risk of PTSD, major depression, substance abuse/dependance and 
+comorbidity: results for the National Survey of Adolescents. J Clinical Child Psychology. 2003; 
+71:692–700.Cohen and Mannarino Page 13
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+4. Pine DC, Cohen JA. Trauma in children: risk and treatment of psychiatric sequelae. Biological 
+Psychiatry. 2002; 51:519–531. [PubMed: 11950454] 
+5. Kisiel C, Conradi L, Gehernbach T, Torgersen E, Briggs EC. Assessing the effects of trauma in 
+children and adolescents in practice settings. Child Adolesc Clinics N Amer. 2014; 23:223–242.
+6. Mannarino AP, Cohen JA. Treating sexually abused children and their famlies: identifying and 
+avoiding professional role conflices. Trauma, Violence & Abuse. 2001; 2:331–342.
+7. Steinberg AM, Brymer MJ, Decker K, Pynoos RS. The University of California at Los Angeles 
+Posttraumatic Stress Disorder Reaction Index. Current Psychiatry Reports. 2004; 6:96–100. 
+[PubMed: 15038911] 
+8. Foa EB, Treadwell K, Johnson K, Feeny NC. The Child PTSD Symptom Scale: a preliminary 
+examination of its psychometric properties. J Clin Child Psychology. 2001; 30:376–384.
+9. Cohen, JA.; Mannarino, AP.; Deblinger, E. Treating trauma and traumatic grief in children and 
+adolescents. New York: Guilford Press; 2006. 
+10. Cohen, JA.; Mannarino, AP.; Deblinger, E., editors. Trauma-focused CBT for children and 
+adolescents: Treatment applications. New York: Guilford Press; 2012. 
+11. Cohen JA, Mannarino AP, Kleithermes M, Murray LA. Trauma-focused cognitive behavioral 
+therapy for youth with complex trauma. Child Abuse Neglect. 2012; 36:528–541. [PubMed: 
+22749612] 
+12. Craske MG, Kircanshi K, Zelikowski M, Mystkowski J, Chowdhury N, Baker A. Optimizing 
+inhibitory learning during exposure therapy. Behaviour Research & Therapy. 2008; 46:5–27. 
+[PubMed: 18005936] 
+13. CARES Institute. What do you know?. Stratford, NJ: Rowan University; 2006. 
+14. Cohen JA, Mannarino AP, Murray LK. Trauma-focused CBT for youth who experience ongoing 
+traumas. Child Abuse & Neglect. 2011; 35:637–646. [PubMed: 21855140] 
+15. Murray LK, Cohen JA, Mannarino AP. Trauma-focused CBT for youth who experience 
+continuous traumatic stress. Peace & Conflict: J Peace Psychology. 2013; 19:180–195.
+16. Deblinger E, Lippmann J, Steer RA. Sexually abused children suffering posttrauamtic stress 
+symptoms: initial treatment outcome findings. Child Maltreatment. 1996; 1:310–321.
+17. Cohen JA, Mannarino AP. A treatment outcome study for sexually abused preschool children: 
+Initial findings. J American Acad Child Adolescent Psychiatry. 1996; 35:42–50.
+18. Cohen JA, Mannarino AP. Factors that mediate treatment oucome of sexually abused preschoolers: 
+Six and twelve month follow-ups. J American Acad Child Adolescent Psychiatry. 1998; 37:44–51.
+19. Cohen JA, Mannarino AP. Predictors of treatment outcome in sexually abused children. Child 
+Abuse & Neglect. 2000; 24:983–994. [PubMed: 10905421] 
+20. Dorsey S, Pullmann MD, Berliner L, Koschmann E, McKay M, Deblinger E. Engaging foster 
+parents in treatment: A randomized trial of supplementing Trauma-focused Cognitive Behavioral 
+Therapy with evidence-based engagement strateiges. Child Abuse & Neglect. 2014; 38:1508–
+1520. [PubMed: 24791605] 
+21. Dorsey S, Conover K, Cox JR. Improving foster parent engagement: Using qualitative methods to 
+guide tailoring of evidence-based engagement strategies. J Clinical Child Adolescent Psychology. 
+(in press). 
+22. Jensen TK, Holt T, Ormhaug SM, Egeland K, Granly L, Hoaas LC, Hukkelberg SS, Indregard T, 
+Stormyren SD, Wentzel-Larsen T. A randomized effectiveness study comparing Trauma-Focused 
+Cognitive Behavioral Therapy with therapy as usual for youth. J Clinical Child Adolescent 
+Psychology. 2013; 43:356–369.
+23. Holt T, Jensen TK, Wentzel-Larsen T. The change and the mediating role of parental emotional 
+reactions and depression in the treatment of traumatized youth: results from a randomized 
+controlled study. Child & Adolescent Psychiatry Mental Health. 2014; 8:11.Cohen and Mannarino Page 14
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+Key Points
+•Trauma-focused cognitive behavioral therapy (TF-CBT) is a family-focused 
+treatment in which parents or caregivers (hereafter referred to as “parents”) 
+participate equally with their traumatized child or adolescent (hereafter referred 
+to as “child”).
+•TF-CBT is a components- and phase-based treatment that emphasizes 
+proportionality and incorporates gradual exposure into each component.
+•Parents and child receive all TF-CBT components in parallel individual sessions 
+which allow parents and child to express their personal thoughts and feelings 
+about the child’s trauma experiences, gain skills to help the child re-regulate 
+trauma responses and master avoidance of trauma reminders and memories.
+•Families also participate in several conjoint parent-child sessions to enhance 
+family communication about the child’s trauma experiences and parental 
+support of the child
+•Research documents that parental participation significantly enhances the 
+beneficial impact of TF-CBT for traumatized children.Cohen and Mannarino Page 15
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+
+Box 1: TF-CBT Components and Phases
+Psychoeducation
+Parenting Skills
+Relaxation STABILIZATION PHASE
+Affect Modulation
+Cognitive Processing
+Trauma Narration & Processing TRAUMA NARRATIVE PHASE
+In vivo Mastery
+Conjoint Child-Parent Sessions INTEGRATION/CONSOLIDATION PHASE
+Enhancing Safety
+(Traumatic Grief Components-Optional)Cohen and Mannarino Page 16
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2016 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

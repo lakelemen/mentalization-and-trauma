@@ -1,0 +1,1973 @@
+“The Biological Effects of Childhood Trauma”
+Michael D. De Bellis, MD, MPH  and Abigail Zisk A.B.
+I. Synopsis
+Trauma in childhood is a grave psychosocial, medical, and public policy problem that has serious
+consequences for its victims and for society. Chronic interpersonal violence in children is common
+worldwide. Developmental traumatology, the systemic investigation of the psychiatric and
+psychobiological effects of chronic overwhelming stress on the developing child, provides a
+framework and principles when empirically examining the neurobiological effects of pediatric
+trauma.
+Despite the widespread prevalence of childhood trauma, less is known about trauma's biological
+effects in children as compared to adults with child trauma histories; and even less is known about
+how these pediatric mechanisms underlie trauma's short-term and long-term medical and mental
+health consequences. This article focuses primarily on the peer-reviewed literature on the
+neurobiological sequelae of childhood trauma in children and adults with histories of childhood
+trauma. We also review relevant studies of animal models of stress to help us better understand the
+psychobiological effects of trauma during development. Next, we review the neurobiology of
+trauma, its clinical applications and the biomarkers that may provide important tools for clinicians
+and researchers, both as predictors of posttraumatic stress symptoms and as useful tools to monitor
+treatment response. Finally, we offer suggestions for future researchers.
+Keywords
+Childhood trauma; developmental traumatology; developmental psychopathology; posttraumatic
+stress symptoms; stress; biological stress systems; brain development; genes; polymorphisms;
+epigenetics; cortisol
+III. Introduction
+Trauma in childhood has serious consequences for its victims and for society. For the
+purposes of this critical review, childhood trauma is defined according to the Diagnostic and
+Statistical Manual of Mental Disorders IV and V as exposure to actual or threatened death,
+serious injury, or sexual violence [1, 2]. This includes experiences of direct trauma
+exposure, witnessing trauma or learning about trauma that happened to a close friend or
+relative. In children, motor vehicle accidents, bullying, terrorism, exposure to war, child
+maltreatment (physical, sexual, and emotional abuse; neglect) and exposure to domestic and
+community violence are common types of childhood traumas that result in distress,
+© 2014 Elsevier Inc. All rights reserved.
+Corresponding author: Michael D. De Bellis MD, MPH Professor of Psychiatry and Behavioral Sciences Director Healthy Childhood
+Brain Development and Developmental Traumatology Research Program Department of Psychiatry and Behavioral Sciences Duke
+University Medical Center Box 104360, Durham NC, 27710 919-683-1190 ext 351; fax 919-682-7805 michael.debellis@duke.edu.
+Publisher©s Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+Published in final edited form as:
+Child Adolesc Psychiatr Clin N Am . 2014 April ; 23(2): 185–222. doi:10.1016/j.chc.2014.01.002.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+posttraumatic stress disorder (PTSD), and posttraumatic stress symptoms (PTSS). Childhood
+traumas, particularly those that are interpersonal, intentional, and chronic are associated with
+greater rates of PTSD [3], PTSS [4, 5], depression [6] and anxiety [7], antisocial behaviors
+[8] and greater risk for alcohol and substance use disorders [9-12].
+The traditional categorical cluster of symptoms that form the diagnosis of PTSD are each
+associated with differences in biological stress symptoms and brain structure and function;
+and are thought to individually contribute to delays in or deficits of multisystem
+developmental achievements in behavioral, cognitive and emotional regulation in
+traumatized children and lead to PTSS and co-morbidity [13]. Thus, we examine PTSD as a
+dimensional diagnosis encompassing a range of pathological reactions to severe stress,
+rather than as a dichotomous variable.
+Developmental traumatology, the systemic investigation of the psychiatric and
+psychobiological effects of chronic overwhelming stress on the developing child, provides
+the framework used in this critical review of the biological effects of pediatric trauma.[13]
+This field builds on foundations of developmental psychopathology, developmental
+neuroscience, and stress and trauma research. The DSM-IV-TR diagnosis of PTSD is made
+when criterion A, a Type A trauma, is experienced and when three clusters of categorical
+symptoms are present for more than one month after the traumatic event(s). These three
+clusters are Criterion B: intrusive reexperiencing of the trauma(s), Criterion C: persistent
+avoidance of stimuli associated with the trauma(s), and Criterion D: persistent symptoms of
+increased physiological arousal.[1] These criteria are complex and each Criterion is thought
+to be associated with dysregulation of at least one major biological stress system as well as
+several different brain circuits. This makes both the psychotherapeutic and the
+psychopharmacological treatment of individuals with early trauma complex and challenging.
+Criterion symptoms have an experimental basis in classical and operant conditioning theory,
+where animals learn to generalized behaviors based on previous experiences or
+“reinforcements”[14] and in animal models of learned helplessness where animals under
+conditions of uncontrollable shock do not learn escape behaviors, and have exaggerated fear
+responses as well as social isolation and poor health [15]. For example, Cluster B
+reexperiencing and intrusive symptoms can best be conceptualized as a classically
+conditioned response that is mediated by the serotonin system and is similar in some ways to
+the recurrent intrusive thoughts experienced in obsessive compulsive disorder, where
+serotonin and norepinephrine transmitter deficits play an important role [16]. An external or
+internal conditioned stimulus (e.g., the traumatic trigger) activates unwanted and distressing
+recurrent and intrusive memories of the traumatic experience(s) (e.g., the unconditioned
+stimulus). However, other Criterion B symptoms, such as nightmares or night terrors, may
+involve the dysregulation of multiple neurotransmitter systems (serotonin, norepinephrine,
+dopamine, choline, gamma-amino butyric acid (GABA) [17]). Criterion C symptoms
+represent both avoidant behaviors and negative alterations in cognitions. In the DSM-V,
+Criterion C was divided into avoidant behaviors and Criterion D negative alterations in
+cognitions [2]. Avoidant behaviors can be thought of as ways to control painful and
+distressing reexperiencing of symptoms. These symptoms are likely associated with the
+dopamine system and overactivation of the opioid system and associated with anhedonia and
+numbing of responses [18]. In the DSM-IV the former Criterion D persistent symptoms of
+increased physiological arousal and reactivity is now Criterion E, and likely involves
+dysregulation of several biological stress systems [13, 19] as discussed in further detail
+below.
+We will review the known differences in pediatric victims’ stress biology compared to those
+children who have not experienced trauma. These differences are likely the causes of theDe Bellis and A.B. Page 2
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+greater rates of psychopathology (PTSD, depression, disruptive behaviors, suicidality,
+substance use disorders) and of the common medical disorders (cardiovascular disease,
+obesity, chronic pain syndromes, gastrointestinal disorders, immune dysregulation) seen in
+child victims [20]. Throughout, we will associate the relationship to biological stress
+systems and common stress symptoms. On many levels, childhood trauma can be regarded
+as “an environmentally induced complex developmental disorder”[13].
+Exposure to a traumatic event or series of chronic traumatic events (e.g., child maltreatment)
+activates the body's biological stress response systems [21-23]. Stress activation has
+behavioral and emotional effects that are similar to individual PTSS symptoms [24]. Further,
+an individual's biological stress response system is made up of different, interacting systems,
+that work together to direct the body's attention toward protecting the individual against
+environmental life threats and to shift metabolic resources away from homeostasis and
+toward a “fight or flight” (and/or freezing) reaction [19, 25]. The stressors associated with
+the traumatic event are processed by the body's sensory systems through the brain's
+thalamus, which then activates the amygdala, a central component of the brain's fear
+detection and anxiety circuits. Cortisol levels become elevated through transmission of fear
+signals to neurons in the prefrontal cortex, hypothalamus, and hippocampus, and activity
+increases in the locus coeruleus and sympathetic nervous system. Subsequent changes in,
+catecholamine levels contribute to changes in heart rate, metabolic rate, blood pressure, and
+alertness [19]. This process also leads to the activation of other biological stress systems.
+In the review of the pertinent literature section, we will review the main biological stress
+response systems. We will focus on the limbic-hypothalamic-pituitary-adrenal (LHPA) axis,
+and the locus coeruleus-norepinephrine/sympathetic nervous system (SNS) or catecholamine
+system. We will also review the serotonin system, oxytocin and the oxytocin system, the
+immune system, and new data in genetic and epigenetic factors and gene-environment
+interactions that influence these systems and contribute to an individual's experience of
+vulnerability and resilience to childhood trauma. For each of these systems, we will provide
+an explanation of the mechanisms that drive them, followed by an examination of how these
+systems compare in children and adults who have been exposed to childhood trauma,
+thereby highlighting how early life adversity can disrupt the body's ability to regulate its
+response to stress.
+Experiencing trauma during development along with dysregulation of biological stress
+systems can adversely impact childhood brain development [13] and we will discuss brain
+imaging studies in children who experienced trauma and adults with trauma histories.
+Recently, the field of neuroscience has become increasingly aware of gender as an important
+moderator of experience, so throughout, we review peer reviewed publications that highlight
+gender differences, if available. Little is known about trauma's neurobiological, genetic, and
+epigenetic effects in children as compared to adults with trauma histories. Since longitudinal
+psychobiological research in pediatric trauma is a severely understudied area, most of our
+review will be based on cross-sectional studies. Although we will highlight studies where
+longitudinal research is available, more longitudinal research in trauma-exposed children is
+needed to understand the pediatric mechanisms underlying trauma's short-term and long-
+term adverse effects in adolescence and adulthood. We will review the clinical applications
+of this knowledge and discuss how stress related biomarkers may provide important tools for
+clinicians and researchers to objectively examine predictors of PTSS and to monitor
+treatment response. We then offer suggestions for future directions.
+A literature search of Pubmed and PsychInfo articles published to 2013 using keywords and
+MeSH terms “childhood,” “trauma,” “stress,” and/or “posttraumatic stress,” where crossed
+individually with “hypothalamic pituitary axis (HPA)”, “corticotrophin releasing hormone”De Bellis and A.B. Page 3
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+corticotrophin releasing factor,” “immune,” “serotonin,” “dopamine,” “oxytocin,” “brain,”,
+“brain imaging,” “brain structure,” “brain function,” “cognitive,” “genes,”
+“polymorphisms,” and “epigenetics,” that were limited to the English language, were
+reviewed and selected for this critical review. Trauma studies involving physical head
+trauma or medical illnesses were not included. Our criteria were that the articles be peer-
+reviewed and methodologically sound, with emphasis placed on the paucity of longitudinal
+studies in this field. When reviews were needed to describe the foundations of biological
+stress systems and brain development, meta-analyses or peer-reviewed critical reviews
+published by known stress researchers were cited.
+IV. Review of the pertinent literature: The Neurobiology of Biological Stress Systems
+Limbic-Hypothalamic-Pituitary-Adrenal (LHPA) Axis
+The LHPA axis plays a central role in regulating the body's response to stress and is the
+most studied biological stress system in animals and humans. Activation of the LHPA axis
+triggers the hypothalamus to secrete corticotrophin releasing hormone (CRH). This
+neuropeptide, also called corticotrophin releasing factor (CRF), is a key mediator of the
+stress response [26]. The term CRH is used when describing its function in the
+neuroendocrine system and the term CRF is commonly used when describing its function as
+a neurotransmitter. However the term CRH is the older term and authors are not always
+consistent in using these rules. CRH stimulates the release of adrenocorticotrophic hormone
+(ACTH) by binding to CRH receptors in the anterior pituitary. ACTH in turn binds to G
+protein-coupled receptors in the adrenal cortex, especially in the zona fasciculata of the
+adrenal glands. ACTH also stimulates the secretion of cortisol, a glucocorticoid hormone
+that plays an important role throughout the central nervous system (CNS). Cortisol activates
+glucocorticoid and mineralocorticoid receptors, which are located and expressed throughout
+the brain. Glucocorticoid receptors act as transcription factors and regulate gene expression
+for metabolism and immune function, as well as for cognitive and brain development [27].
+Increased levels of cortisol suppress the immune system, gluconeogenesis, and inhibit its
+own secretion via negative feedback to glucocorticoid receptors in the hippocampus [19].
+CRF is widely distributed throughout the brain and is involved in the stress response and
+learning and memory [28]. Cortisol regulates the stress response system both in the
+hippocampus and medial prefrontal cortex (mPFC), where it works to attenuate the stress
+response, and in the medial and central nuclei of the amygdala, where it works to promote
+the stress response via CRF-1 receptors [29]. Through negative feedback, cortisol controls
+its own secretion, inhibiting the hypothalamus’ release of CRH and the pituitary's release of
+ACTH, thereby bringing the body back to a state of homeostasis rather than arousal[19].
+Cortisol levels have a consistent diurnal pattern where levels are typically close to their peak
+during morning awakening, rise further in the 20-minute period after awakening and then
+progressively fall, reaching the nadir in the afternoon in children [30] adolescents [31], and
+adults [32]. Furthermore, cortisol levels and pituitary volumes increase with age [33].
+The LHPA Axis and Childhood Trauma
+Exposure to severe stress and trauma in youth can disrupt the regulatory processes of the
+LHPA axis across the life span in both animals and humans [26, 27, 34-36]. In animals,
+injections of CRF in early life produces a delayed effect in later life that is associated with
+reduced cognitive function, reduced number of number of CA3 hippocampal neurons, and
+decreased branching of hippocampal pyramidal neurons [37, 38]. Although the pediatric
+trauma literature suggest that the LHPA system is dysregulated in youth exposed to trauma,
+the cortisol regulation data seem contradictory, where baseline morning and 24-hour cortisol
+concentrations showed no differences [39, 40] , were higher [41-47] or in a few studies,
+lower[47-49] compared to youth without trauma. Additionally, no cortisol responseDe Bellis and A.B. Page 4
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+differences [39, 50, 51], blunted cortisol responses[52], and increased cortisol concentration
+responses [53, 54] have been reported in maltreated children and adults with histories of
+childhood maltreatment under psychological and pharmacological challenges. Other
+measures of the LHPA axis such as ACTH also show these contradictory findings where
+both blunted [39, 55] and increased [50, 53, 54, 56] ACTH levels have been reported in
+maltreated depressed children and adults with histories of childhood maltreatment under
+psychological and pharmacological challenges. Furthermore, in one meta-analysis, lower
+morning but higher afternoon/evening cortisol levels, a flatter diurnal rhythm, and greater
+daily cortisol output were seen in adults retrospectively reporting trauma[47]; while another
+meta-analysis demonstrated that individuals with adulthood trauma exposure and adults with
+PTSD showed no differences in cortisol levels [57], indicating that the developing LHPA
+axis is vulnerable to dysregulation as a result of childhood trauma.
+As outlined by De Bellis [13, 39, 42] , the discrepant findings described above may be
+related to several mediator and moderator mechanisms. A detailed examination of the
+factors associated with these mechanisms is important in studies endophenotyping an
+individual's response to the effects of early trauma on the development of biological stress
+systems. Endophenotyping is a term which is used to describe emotional and behavioral
+symptoms into stable phenotypes or observable traits with genetic associations. Identifying
+endophenotypes in traumatized children will be an important new tool for novel approaches
+to treatments such as personalized medicine [58]. Several of these mediation and moderation
+mechanisms for the biological effects of trauma on the developing child can be found in a
+previously published critical review (i.e., Figure 2[13]) and twelve updated mechanisms are
+detailed below for the LHPA system as this system is the most studied, providing the most
+data to synthesize into mechanisms (see Figure 1). Other biological stress systems will be
+reviewed and these mechanisms discussed only if there are published data available.
+1. Permanent changes occur as a result of childhood trauma onset— Elevated
+central CRH and CRF occurs with the onset of trauma. While this CRF elevation persists
+into adulthood; initial elevations of ACTH and cortisol levels become attenuated with
+chronic exposure to elevated CRH (a.k.a. CRF). High CRH in turn causes adaptive down-
+regulation of pituitary CRH and neural CRF receptors after trauma onset. These ideas agree
+with McEwen's [26] theory of allostatic load, which hypothesizes that organisms adapt to re-
+regulate psychobiological responses to chronic stress to prevent physical harm to the
+organism. Increasing allostatic load over the lifespan, however, increases vulnerability to
+stress disorders in response to new stressors. Thus, this down-regulation of CRF receptors
+may be an adaptive mechanism that regulates pituitary hypertrophy (a finding seen in
+maltreated children with PTSD[59]); while a down-regulation of CRF receptors would make
+neurons less responsive to CRF induced neuronal damage and seizures [60, 61]. It should be
+noted that the opposite of chronic stress (i.e. environmental enrichment) delays seizures and
+neuronal damage in seizure prone animals through a CRF mechanism [62]. In support of this
+idea, higher levels of cerebrospinal fluid (CSF) CRF are seen in juvenile primates raised
+under unpredictable and adverse early rearing conditions [63] which longitudinally persists
+into young adulthood[64]. CSF CRF levels are higher in adults with childhood trauma
+histories [20]. In combat-related PTSD, elevated levels of central CRH were found [65, 66];
+childhood trauma is also a risk factor for a diagnosis of PTSD after combat experiences [67].
+Chronically elevated CRF causes generalized arousal, anxiety, aggression, hypervigiliance,
+and stimulation of the sympathetic nervous system (SNS), all core symptoms of the PTSD
+hyperarousal cluster [24]. It also causes inhibition of feeding and sexual behavior, core
+symptoms of major depression, another common outcome of traumatic experiences in
+childhood [68].De Bellis and A.B. Page 5
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+2. Childhood trauma re-regulates biological stress systems— The long-term
+consequence of early trauma experiences and elevated CRF resets the regulation of the
+LHPA axis so that ACTH and cortisol secretions are set at lower 24-hour levels during
+baseline and non-stressful conditions. Adult studies of victims of childhood trauma
+consistently show lower cortisol levels [47, 69]. In a meta-analysis, one of the most robust
+findings was that the longer the time since the trauma, the lower the morning cortisol, daily
+cortical volume, ACTH and postdexamethasone cortisol levels [47]. Since the adult PTSD
+studies focus on past trauma, the latter hypothesis may best explain the main differences in
+the data in childhood PTSD studies, where higher baseline cortisol levels were reported in
+most pediatric studies [41-47]; while lower 24 hour cortisol levels were seen in adults
+maltreated in youth [69]. This attenuation hypothesis is supported by data from the only
+longitudinal psychobiological study published to date; where nonstress cortisol levels were
+assessed at six time points from childhood through young adulthood in sexually abused and
+non-abused girls. In this study, nonstress cortisol activity was initially significantly higher in
+sexually abused girls (post abuse disclosure) compared to non-abused girls; but cortisol
+activity was significantly attenuated starting in adolescence and significantly lower during
+young adult follow-up compared to non-abused females [70].
+3. Priming also called sensitization occurs as a result of childhood trauma—
+Priming occurs as a reflection of chronic compensatory adaptation of the LHPA axis long
+after trauma exposure, and it may be more likely to occur after pubertal maturation. Thus,
+studies which show greater cortisol or ACTH response after childhood trauma exposure may
+be the result of “priming.” LHPA axis regulation is affected by other hormones that are
+stress mediated such as arginine vasopressin and the catecholamines, both of which act
+synergistically with CRH.[19] A ‘primed system’ will ‘hyper’-respond during acute stress or
+during the occurrence of traumatic reminders because of the interactive neuroendocrine and
+neurotransmitter effects activated by current life stressors on the dysregulated LHPA axis.
+Another term used to describe priming is sensitization, defined as enhanced neuroendocrine,
+autonomic and behavioral responsiveness to stress as well as LHPA axis dysregulation [20,
+71]. Thus, when a new emotional stressor or traumatic reminder is experienced, the LHPA
+axis response will be enhanced (higher ACTH and higher cortisol levels). This has been seen
+in findings of increased ACTH secretion in depressed, abused youth who were continuing to
+experience chronic adversity [50] as well as in depressed women with a history of abuse
+who reported more recent chronic mild stress than abused women without major depressive
+disorder, who had blunted ACTH responses to CRF [56]. In a study of post institutionalized
+children that examined the effect of interactions between children and their caregivers, basal
+cortisol levels increased in response to parental interactions only in children who had
+previously been exposed to severe neglect from institutional rearing [72]. In addition, a
+prolonged elevation in cortisol levels occurred only when the previously neglected children
+were interacting with their caregivers, as interactions with unfamiliar adults led to similar
+cortisol levels in previously neglected and non-neglected children. These results therefore
+illustrated that previously neglected children generalized caregiver interactions as traumatic
+reminders and stressful experiences and thus demonstrated a disruption in the regulatory
+processes of the LHPA axis in response to these social interactions. Moreover, in adults with
+a history of child abuse, higher cortisol levels occur after exposure to traumatic reminders
+compared to neutral memories [73]. These results are the effects of ‘priming’ or
+sensitization.
+4. Trauma timing and duration influence biological stress systems— Timing of
+trauma such as duration (single episode or chronic), age of trauma onset and stage of
+development influence cortisol levels post trauma. Cross-sectional studies show that trauma
+in infant primates [74] and very young or prepubertal children living in orphanages showDe Bellis and A.B. Page 6
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+low morning and daytime cortisol production [75], suggesting that prepubertal children may
+be more sensitive to negative feedback control mechanisms for cortisol output than older
+school-age children who show higher cortisol levels [41-47]. Sexually abused prepubertal
+children with major depression exhibited significantly lower mean baseline ACTH
+concentrations over the first 4 hours after sleep onset compared with control children[76].
+Results of these cross-sectional studies suggest tight down-regulation of ACTH and cortisol
+due to elevated central CRF in very young children. Pituitary volumes increased with age
+[59] along with increasing cortisol levels, which are also associated with increasing body fat
+[77]. Significantly larger pituitary volumes are seen in pubertal and postpubertal maltreated
+children and adolescents with PTSD compared with non-maltreated controls [59]. Thus,
+elevated central CRH levels may lead to pituitary hypertrophy in traumatized children,
+which may be most pronounced during very early childhood and puberty, due to trophic
+factors. An adaptive response to elevated CRH levels, particularly during the sensitive
+periods of very early childhood and adolescence to elevated CRH levels, must be down-
+regulation of CRH receptors, or the resultant high cortisol levels would result in medical
+illness and brain structure damage. Tight control of cortisol secretion in infancy and
+attenuation of cortisol secretion after trauma onset and in response to increasing levels of
+cortisol that occur with increasing age and puberty are in accord with the theory of allostatic
+load [26], which hypothesizes that organisms adapt to chronic stress to prevent physical
+harm.
+5. Individual differences in response to childhood trauma are associated with
+different types of biological stress system regulation— Individual differences in
+behavioral and emotional responses are associated with different types of LHPA axis
+dysregulation. Most studies show LHPA axis dysregulation consistent with elevated central
+CRF in youth who experience childhood trauma and depressive and anxiety symptoms [39,
+41-47, 50, 78-80] or co-morbid internalizing and internalizing behaviors [42, 79]; while
+traumatized children with marked disruptive behavioral disorders or anti-social behaviors
+show lower cortisol levels [81].In addition, in a study of adults with moderate to severe child
+maltreatment histories and no diagnosable psychopathology, lower concentrations of cortisol
+and ACTH were seen in response to the Trier Social Stress Test compared to healthy adults
+without maltreatment histories [82], further suggesting that elevated central CRF is likely
+seen as a result of maltreatment even in resilient outcomes.
+6. Early trauma type and trauma severity influence biological stress systems
+—Certain trauma types and increased overall trauma severity are more likely to result in
+LHPA dysregulation. For example, children who suffered from physical and sexual abuse
+occurring in the first 5 years of life were more likely to experience internalizing symptoms
+and LHPA axis dysregulation than those who suffered from abuse occurring after age 5, or
+from neglect, or emotional abuse [40]. Increasing severity of childhood trauma is associated
+with dysregulation of the LHPA axis. Children who experienced multiple maltreatment or
+those who experienced severe sexual abuse were more likely to have elevated cortisol levels
+[44]. Furthermore, in maltreated children with PTSD, 24 hour urinary cortisol
+concentrations correlated positively with increased trauma duration, and with PTSD
+intrusive and hyperarousal symptoms [42].
+7. Genetic factors influence biological stress system responses to childhood
+trauma— LHPA-related genetic factors influence the effect of childhood trauma on the
+LHPA axis and its associated outcomes. Gene × environment interplay is important for the
+expression of both negative and resilience outcomes following childhood trauma. Gene x
+environment investigations are a relatively new area of study, so these data should be
+considered preliminary since this part of the field is still in its infancy.De Bellis and A.B. Page 7
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+Polymorphisms are normal variations in genes, which code for important proteins that build
+the body and its functions. Single nucleotide polymorphisms (SNPs) are the most common
+type of genetic variation. Specific polymorphisms that are needed to form LHPA axis
+related structures (CRH and glucocorticoid receptors) appear to moderate the effect of child
+abuse on the risk for childhood neuroticism and adult depressive symptoms. The brain's
+CRH type 1 receptors (CRHR1) are located throughout the brain [27] and, when activated,
+produce symptoms of anxiety and depression [24, 83].
+There are few studies of gene × environment interplay in children. In one study, physically
+abused, emotionally abused, and neglected children who carried two copies of the TAT
+haplotype of the CRHR1 had significantly higher levels of neuroticism, a prelude to anxiety
+and depression, than non-maltreated children who had two copies of the TAT haplotype
+[84]. However, in this study, sexually abused children and children who had experienced 3
+or 4 types of abuse, who had two copies of the TAT haplotype appeared to be protected
+from neuroticism compared to children who experienced other types of maltreatment [84].
+In a follow-up study of these children, only maltreated children who carried two copies of
+the TAT haplotype exhibited a blunted slope of diurnal cortisol change, a sign of increasing
+allostatic load and dysregulation of the LHPA axis. However, the CRHR1 haplotype groups
+(zero or one copy vs. two copies) were not related to internalizing symptoms [85].
+In contrast, one study of adult carriers of both the TCA (i.e., T-alleles, formed of SNP,
+rs7209436, and C allele formed by SNP rs4792887) and TAT haplotypes (i.e., A-allele
+formed of SNP rs110402) as well as the 2 SNPs (rs7209436 and rs242924) located in intron
+1 of the CRHR1 gene, were significantly protected from having major depression despite
+histories of child abuse [86]. This finding was replicated in a relatively large study of
+women with child maltreatment [87], and in African American men and women [88], but
+not replicated in a study of European men and women, who experienced childhood
+maltreatment [87]. On the other hand, adults with moderate to severe child maltreatment
+histories and the GG polymorphisms of the CRHR1 gene (rs110402) showed a significant
+interaction with maltreatment for increased cortisol responses to dexamethasone/
+corticotropin-releasing hormone pharmacological challenge compared to those adults with
+maltreatment and the A allele [88]. Higher cortisol is a well-replicated finding in adults with
+major depression [19, 89]. Furthermore, sex effects may be important in gene × environment
+interplay. In another study of adults with child abuse histories, the protective effect of the
+CRHR1 polymorphisms (rs110402 A-allele) against developing adult depression and with
+decreased cortisol response in the dexamethasone/ corticotropin-releasing hormone
+pharmacological challenge were observed only in men, and not in women [90] , a finding
+opposite to the one described above [87].
+Gene × environment interplay was seen in a prospective study of the FKBP5 gene, a gene
+that inhibits glucocorticoid-receptor-mediated glucocorticoid activity [91]. In this study, 884
+Caucasians with no history of depression were enrolled at age 12 to 14 years, and followed
+for 10 years [92]. Those who were homozygous for the minor alleles and had traumatic (but
+not separation (i.e., lost of parent through death or divorce) events (particularly severe child
+maltreatment) prior to age 24 years, showed an increased incidence of depression on follow-
+up, suggesting that the minor allele of the FKBP5 polymorphism and childhood trauma
+interacted to predict adult depression. Three variants in the FKBP5 gene (rs4713916,
+rs1360780, and rs3800373) were associated with a failure of cortisol responses to return to
+baseline in healthy adults after psychosocial stress, suggesting a genotype-dependent risk of
+chronically elevated plasma cortisol levels in the context of acute stress as a possible
+mechanism for the increased risk of stress related mental disorders, such as depression and
+PTSD in adults with these alleles [93]. Cross-sectional studies have also found interaction
+for adults who carry the minor FKBP5 allele and have child maltreatment histories as theyDe Bellis and A.B. Page 8
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+have increased rates of depression [94], PTSD [95, 96], and suicide risk [97]. Interestingly,
+in one cross sectional study, the less common FKBP5 haplotype (H2) was associated with an
+increased risk of overt aggressive behavior in adult male prisoners who have a history of
+physical abuse[98]. In an imaging study, healthy young adults, were genotyped for 6 FKBP5
+polymorphisms (rs7748266, rs1360780, rs9296158, rs3800373, rs9470080 and rs9394309)
+previously associated with psychopathology and/or LHPA axis function [99]. Interactions
+between each SNP and increased levels of emotional neglect, were associated with
+heightened reactivity to angry and fear faces in the dorsal amygdala which suggests a
+neurobiological mechanism linking PTSS and depressives symptoms of hyperarousal and
+hypervigilience to negative affect and to psychopathology [99]. Hence, investigations of
+gene × environment interplay suggest that risk genes may interact with childhood trauma to
+produce different adult emotional, behavioral, and neurobiological outcomes.
+8. Epigenetic factors influence biological stress system responses to
+childhood trauma— LHPA-related epigenetic factors influence the effect of childhood
+trauma on the LHPA axis and its associated negative behavioral and emotional outcomes.
+Epigenetics is also a relatively new area of study, so the limited data to date will be
+described here. The epigenome consists of chromatin, the protein-based structure around
+DNA, and a covalent modification of the DNA itself by the methylation of cytosine rings
+found at CG dinucleotides [100]. The epigenome determines the accessibility of the DNA to
+convert genetic information into the messenger RNA necessary for gene function. Early
+traumatic experiences are associated with hyper- and demethylation of specific regulatory
+sites in key biological stress system genes including the gene encoding of the glucocorticoid
+receptor [101] and the neuropeptide arginine vasopressin (AVP) which is co-localized with
+CRH and released with CRH from the paraventricular nucleus of the hypothalamus during
+stress [102]. Increased methylation of key biological stress system genes can silence a gene's
+activity by making the gene inaccessible for transcription, while demethylation may make a
+gene accessible for transcription. Thus, childhood trauma can have a long-term impact on
+gene activity without changing an individual's DNA sequence (i.e., genes)[103, 104].
+Epigenetic effects may account for the inconsistent main gene and gene x environment
+results in the studies previously reported.
+Animal studies have provided the first evidence of epigenetic effects caused by early
+trauma. Rats developing in optimal environments show less stress reactivity [105]. Because
+lactating female Long-Evans rats exhibit individual variation in the frequency of pup
+licking/grooming, high or low levels of pup licking/grooming are considered a maternal
+phenotype [106]. As adults, the offspring of high licking/grooming mothers show less
+plasma ACTH and cortisol responses to acute stress in comparison with animals reared by
+low licking/grooming mothers [106, 107]. The offspring of high licking/grooming mothers
+also show significantly increased hippocampal glucocorticoid receptor mRNA and protein
+expression, enhanced glucocorticoid negative feedback sensitivity, and decreased
+hypothalamic CRF mRNA levels, which all indicate decreased stress reactivity as a result of
+optimal quality of care.[105] Furthermore, DNA methylation patterns differ in high licking/
+grooming versus low licking/grooming offspring. The glucocorticoid receptor promoter
+sequence in the hippocampus of adult offspring of low licking/grooming mothers is
+hypermethylated and functionally less sensitive to cortisol feedback. Maternal behaviors
+also affect other biological systems that are associated with the LHPA axis. Prolonged
+periods of maternal separation alter the methylation state of the promoter for the arginine
+vasopressin gene (AVP) in the pup, increasing hypothalamic vasopressin AVP synthesis and
+LHPA responses to stress, along with memory deficits and learned helplessness behaviors
+[108].De Bellis and A.B. Page 9
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+In a rodent model of infant maltreatment, abuse and neglect during infancy decreases brain-
+derived neurotropic factor (BDNF) gene expression in the adult prefrontal cortex (PFC)
+[109]. In addition, these investigators found that chronic treatment with a DNA methylation
+inhibitor lowered levels of methylation in male and female rats exposed to early
+maltreatment. They also showed not only that infant trauma was associated with poor
+mothering in the next generation and that these epigenetic changes in DNA methylation
+were passed on from one generation to the next generation, even if the offspring of an
+abusive dam (mother rat) was cross-fostered with a non-maltreating dam, thereby indicating
+heritability of these epigenetic changes [109].
+Increased methylation in a neuron-specific glucocorticoid receptor (NR3C1) promoter was
+seen in human postmortem hippocampus obtained from suicide victims with a history of
+childhood abuse compared to suicide victims without child abuse histories and controls who
+died of non-suicide related causes, demonstrating an association between early trauma and
+epigenetic alterations [101]. Decreased hippocampal glucocorticoid receptor expression due
+to epigenetic changes likely increased LHPA activity and enhanced the risk of both
+depression and suicide in adults who were child abuse victims [101]. These findings link the
+previously described data from rats to humans and suggest a common effect of quality of
+parental care on the epigenetic regulation of hippocampal glucocorticoid receptor expression
+that can lead to health or the LPHA axis dysregulation seen in childhood PTSD and PTSS
+and adult depression.
+In addition, a preliminary investigation showed that experiencing foster care during
+childhood is associated with changes in methylation of genes related to both the HPA axis
+and the immune system [110]. This study therefore supports the idea that childhood trauma
+may be linked to changes in genetic expression and resulting mental and medical health
+problems.
+9. Gender differences influence the effects of childhood trauma on biological
+stress systems— Gender differences influence the effect of childhood trauma on the HPA
+axis. Research involving men and women who were exposed to early trauma but who did
+not have any psychopathological diagnoses has shown stronger associations between trauma
+and increased CRF levels in men than in women [111]. In children, girls with histories of
+physical abuse had higher levels of urinary oxytocin, a neuroendocrine peptide that down-
+regulates cortisol and is associated with complex social behaviors, and lower levels of
+salivary cortisol following an experimental stressor when compared to non-abused girls;
+while abused and non-abused boys did not differ in their hormonal responses [112]. Early
+trauma and gender differences are an area of research that warrants further investigations, as
+a prospective investigation showed that maltreated males may be more likely to be arrested
+for violent offenses as adults [113], thus becoming prisoners and less likely to be involved in
+retrospective research studies. This fact can lead to a selection bias in retrospective studies,
+and a possibly mistaken idea that females are more vulnerable to early trauma. Early trauma
+experiences may lead to greater down-regulation of cortisol due to high levels of CRF and
+other stress markers, in males compared to females, findings that are commonly seen in
+individuals with antisocial behaviors [81].
+10. Social support buffers biological stress system dysregulation and its
+associated negative behavioral and emotional outcomes— As adults, the
+offspring of high licking/grooming mothers show decreased stress and cortisol reactivity as
+a result of optimal quality of care [105]. In preschool children, quality of childcare is
+associated with a buffering of hypothalamic-pituitary-adrenal axis to stress [114]. In adult
+studies, social support was associated with a decrease in the cortisol response to the Trier
+Social Stress Test in men [115]. Furthermore, decreased cortisol response and activity in theDe Bellis and A.B. Page 10
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+dorsal anterior cingulate, a brain region involved in distress separation, were seen in
+response to an exclusion neuroimaging task when daily social support was part of the
+research paradigm [116]. Further research is needed on the impact of social support in
+traumatized children.
+11. Individual biological stress systems dysregulation in response to
+childhood trauma and the genes associated with the function of these
+systems influence other biological systems during development to contribute
+to psychopathology— For example, the LHPA modulates the locus coeruleus-
+norepinephrine/SNS system and the immune system [19]. When the hypothalamus releases
+CRH in response to stress, the locus coeruleus becomes activated indirectly through the
+central amygdala [19]. Serotonin modulates LHPA activity [117]. Furthermore, having more
+than one type of a depression risk allele in two different biological stress systems (i.e., the
+risk CRHR1 polymorphisms in the LHPA axis and the short allele of serotonin transporter
+gene promoter polymorphism (5-HTTLPR) in the serotonin system) is associated with
+current depressive symptoms in adults with less severe levels of child abuse and neglect as
+measured on the Childhood Trauma Questionnaire [118].
+12. Biological stress systems dysregulation in response to childhood trauma
+adversely influences cellular, cognitive and brain development [42, 119, 120]
+—Human brain maturation is marked by the acquisition of progressive skills in physical,
+behavioral, cognitive, and emotional domains. Myelin, a fatty white substance produced by
+glial cells, is a vital component of the brain. Myelin encases the axons of neurons, forming
+an insulator, the myelin sheath and is responsible for the color of white matter. Myelination
+of newly formed neuronal networks increases neural connectivity and parallels these
+developmental changes. Brain development occurs with an overproduction of neurons in
+utero, increases in neuron size, synapses, and neural connections during childhood and
+adolescence, selective elimination of some neurons (apoptosis) with corresponding
+decreases in some connections and strengthening of others and corresponding increases in
+myelination to hasten these connections. Synapses, dendrites, cell bodies, and unmyelinated
+axons, which form the brain's gray matter, decrease during development [121].
+Glucocorticoids are important for normal brain maturation including initiation of terminal
+maturation, remodeling axons and dendrites and affecting cell survival [26, 122]. Both
+suppressed and elevated glucocorticoid levels can impair brain development and function
+[26, 122]. During brain maturation, stress and elevated levels of stress hormones and
+neurotransmitters may lead to adverse brain development through apoptosis [123-125],
+delays in myelination[126], abnormalities in developmentally appropriate pruning [127,
+128], the inhibition of neurogenesis[129-131], or stress induced decreases in brain growth
+factors[132]. Indeed, maternal deprivation increases the death of infant rat brain cells [133].
+Consequently, dysregulation of a maltreated child's major stress systems likely contributes
+to adverse brain development and leads to psychopathology [13].
+Telomeres are the repetitive TTAGGG sequence at the end of linear chromosomes and with
+each division, telomeres get shorter, and are considered a molecular clock for cellular aging
+[134]. In a cross sectional study of children who were previously institutionized, telomere
+length was shorter than children without such histories[135]. In a prospective longitudinal
+study of children, from ages 5 to 10 years, children who experienced two or more types of
+violence (measured as bullying, witnessing domestic violence, and physical abuse), have
+increased telomere erosion, a marker of premature cellular aging, compared to children who
+did not experience violence [120]. This landmark study suggests that children, who
+experience trauma, have decreased telomere maintenance, a potential mechanism
+(“premature aging”) for adverse brain development, mental health problems, and chronic
+health problems in adults with a childhood history of trauma [13, 136].De Bellis and A.B. Page 11
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+The Locus Coeruleus-Norepinephrine/Sympathetic Nervous System (SNS)/Catecholamine
+System and Childhood Trauma
+When the hypothalamus releases CRH in response to a stressor, the locus coeruleus (LC)-
+norepinephrine/SNS system becomes activated indirectly through the central amygdala.
+Activation of the locus coeruleus causes an increase in the release of norepinephrine
+throughout the brain and results in symptoms of PTSD and anxiety [13]. The locus coeruleus
+is an ancient brain structure that increases activation of the sympathetic nervous system
+(SNS), a part of the autonomic nervous system that controls the “fight or flight or freeze”
+response [13]. The catecholamines (epinephrine, dopamine, and norepinephrine) and
+corresponding increased activity in the SNS work to generally prepare an individual for
+action by redistributing blood away from the skin, intestines, and kidneys and to the brain,
+heart and skeletal muscles [137], and by diverting energy through a central dopamine
+mechanism that inhibits the prefrontal cortex, from a thinking and planning mode to a
+survival and alertness mode [138, 139].
+Sexually abused girls with dysthymia demonstrated greater 24-hour levels of total urinary
+catecholamines than non-abused girls [140]. Maltreated boys and girls with PTSD showed
+greater levels of urinary catecholamines at baseline than non-maltreated healthy children and
+non-maltreated children with generalized anxiety disorder [42]. Urinary catecholamines
+positively correlated with duration of PTSD trauma and number of PTSD internalizing and
+child dissociative symptoms [42]. In a study of children who experienced motor vehicle
+accidents, significantly elevated plasma noradrenaline concentrations were seen
+prospectively, at both months 1 and 6, after the accident, compared to the non-PTSD and
+control groups, further suggesting that higher catecholamines occur as a result of trauma and
+PTSD [141]. In a study of police academy recruits, those with early trauma exposure
+demonstrated heightened 3-methoxy-4-hydroxy-phenylglycol (MHPG) (the major
+metabolite of norepinephrine) response after watching critical incident videos [142]. An
+adult positron emission tomography imaging study demonstrated significantly reduced
+norepinephrine transporter (NET) availability in the locus coeruleus in PTSD which would
+lead to chronic stimulation of the locus coeruleus as a result of increased levels of
+norepinephrine. This finding positively correlated with PTSD hypervigilance symptoms.
+Furthermore, in a gene x environment analysis, adult carriers of the Val allele of the
+Catechol-O-methyltransferase (COMT) polymorphism (a gene involved in dopamine
+degradation) with a history of sexual abuse showed a higher disposition toward anger,
+symptoms commonly seen in PTSD patients, compared with adults homozygous for the Met
+allele. The Val allele is associated with increased dopamine neurotransmission in the
+prefrontal cortex, which is associated with deficits in executive function [138, 139] and
+increased risk for impulsive anger. On the other hand, adults with early trauma and the Val/
+Val genotype showed increasing levels of dissociation corresponding to increased exposure
+to higher levels of childhood trauma [143]. Dissociation is a failure to integrate sense of self
+with current and past memories and emotions and is a pathological defense to ward off
+anxiety that is also associated with non-intentional antisocial behaviors. Dissociation is a
+different construct from depression and anxiety. Thus studies in both children and adults
+have consistently demonstrated higher locus coeruleus (LC)-norepinephrine/SNS system
+activity associated with childhood trauma and PTSD, while down-regulation of this system
+due to trauma may be associated with antisocial behavior and dissociation.
+The Serotonin System and Childhood Trauma
+Serotonin is a critical element of the stress response system [13]. Serotonergic neurons
+project diffusely from the central serotonin raphe nuclei in midbrain to important cortical
+and subcortical brain regions (e.g., prefrontal cortex, amygdala, hippocampus) that play
+known roles in regulating emotions (e.g., mood), behaviors (e.g., aggression, impulsivity)De Bellis and A.B. Page 12
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+[144, 145], cognitive function, motor function, appetite, and the regulation of many
+physiological processes (e.g. cardiovascular, circadian, neuroendocrine respiratory, and
+sleep functions [144, 146]). Serotonin is an important regulator of morphogenetic activities
+during early brain development, influencing cell proliferation, migration, and differentiation,
+thus influencing child brain development [147]. In preclinical animal studies, decreased
+levels of serotonin activity are associated with increased levels of aggressive behaviors in
+rodents and primates exposed to early adversity [148]. Mice genetically engineered to lack
+the serotonin transport gene show increased LHPA axis activation to stress, suggesting that
+serotonin modulates LHPA activity [117]. Disruptions in serotonin's regulatory functioning
+are linked with several psychopathological disorders that are commonly seen in children and
+adults with childhood trauma. For example, decreased levels of serotonin activity have been
+associated with mental health problems such as depression and anxiety [149] as well as with
+aggressive behaviors in individuals with personality disorders such as borderline personality
+disorder[150].
+Early trauma dysregulates serotonin in humans. The serotonin transporter protein is involved
+in the reuptake of serotonin from the synapse, and is critical to serotonin regulation in the
+brain. The short allele of the serotonin transporter gene promoter polymorphism (5-
+HTTLPR) interacts with maltreatment in the development of childhood depression. The
+short allele is associated with reduced transcriptional activity of serotonin, so that there is
+less central serotonin available in the brain; while the long allele has at least twice the basal
+level of transcriptional activity of the short variant [151]. Most studies regarding the effects
+of 5-HTTLPR are in adults maltreated as children. A large epidemiological study
+demonstrated that there were no main genetic effects, but carriers of the S-allele had a
+higher risk of developing depressive and suicidal symptoms when exposed to stressful life
+events and childhood maltreatment [152]. Children who were homozygous for the short
+allele of 5-HTTPR demonstrated a significantly elevated vulnerability to depression, but
+only in the presence of maltreatment; but the presence of positive supports reduced this risk
+[153]. Having two short-short alleles of the 5-HTTLPR gene moderated the association
+between bully victimization and emotional problems, such that frequently bullied children
+were at an increased risk as adolescents for depression or anxiety; the short-long and long-
+long genotypes did not confer an increased risk [154]. However other studies have not
+shown an increased vulnerability to depression as a function of interactions between the
+short allele and maltreatment. Instead, they have shown increased risk with the long-long
+allele [85, 155]. One study of 595 youth suggests that genetic variation has a negligible
+effect on promoting resilience among maltreated children [156]. In other words, non-
+maltreated children with the short-short genotype were more likely to have higher resilient
+functioning; while maltreated children with the short-short genotype were more likely to
+have lower resilience [156]. This study agrees with controversial meta-analyses that have
+found that adverse childhood events had a main effect on depressive outcomes regardless of
+5-HTTLPR polymorphisms [157, 158]. The discrepant findings in adults may be caused by
+failure to include trauma versus a stressful life event, trauma age of onset, trauma duration,
+and trauma type in the gene x environment interaction analyses, as this interaction showing
+that adults with histories of child maltreatment were found in another meta-analysis to be at
+increased risk for depression [159]. On the other hand, in a forensic sample of 237 men with
+elevated levels of child abuse and neglect given the Childhood Trauma Questionnaire,
+measures of psychopathy were highest among carriers of the 5-HTTPR long allele and
+carriers of the low activity monoamine oxidase A (MAOA) gene [160]. Thus resilience is a
+complex issue, as psychopathy as an outcome may be more harmful to society than
+depressive symptoms.
+Genes associated with the serotonin system have been linked to other adverse outcomes in
+the presence of childhood trauma. The MAOA gene codes for an enzyme that selectivelyDe Bellis and A.B. Page 13
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+degrades the biogenic amines dopamine, serotonin, and norepinephrine after reuptake from
+the synaptic cleft, and influences behavioral regulation [161]. Meta-analyses revealed that
+the association between early family adversity (particularly between neglect or physical
+abuse), and the short version of the MAOA gene, was significantly associated with a general
+index of mental health problems, antisocial behavior, attentional problems, and hyperactivity
+in boys [162]. Adolescent boys with the short MAOA allele who were exposed to
+maltreatment or poor-quality family relations had more alcohol-related problems than
+maltreated boys with the longer MAOA allele [163]. Early use of alcohol in youth was
+predicted by an interaction of the short alleles of 5-HTTLPR and maltreatment [164].
+Further, women with a history of sexual abuse and the short MAOA allele were more likely
+to demonstrate alcoholism and antisocial personality disorder than were women with a
+history of sexual abuse and the long allele [165].
+Furthermore, genetic polymorphisms can have additive genetic effects. Children who were
+homozygous for the short allele of 5-HTTLPR, and had the val66met variant of the brain-
+derived neurotropic factor (BDNF) gene, and had been maltreated, were at increased risk of
+depression.
+In summary, the serotonin system and the genes regulating the serotonin system are
+influenced by early trauma. However, the field has not yet advanced to the point where
+treatment can be tailored to an individual child. More work needs to be done on gene-gene
+interactions, possible epigenetic effects, trauma variables, and other factors such as social
+supports, to achieve this aim.
+The Oxytocin System and Childhood Trauma
+Oxytocin plays an important role in interpersonal relationships. Involved in the regulation of
+an individual's sexual response and milk production, this hormone is also responsible for the
+regulation of a wider range of social interactions, including social memory and cognition,
+emotion recognition, empathy, and attachment [166]. In addition, the oxytocin system is
+involved in the regulation of the body's response to stress. Research in rats demonstrated a
+relationship between oxytocin and the mother's relationship with her offspring, as those
+mothers who engaged in more licking/grooming behaviors exhibited higher levels of
+oxytocin receptor binding in the amygdala [167]. Similarly, rat mothers who demonstrated
+high levels of licking/grooming had increased levels of oxytocin gene expression and a
+subsequent increase in dopamine reward production. Mothers who demonstrated lower
+levels of licking/grooming behaviors, had lower levels of oxytocin gene expression, thereby
+highlighting the important role that oxytocin plays in the attachment bond [168].
+Research involving humans has similarly demonstrated that negative life events can disrupt
+the body's regulation of oxytocin. Decreased levels of oxytocin have been found in women
+exposed to early maltreatment—a relationship that was shown to be especially strong when
+the form of maltreatment was emotional abuse [20]. Gender differences have also been
+found in the relationship between childhood trauma and oxytocin regulation. Focusing on
+oxytocin response to an experimental stressor in abused girls and abused boys, girls exposed
+to physical abuse exhibited higher levels of oxytocin, as well as decreased levels of cortisol,
+in response to the experimental stress; while there was no difference in hormone response to
+the stress in the abused boys [112]. In the Adverse Childhood Experiences Study, a
+relationship was found between exposure to early trauma and increased promiscuity[136].
+To explain this relationship, the researchers pointed out that disruptions in oxytocin
+regulation of social attachments during childhood can lead to high oxytocin and thus
+problems forming fast and less discriminate personal attachments during adulthood [136].De Bellis and A.B. Page 14
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+On the other hand, a strong moderating effect of a positive social environment has also been
+found in adults with a specific allele of the oxytocin receptor gene OXTR who had been
+exposed to early stress, as increased resilience in adulthood was found only in those
+individuals who had been surrounded by a positive family environment during childhood
+[169]. Further research is needed on the impact of oxytocin on emotional and behavioral
+outcomes in traumatized children.
+The Immune System and Childhood Trauma
+Activation of the immune system involves the production of cytokines, which promote an
+inflammatory reaction to infection or pathogens in the body. Although one of the main
+effects of this reaction is to produce the physical symptoms of sickness (e.g., fever, nausea,
+and fatigue), activation of cytokines that promote inflammation are implicated in depression,
+a common outcome of early trauma [170]. A recent systematic review provided evidence
+that supports the relationship between pro-inflammatory cytokines and increased levels of
+depression and anxiety in adolescents [171]. Higher levels of plasma antinuclear antibody
+titers have been found in girls who have been sexually abused, suggesting that exposure to
+this form of stress may inhibit the body's means of suppressing the B lymphocytes, or the
+lymphocytes that produce antibodies, thereby leading to the increased levels of the antibody
+titers found in the abused girls [172]. Increased levels of inflammatory cytokines, as well as
+decreased levels of anti-inflammatory cytokines, have been associated with adult PTSD and
+exposure to chronic stress [173, 174]. In women who had experienced early maltreatment,
+those who had been diagnosed with PTSD had higher activation levels of T cells than those
+who did not have PTSD More specifically, investigators found a positive correlation
+between T-cell activation levels and intrusive symptoms of PTSD [175]. Similar results
+were found in a study of women with PTSD secondary to physical or sexual abuse during
+childhood, where these women demonstrated increased inflammatory and immune
+activity[176]. Other investigators demonstrated that greater concentrations of interleukin-6
+(IL-6), a proinflammatory cytokine, concentrations were seen during the Trier Social Stress
+Test in adults with child maltreatment histories compared to adults without such histories
+[177]. Furthermore in a longitudinal study of a New Zealand birth cohort (n=1037), it was
+demonstrated that adults with histories of poverty, social isolation or maltreatment had
+elevated rates of depression and age-related metabolic disease risks in adulthood including
+higher body mass index, total cholesterol, glycalated hemoglobin, and low levels of high-
+density lipoprotein, low maximum oxygen consumption, and higher levels of C-reactive
+protein, a measure of inflammation [178]. Further children exposed to a greater number of
+these adverse childhood risk factors had greater age-related disease risk in adult life [178].
+The increased activation of cytokines and dysregulation of the immune system, along with
+the other biological stress response systems, such as the HPA axis and the LC/SNS systems,
+that occurs in response to early adversity, can lead to hypertension, accelerated
+atherosclerosis, metabolic syndrome, impaired growth, and immune system suppression and
+poorer medical health in adults with child trauma histories [179].
+The Effect of Childhood Trauma on Neuropsychological Functioning and Cognitive
+Development
+Cross-sectional studies examining maltreatment trauma in childhood have shown lower IQs
+and deficits in language and academic achievement in maltreated children compared to
+children who have not been exposed to maltreatment [180-185]. The link between early
+trauma and IQ has been demonstrated through a twin study, where after controlling for the
+effect of shared heritability, domestic violence was associated with lower IQ (e.g., mean of 8
+points) in exposed versus non-exposed children [186]. Exposure to trauma in childhood has
+also been associated with executive deficits [187-189].De Bellis and A.B. Page 15
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+Fewer studies have examined the effect of child maltreatment on a broader, more
+comprehensive range of neuropsychological functioning. A study comparing previously
+institutionalized children exposed to long periods of neglect with those exposed to brief
+periods of institutionalization as well as children raised in their biological families found
+that the children who experienced prolonged neglect performed more poorly in the domains
+of visual attention, memory, learning and inhibitory control, but that these previously
+institutionalized children did not demonstrate deficits when the tasks involved auditory or
+executive processing [190]. These results therefore highlight that specific domains of
+cognitive functioning may be more sensitive to early neglect than others. Lower
+performance in IQ, complex visual attention, visual memory, language, verbal memory and
+learning, planning, problem solving, speeded naming and reading and mathematics
+achievement were seen in neglected children with and without PTSD compared to
+socioeconomically similar controls [191]. Furthermore, PTSD symptom number, and the
+failure to supervise, witnessing violence, and emotional abuse variables were each
+associated with lower scores in IQ, academic achievement, and neurocognitive domains
+[191]. However, neglected children with PTSD due to witnessing interpersonal violence had
+lower performance levels on the NEPSY Memory for Faces-Delayed than both neglected
+children who witnessed domestic violence and did not have PTSD and children not exposed
+to maltreatment or violence indicting that PTSD was associated with impaired consultation
+of memory [191]. Childhood PTSD subsequent to witnessing interpersonal violence has also
+been associated with lower levels of performance on the California Verbal Learning Test-
+Children's Version when compared to those without PTSD, while both PTSD and non-PTSD
+groups of youth exposed to domestic violence demonstrated deficits in executive
+functioning, attention, and IQ standardized scores[192].
+In a study comparing the performance of abused youth with PTSD, abused youth without
+PTSD, and non-maltreated youth on comprehensive neuropsychological testing, both groups
+of maltreated youth performed worse than the control youth, with deficits in IQ, academic
+achievement, and all neurocognitive domains expect for fine-motor functioning[193]. The
+maltreated youth with PTSD showed greater deficits in visuospatial abilities than the
+maltreated youth without PTSD, and sexual abuse was found to be negatively associated
+with language and memory scores. A negative relationship was found between the number
+of maltreatment types experienced and academic achievement, demonstrating that
+cumulative trauma leads to neuropsychological problems that are unrelated to PTSD
+symptoms[193]. Data from the National Survey of Child and Adolescent Well-Being
+(NSCAW) study demonstrated that maltreated children who experienced maltreatment
+during multiple developmental periods had more externalizing and internalizing problems
+and lower IQ scores than children maltreated in only one developmental period suggesting
+that trauma duration has negative and cumulative cognitive effects [194].
+Longitudinal prospective studies involving adolescents and adults exposed to maltreatment
+in childhood agree with the cross-sectional studies and have demonstrated lower IQ scores
+and deficits in reading ability [195-200]. The research on the effects of early trauma on
+cognitive function indicates that early trauma is associated with adverse cognitive
+development and that this is likely reflected in adverse brain development.
+The Effect of Childhood Trauma on Brain Development
+An early, unexpected, trauma, maternal deprivation, increases the death of both neurons and
+glia cells in cerebral and cerebellar cortexes in infant rats [133]. Increased exposure to
+cumulative life stress (e.g., exposure to severe marital conflict, severe chronic illness of a
+close family member or friend) was associated with poorer spatial working memory
+performance and decreased volumes of white and gray matter in the prefrontal cortex of
+non-maltreated youth [201]. Pediatric imaging studies demonstrated that both cerebral andDe Bellis and A.B. Page 16
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+cerebellar volumes are smaller in abused and neglected youth compared to non-maltreated
+youth [202-206]. In one research study, maltreated subjects with PTSD had 7.0 % smaller
+intracranial and 8.0% smaller cerebral volumes than non-maltreated children [119]. The total
+midsagital area of corpus callosum, the major interconnection between the two hemispheres
+that facilitates intercortical communication, was smaller in maltreated children [119].
+Smaller cerebral volumes were significantly associated with earlier onset of PTSD trauma
+and negatively associated with duration of abuse [119]. PTSD symptoms of intrusive
+thoughts, avoidance, hyperarousal and dissociation correlated negatively with intracranial
+volume and total corpus callosum measures [119]. another study showed smaller brain and
+cerebral volumes and attenuation of frontal lobe asymmetry in children with maltreatment-
+related PTSD or subthreshold PTSD compared with archival non-maltreated controls [203].
+However, these two previously described studies did not control for low socioeconomic
+status, which influences brain maturation through ecological variables [119, 207]. In another
+study which controlled for socioeconomic status, children with maltreatment-related PTSD
+had smaller intracranial, cerebral and prefrontal cortex, prefrontal cortical white matter, and
+right temporal lobe volumes and areas of the corpus callosum and its subregions and larger
+frontal lobe CSF volumes than controls [205]. The total midsagittal area of corpus callosum
+and middle and posterior regions remained smaller; while right, left, and total lateral
+ventricles and frontal lobe CSF were proportionally larger than controls, after adjustment for
+cerebral volume [205]. Brain volumes also positively correlated with age of onset of PTSD
+trauma and negatively correlated with duration of abuse [205]. The larger lateral ventricles
+were only seen in maltreated males, suggesting that males are more vulnerable to the
+neurotoxic effects of childhood maltreatment. Smaller cerebellar volumes were seen in male
+and female maltreated children with PTSD [204]. Younger age of onset and longer trauma
+duration were significantly correlated with smaller cerebellum volumes [204]. Smaller
+cerebellum volumes were also seen in previously institutionized youth [202]. The
+cerebellum is a complex posterior brain structure that is involved in cognitive functions
+[208], decision making, reward circuits [209, 210] and the default mode network that is
+associated with understanding social intentions [211]. Child maltreatment is also associated
+with adverse effects in individual brain structures that are involved in reward and default
+network processing. In a large study of 61 medically healthy youth (31 males and 30
+females) with chronic PTSD secondary to abuse, who had similar trauma and mental health
+histories, and 122 healthy non-maltreated controls (62 males and 60 females), the midsagital
+area of the corpus callosum subregion 7 (splenium) was smaller in both boys and girls with
+maltreatment-related PTSD compared to their gender-matched comparison subjects [212].
+Youth with PTSD did not show the normal age-related increases in the area of the total
+corpus callosum and its region 7 (splenium) compared to non-maltreated children [212].
+This was an important finding for several reasons. The maltreated and control children were
+not prenatally exposed to substances and had no pregnancy or birth trauma, were
+psychotropically naïve, and had no history of substance abuse or dependence, thus excluding
+confounds which are commonly seen in maltreated children [213, 214] and not addressed in
+exclusion criteria in most neurobiological studies published to date. The axons in the
+splenium of the corpus callosum myelinate during adolescence and are important to the
+posterior reward circuits and the posterior default networks [215]. Additionally, clinical
+symptoms of PTSD intrusive, avoidant, and hyperarousal symptoms, symptoms of
+childhood dissociation, and child behavioral checklist internalizing T score significantly and
+negatively correlated with corpus callosum measures [212]. Children with maltreatment-
+related PTSD had reduced fractional anisotropy values on diffusion tensor imaging brain
+scans of white matter, indicating less myelin integrity in the medial and posterior corpus, a
+region which contains interhemispheric projections from brain structures involved in circuits
+that mediate emotional and memory processing, core disturbances associated with trauma
+history [216]. Smaller corpus callosum area measures were seen in another anatomicalDe Bellis and A.B. Page 17
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+magnetic resonance imaging brain study of neglected children with psychiatric disorders
+compared to nonmaltreated children with psychiatric disorders, suggesting that smaller
+corpus callosum measures may be a consequence of maltreatment [217].
+Furthermore, areas of executive function show evidence of adverse brain development in
+children with maltreatment-related PTSD. Decreased N-acetylaspartate (NAA)
+concentrations are associated with increased metabolism and loss of neurons [218]. For
+example, brain NAA levels decrease when someone has neuronal loss such as a stroke. A
+preliminary investigation suggested that maltreated children and adolescents with PTSD
+demonstrated lower NAA/creatine ratios in the medial prefrontal cortex compared to
+sociodemographically matched controls [219]. These findings suggest neuronal loss in the
+medial prefrontal cortex, an executive brain region, in pediatric maltreatment-related PTSD.
+Another group found that decreased left ventral and left inferior prefrontal gray matter
+volumes in maltreated children with PTSD symptoms negatively correlated with bedtime
+salivary cortisol levels, further suggesting that early trauma damages executive regions
+[220]. One functional imaging study of maltreated children and adolescents with PTSD
+symptoms showed significant decreases in inhibitory processes compared to nonmaltreated
+controls [221], and another showed impaired cognitive control in adopted children with
+histories of maltreatment who were formerly raised in foster care [222]. These investigations
+strongly suggest that childhood maltreatment interferes with executive or control circuits,
+whose dysregulation is an important contributor to adolescent and adult mental health and
+substance use disorders. Thus, childhood trauma can have detrimental effects on the brain
+networks that establish an individual's ability to think, and regulate their sense of self,
+motivations, and behaviors.
+Another important contributor to memory and the default mode network is the hippocampus.
+Unlike findings in adult PTSD, where several studies reported hippocampal atrophy [223],
+maltreated children and adolescents with PTSD or subthreshold PTSD showed no
+anatomical differences in limbic (hippocampal or amygdala) structures cross-sectionally
+[119, 203, 205] or longitudinally [224]. However, investigators have demonstrated
+functional brain differences in the amygdala and hippocampus of maltreated youth
+compared to non-maltreated children [222, 225]. One study suggests that hippocampal
+atrophy may be a latent developmental effect of childhood maltreatment [226].
+Child maltreatment is also associated with adverse development of brain reward regions
+involved in recognizing emotions and social cognition such as the superior temporal gyrus
+[206] and the orbital frontal cortex [227]. In carefully screened young adult subjects, those
+with a history of verbal abuse and no other forms of maltreatment had reduced fractional
+anisotropy on diffusion tensor imaging brain scans of white matter in the arcuate fasciculus
+in left superior temporal gyrus, the cingulum bundle by the posterior tail of the left
+hippocampus, and the left body of the fornix, indicating decreased integrity in these
+language neural pathways[228]. Furthermore, fractional anisotropy values negatively
+correlated with verbal abuse experiences [228]. In healthy adult women, a history of sexual
+abuse was specifically associated with hippocampal, corpus callosum, or frontal cortex
+reductions if it occurred during specific developmental age periods, indicating vulnerable
+windows for the brain effects of child trauma [217].
+Functional neuroimaging studies of adults with PTSD related to childhood maltreatment
+have shown decreased levels of executive and attentional function as reflected by decreased
+activation in the dorsal control networks with corresponding increased activation of the
+amygdala and hippocampus and other structures of the affective emotional networks during
+emotional challenge tasks; suggesting dorsal control network deficits in adult PTSD
+secondary to childhood trauma [229-231]. Research using functional neuroimaging ofDe Bellis and A.B. Page 18
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+children and adolescents exposed to maltreatment has shown similar executive, attentional,
+and affective emotional dysregulation [221, 222, 232-234]. Further, previously
+institutionalized children demonstrated decreased prefrontal white matter microstructural
+organization on measures of diffusion tensor imaging that was associated with
+neurocognitive deficits in spatial planning and a visual learning and memory task compared
+to non-neglected controls [235].
+In another study of healthy adult women with a history of childhood sexual abuse,
+investigators found higher T2 relaxation time (an indirect index of resting blood volume) in
+the cerebellar vermis than in non-maltreated women, which correlated strongly with Limbic
+System Checklist ratings of temporal lobe epilepsy and their frequency of substance use
+[236]. In studies of carefully characterized healthy adults who only experienced corporal
+punishment without other forms of maltreatment, T2 relaxation times were increased in
+dopamine-rich brain decision making and reward regions (caudate and putamen, dorsolateral
+prefrontal cortex, substantia nigra, thalamus and accumbens)[237]. In the latter study,
+regional T2 relaxation times were significantly associated with increased use of drugs and
+alcohol. These studies provide further evidence that specific types of abuse and neglect
+contribute to the intergenerational cycle of emotional and behavioral problems as well as
+addiction by their detrimental impact on the brain.
+Genetic factors interact with childhood trauma to influence brain structure and function. For
+example, adults with the Val66MET polymorphism of brain-derived neurotrophic factor
+(BDNF) who had a history of child maltreatment had a greater likelihood of depressive
+disorders and a smaller hippocampus, highlighting a child trauma x polymorphism
+interaction for hippocampal volume reductions [238]. Epigenetic factors also play a role in
+brain function. In a genome-wide study of promoter methylation in individuals with severe
+abuse during childhood trauma, decreased promoter transcriptional activity associated with
+decreased hippocampal expression of the Alsin variants were seen [239]. Adults who were
+maltreated as children and committed suicide showed similar hypermethylation in the nerve
+growth factor-induced protein A binding site within a glucocorticoid receptor variant that
+was associated with decreased glucocorticoid receptor expression in the hippocampus [101].
+Mice without the expression of the Alsin gene exhibited more anxiety compared to wild type
+mice [240].
+Furthermore, there are gender x maltreatment effects on brain development. Gender
+differences were demonstrated using anatomical MRI. Maltreated boys with PTSD had
+smaller cerebral volumes and larger lateral ventricular volumes than maltreated girls with
+PTSD, even though the two groups had similar trauma, mental health histories, and IQ
+[212]. In addition, research has shown a relationship between the type of trauma and gender,
+as neglect has been shown to have a strong association with smaller corpus callosum size in
+boys, while sexual abuse was strongly linked to decreased corpus callosum size in girls
+[217]. In a functional MRI study comparing maltreated youth with PTSD symptoms to non-
+maltreated youth during performance on an emotional oddball task, left precuneus/posterior
+middle cingulate hypoactivation to fear versus calm or scrambled face targets were seen in
+maltreated versus control males and may represent dysfunction and less resilience in
+attentional networks in maltreated males[241]. These findings were not seen in maltreated
+females with PTSD symptoms and gender by maltreatment effects were not attributable to
+demographic, clinical, or maltreatment parameters, suggesting that maltreated males may be
+dedicating significant functional neural resources to processing affective stimuli in lieu of
+cognitive processes, which may lead to impulsive decision-making during states of fear
+emotion and thus less resilience in maltreated males [241].De Bellis and A.B. Page 19
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+Thus, the data to date strongly suggests that childhood trauma is associated with adverse
+brain development in multiple brain regions that negatively impact emotional and behavioral
+regulation, motivation, and cognitive function. Molecular aging may contribute to these
+mechanisms and lead to a premature aging but less than optimal brain maturation process in
+traumatized children as they become adults.
+v. Clinical practice application
+Understanding the biological effects of maltreatment provide important information that can
+be used in practice. The first approach is to ensure a safe environment for the child and
+adolescent patient. It is unlikely that any treatment or buffering of the biological stress
+systems will occur if a child continues to live in an extremely adverse environment. As
+outlined in this volume , evidence based interventions show promise in treating traumatized
+children. Similar interventions have not only shown promise in treating traumatized adults
+but have showed that the treatment “heals” some of the dysregulations we reviewed in
+neurobiological stress systems. Many of victims of trauma have sleep problems [242, 243].
+In a longitudinal investigation of sexually abused girls, self-reported sleep disturbances were
+seen approximately 10 years post abuse disclosure, compared to control girls, and were
+related to current depression, PTSD and revictimization [244]. It was recently demonstrated
+that sleep has a restorative function; as during sleep potentially neurotoxic waste products
+(e.g., beta-amyloid) are cleared from the brain [245]. Furthermore, inhibition of
+catecholamines enhance this waste removal [245]. Therefore, a first step in helping patients
+with trauma symptoms is to address any sleep hygiene issues they may have, with
+behavioral methods and/or medications if needed.
+A review of recent functional MRI studies demonstrated that cognitive-behavioral therapy
+can alleviate dysregulation of the fear response and negative emotions associated with
+anxiety disorders and predict treatment outcomes [246]. Furthermore, greater left amygdala
+activity on fMRI in pediatric patients with non-trauma related anxiety was associated with
+greater improvement in anxiety symptoms post treatment [247]. Evidenced-based trauma
+therapies likely work by changing brain responses. However, studies of brain function and
+trauma in pediatric patients are in their infancy. Psychopharmacological treatments that
+target biological stress systems are beyond the scope of this article [248, 249]. Cognitive-
+behavioral therapy is the treatment of choice with the most evidenced-based studies
+suggesting its effects in children. Most child psychiatrists start with sleep hygiene, then a
+selective serotonin reuptake inhibitor for symptoms of anxiety and depression or an
+adrenergic agent such as clonidine, propranolol, and guanfacine to down-regulate biological
+stress systems, if trauma-focus cognitive behavioral therapy and improved sleep have less
+than optimal results. Other medications are used to treat co-morbid disorders such as
+attention deficit hyperactivity disorder. Because some childhood traumas (child
+maltreatment) are associated with family histories of mood and anxiety disorders, clinicians
+should be careful with anti-psychotic drugs as they may be more likely to cause tardive
+dyskinesia in these child victims [248]. Although medications are useful for treating certain
+symptoms, double blind studies are needed. It is likely that with further imaging and genetic
+studies, specific treatments and medication regimens may be tailored for specific PTSD
+symptoms and individuals in the future. However, the biological effects of PTSD and its
+treatment continue to be understudied.
+vi. Important tools for practice
+Understanding the biological effects of maltreatment provides important tools one can useful
+in practice. Besides self-report instruments to study changes in moods, emotions, and
+behaviors during psychotherapeutic and/or pharmacological treatments, sleep can be
+objectively measured using bio-markers such as actographs, which are non-invasive digitalDe Bellis and A.B. Page 20
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+monitoring devices that can be worn on the wrist and measure daily activity, sleep
+awakenings, and sleep efficiency. Other bio-markers that can be used to monitor and tailor
+treatment and help prevent the negative biological effects of trauma are monitoring
+measures of heart rate, body mass index, and post-trauma and follow-up salivary cortisol
+and amylase concentrations as these measures predict PTSD [250], and decreasing these
+levels during treatment may predict remission.
+vii. Future directions
+The largest contributor to childhood trauma in the USA is family dysfunction; as almost half
+of child onset mental disorders and about a third of adult onset mental disorders are
+preceded by child abuse and neglect, and family dysfunction [251]. While the mental
+disorders found in maltreating parents and child victims are serious, they are amenable to
+prevention and treatment.
+Given how detrimental childhood trauma is to an individual's development, more efforts and
+social resources are needed for prevention. Studies show that child maltreatment is
+amendable to primary prevention. Child maltreatment prevention programs, such as home
+visiting [252] during an expectant mother's first pregnancy, aimed at addressing mental
+health and parenting concerns of high-risk new mothers, show great promise in preventing
+child abuse and neglect. For example, home visiting of an expectant mother by nurses for
+low-income, at-risk families has been a well replicated strategy for preventing child abuse
+and neglect[253, 254]. Several studies of this Nurse-Family Partnership Program have
+demonstrated: improved grade-point averages and achievement test scores in math and
+reading in grades 1 through 3 in children during their age 9 follow-up assessment [255];
+decreased internalizing symptoms and decreased rates of tobacco, alcohol, and marijuana
+use along with improved reading and math scores at age 12 follow-up assessment [256]; and
+decreased antisocial behaviors at age 19 follow-up assessment [257]. However, a when a
+parent becomes maltreating, even an intensive program of home visitation by nurses in
+addition to standard treatment is not enough to prevent recidivism of physical abuse and
+neglect [258]. Maltreated children in foster care showed less self-destructive behavior,
+substance use, and total risk behavior problem standardized scores and higher grades than
+maltreated children who were reunified with their biological families when interviewed
+during their 6th year follow-up[259]. These studies indicate that there are two opportunities
+to break the cycle of maltreatment. The first opportunity is during the expectant parent's first
+pregnancy, to aid in fostering a loving and caring environment for the parent/child dyad, and
+to avoid the neurobiological consequences of childhood maltreatment. These types of early
+prevention programs are cost effective [260]. However, if this cannot be done, the second
+opportunity is to treat victims of maltreatment after the fact.
+There are important evidence-based interventions (e.g., trauma-focused cognitive behavior
+therapy) for the treatment of PTSD and depression [261] and for antisocial behaviors in
+youth with early trauma (e.g., multisystemic therapy [262]). Many of these interventions are
+in other articles within this issue. However, we do not know the long term effectiveness of
+these programs. We do not have enough professionals trained in evidence-based practices to
+treat all child victims, and some youth and their families are simply non-complaint with
+these treatments. Therefore, we still need to understand the neurobiological consequences of
+chronic stress on a child's developing brain and body so that we can treat the adverse
+medical and mental health outcomes of early life stress [263]. A society that places its focus
+on an infrastructure of primary prevention would be choosing the less costly option for
+victims and for itself.De Bellis and A.B. Page 21
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+viii. Conclusions
+We outlined how childhood trauma has detrimental consequences on the biological stress
+systems, and cognitive and brain development. Trauma in childhood is costly for its victims
+and for society. Resilience is not a common outcome of childhood trauma. In a longitudinal
+study of individuals who had experienced abuse and neglect during childhood, only 22% of
+those who had been abused or neglected achieved resiliency based on a comprehensive
+assessment of healthy adult functioning, by the time they reached young adulthood [264].
+Females who grew up in poverty and were not maltreated were more likely to show
+resilience [264]. While we have some important evidenced-based treatments for child
+victims, it is in our interest to put in place a national infrastructure of primary child trauma
+prevention as the less costly option for future victims and for society. Understanding the
+neurobiological consequences of child trauma will assist in treating child and adult victims,
+who tend to be more treatment refractory and may have a different endophenotype, than
+individuals with medical (including mental health) disorders who do not have such histories.
+Nevertheless, more work is needed to understand the neurobiological consequences of
+chronic stress on a child's developing brain and body so that we can treat the adverse
+medical and mental health outcomes of early life stress in those cases (e.g., warfare, natural
+disasters, child maltreatment) where prevention and effective early intervention may not
+occur. Such understanding of the neurobiology and genetic influences of child trauma on
+child development will lead to novel and effective approaches to treatments (e.g.,
+personalized medicine).
+Glossary
+PTSD posttraumatic stress disorder
+PTSS posttraumatic stress symptoms
+GABA gamma-amino butyric acid
+LHPA limbic-hypothalamic-pituitary-adrenal
+SNS Sympathetic nervous system
+HPA hypothalamic pituitary axis
+LHPA Limbic-Hypothalamic-Pituitary-Adrenal
+CRH corticotrophin releasing hormone
+CRF corticotrophin releasing factor
+ACTH adrenocorticotrophic hormone
+CNS Central nervous system
+mPFC medial prefrontal cortex
+CSF cerebrospinal fluid
+SNPs Single nucleotide polymorphisms
+AVP arginine vasopressin
+BDNF brain-derived neurotropic factor
+PFC Prefrontal cortex
+LC locus coeruleus
+NET norepinephrine transporterDe Bellis and A.B. Page 22
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+BDNF brain-derived neurotropic factor
+NSCAW National Survey of Child and Adolescent Well-Being
+References
+1. American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders: Fourth
+Edition Text Revision. American Psychiatric Press; Washington D.C: 2000.
+2. American Psychiatric Association. Trauma- and Stressor-Related Disorders, in Diagnostic and
+Statistical Manual of Mental Disorders. Fifth Edition. American Psychiatric Publishing; Arlington,
+VA: 2013.
+3. Widom CS. Posttraumatic stress disorder in abused and neglected children grown up. American
+Journal of Psychiatry. 1999; 156:1223–1229. [PubMed: 10450264]
+4. Ford JD, Stockton P, Kaltman S, Green BL. Disorders of Extreme Stress (DESNOS) Symptoms Are
+Associated With Type and Severity of Interpersonal Trauma Exposure in a Sample of Healthy
+Young Women. Journal of Interpersonal Violence. 2006; 21(11):1399–1416. [PubMed: 17057159]
+5. Carrion VG, Weems CF, Ray RD, Reiss AL. Toward an empirical definition of pediatric PTSD: the
+phenomenology of PTSD symptoms in youth. Journal of the American Academy of Child and
+Adolescent Psychiatry. 2001; 41:166–173. [PubMed: 11837406]
+6. Widom CS, DuMont K, Czaja SJ. A prospective investigation of major depressive disorder and
+comorbidity in abused and neglected children grown up. Archives of General Psychiatry. 2007;
+64:49–56. [PubMed: 17199054]
+7. Copeland W, Keeler G, Angold A, Costello E. Traumatic Events and Posttraumatic Stress in
+Childhood. Archives of General Psychiatry. 2007; 64:577–584. [PubMed: 17485609]
+8. Luntz BK, Widom CS. Antisocial Personality Disorder in Abused and Neglected Children Grown
+Up. American Journal of Psychiatry. 1994; 151:670–674. [PubMed: 8166307]
+9. Clark DB, Lesnick L, Hegedus A. Trauma and other stressors in adolescent alcohol dependence and
+abuse. Journal of the American Academy of Child and Adolescent Psychiatry. 1997:1744–1751.
+[PubMed: 9401336]
+10. De Bellis MD. Developmental Traumatology: A contributory mechanism for alcohol and substance
+use disorders Special Review in Psychoneuroendocrinology. 2001; 27:155–170.
+11. Dube SR, Miller JW, Brown DW, Giles WH, Felitti VJ, Dong M, Anda RF. Adverse childhood
+experiences and the association with ever using alcohol and initiating alcohol use during
+adolescence. Journal of Adolescent Health. 2006; 38(4):444e1–10. [PubMed: 16549308]
+12. Dube SR, Felitti VJ, Dong M, Chapman DP, Giles WH, Anda RF. Childhood abuse, neglect,
+household dysfunction and the risk of illicit drug use: The adverse childhood experiences Study.
+Pediatrics. 2003; 111(3):564–572. [PubMed: 12612237]
+13. De Bellis MD. Developmental traumatology: the psychobiological development of maltreated
+children and its implications for research, treatment, and policy. Development and
+Psychopathology. 2001; 13(3):539–564. [PubMed: 11523847]
+14. Kirsch I, Lynn SJ, Vigorito M. The Role of Cognition in Classical and Operant Conditioning.
+Journal of Clinical Psychology. 2004; 60(4):369–392. [PubMed: 15022268]
+15. Maier SF, Watkins LR. Stressor controllability and learned helplessness: The roles of the dorsal
+raphe nucleus, serotonin, and corticotropin-releasing factor. Neuroscience and Biobehavioral
+Reviews. 2005; 29:829–841. [PubMed: 15893820]
+16. Dell'Osso B, Nestadt G, Allen A, Hollander E. Serotonin-Norepinephrine Reuptake Inhibitors in
+the Treatment of Obsessive-Compulsive Disorder: A Critical Review. Journal of Clinical
+Psychiatry. 2006; 67:600–610. [PubMed: 16669725]
+17. Pagel, JF. The neuropharmacology of nightmares, in Sleep and Sleep Disorders: A
+Neuropsychopharmacological Approach. Lader, M.; Cardinali, DP.; Pandi-Perumal, SR., editors.
+Springer Science; New York NY: 2006. p. 243-250.
+18. Argyropoulos SV, Nutt DJ. Anhedonia revisited: Is there a role for dopamine-targeting drugs for
+depression? Journal of Psychopharmacology. 2013; 27:869–877. [PubMed: 23904408]De Bellis and A.B. Page 23
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+19. Chrousos GP, Gold PW. The concepts of stress and stress system disorders: overview of physical
+and behavioral homeostasis. Journal of the American Medical Association. 1992; 267(9):1244–
+1252. [PubMed: 1538563]
+20. Heim C, Newport DJ, Mletzko T, Miller AH, Nemeroff CB. The link between childhood trauma
+and depression: insights from HPA axis studies in humans. Psychoneuroendocrinology. 2008;
+33(6):693–710. [PubMed: 18602762]
+21. McEwen BS. The neurobiology of stress: from serendipity to clinical relevance. Brain Research.
+2000:172–189. [PubMed: 11119695]
+22. Tsigos C, Chrousos GP. Hypothalamic-pituitary-adrenal axis, neuroendocrine factors and stress.
+Journal of Psychosomatic Research. 2002; 53(4):865–871. [PubMed: 12377295]
+23. LeDoux J. Fear and the brain: where have we been, and where are we going? . Biol Psychiatry.
+1998; 44:1229–1238. [PubMed: 9861466]
+24. Charney DS, Deutch AY, Krystal JH, Southwick SM, Davis M. Psychobiologic Mechanisms Of
+Posttraumatic-Stress-Disorder. Archives Of General Psychiatry. 1993; 50(4):294–306.
+25. Cannon WB. The wisdom of the body. Physiol Rev. 1929; 9:399–431.
+26. McEwen BS. Physiology and neurobiology of stress and adaptation: Central role of the brain.
+Physiological Review. 2007; 87:873–904.
+27. Lupien SJ, McEwen BS, Gunnar MR, Heim C. Effects of stress throughout the lifespan on the
+brain, behaviour and cognition. Nature Reviews Neuroscience. 2009; 10:434–445.
+28. De Souza EB. Corticotropin-releasing factor receptors: physiology, pharmacology, biochemistry
+and role in central nervous system and immune disorders. Psychoneuroendocrinology. 1995;
+20:789–819. [PubMed: 8834089]
+29. Herman JP, Ostrander MM, Mueller NK, Figueiredo H. Limbic system mechanisms of stress
+regulation: hypothalamo-pituitary-adrenocortical axis. Progress in Neuropsychopharmacology &
+Biological Psychiatry. 2005; 29(8):1201–1213.
+30. Rosmalen JG, Oldehinkel AJ, Ormel J, de Winter AF, Buitelaar JK, Verhulst FC. Determinants of
+salivary cortisol levels in 10–12 year old children: A population-based study of individual
+differences. Psychoneuroendocrinology. 2005; 30:483–495. [PubMed: 15721059]
+31. Susman EJ, Dockray S, Schiefelbein VL, Herwehe S, Heaton JA, Dorn LD. Morningness/
+Eveningness, Morning-to-Afternoon Cortisol Ratio, and Antisocial Behavior Problems During
+Puberty. Developmental Psychology. 2007; 43(4):811–822. [PubMed: 17605516]
+32. Schmidt-Reinwald A, Pruessner JC, Hellhammer DH, Federenko I, Rohleder N, Schuermeyer TH,
+Hirschbaum C. The cortisol response to awakening in relation to different challenge tests and a 12-
+hour cortisol rhythm. Life Sciences. 1999; 64:1653–1660. [PubMed: 10328525]
+33. Hayakawa K, Konishi Y, Matsuda T, Kuriyama M, Konishi K, Yamashita K, Okumura R,
+Hamanaka D. Development and aging of brain midline structures: Assessment with MR imaging.
+Radiology. 1989; 172:171–177. [PubMed: 2740500]
+34. Plotsky PM, Meaney MJ. Early, postnatal experience alters hypothalamic corticotropin-releasing
+factor (CRF) mRNA, median eminence CRF content and stress- induced release in adult rats.
+Brain Res Mol Brain Res. 1993; 18:195–200. [PubMed: 8497182]
+35. Meaney MJ. Maternal care, gene expression, and the transmission of individual differences in
+stress reactivity across generations. Annu Rev Neurosci. 2001; 24:1161–1192. [PubMed:
+11520931]
+36. Sanchez MM, Ladd CO, Plotsky PM. Early adverse experience as a developmental risk factor for
+later psychopathology: evidence from rodent and primate models. Dev Psychopathol. 2001; 13(3):
+419–449. [PubMed: 11523842]
+37. Brunson KL, Kramar E, Lin B, Chen Y, Colgin LL, Yanagihara TK, Lynch G, Baram TZ.
+Mechanisms of late-onset cognitive decline after early-life stress. Journal of Neuroscience. 2005;
+25:9328–9338. [PubMed: 16221841]
+38. Brunson KL, Eghbal-Ahmadi M, Bender R, Chen Y, Baram TZ. Long-term, progressive
+hippocampal cell loss and dysfunction induced by early-life administration of corticotropin-
+releasing hormone reproduce the effects of early-life stress. Proceedings of the National Academy
+of Science USA. 2001; 98:8856–8861.De Bellis and A.B. Page 24
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+39. De Bellis MD, Chrousos GP, Dorn LD, Burke L, Helmers K, Kling MA, Trickett PK, Putnam FW.
+Hypothalamic-pituitary-adrenal axis dysregulation in sexually abused girls. Journal of Clinical
+Endocrinology and Metabolism. 1994; 78:249–255. [PubMed: 8106608]
+40. Cicchetti D, Rogosch FA, Gunnar MR, Toth SL. The Differential Impacts of Early Physical and
+Sexual Abuse and Internalizing Problems on Daytime Cortisol Rhythm in School-Aged Children.
+Child Development. 2010; 81(1):252–269. [PubMed: 20331666]
+41. Carrion VG, Weems CF, Ray RD, Glaser B, Hessl D, Reiss AL. Diurnal salivary cortisol in
+pediatric posttraumatic stress disorder. Biological Psychiatry. 2002; 51:575–582. [PubMed:
+11950459]
+42. De Bellis MD, Baum A, Birmaher B, Keshavan M, Eccard CH, Boring AM, Jenkins FJ, Ryan ND.
+A.E. Bennett Research Award. Developmental Traumatology: Part I: Biological Stress Systems.
+Biological Psychiatry. 1999; 45:1259–1270. [PubMed: 10349032]
+43. Gunnar MR, Morison SJ, Chisholm K, Schuder M. Salivary cortisol levels in children adopted
+from Romanian orphanages. Development & Psychopathology. 2001; 13:611–628. [PubMed:
+11523851]
+44. Cicchetti D, Rogosch FA. Diverse patterns of neuroendocrine activity in maltreated children.
+Development and Psychopathology. 2001; 13:677–693. [PubMed: 11523854]
+45. Delahanty DL, Nugent NR, Christopher NC, Walsh M. Initial urinary epinephrine and cortisol
+levels predict acute PTSD symptoms in child trauma victims. Psychoneuroendocrinology. 2005;
+30:121–128. [PubMed: 15471610]
+46. Pfeffer CR, Altemus M, Heo M, Jiang H. Salivary cortisol and psychopathology in children
+bereaved by the September 11, 2001, terror attacks. Biological Psychiatry. 2007; 61:957–965.
+[PubMed: 17137565]
+47. Miller GE, Chen E, Zhou ES. If it goes up, must it come down? Chronic stress and the
+hypothalamic–pituitary–adrenocortical axis in humans. Psychological Bulletin. 2007; 133:25–45.
+[PubMed: 17201569]
+48. Goenjian AK, Yehuda R, Pynoos RS, Steinberg AM, Tashjian M, Yang RK, Najarian LM,
+Fairbanks LA. Basal cortisol, dexamethasone suppression of cortisol, and MHPG in adolescents
+after the 1988 earthquake in Armenia. American Journal of Psychiatry. 1996; 153:929–934.
+[PubMed: 8659616]
+49. King JA, Mandansky D, King S, Fletcher KE, Brewer J. Early sexual abuse and low cortisol.
+Psychiatry and Clinical Neurosciences. 2001; 55:71–74. [PubMed: 11235861]
+50. Kaufman J, Birmaher B, Perel J, Dahl RE, Moreci P, Nelson B, Wells W, Ryan N. The
+corticotropin-releasing hormone challenge in depressed abused, depressed nonabused, and normal
+control children. Biological Psychiatry. 1997; 42:669–679. [PubMed: 9325560]
+51. Murali R, Chen E. Exposure to Violence and Cardiovascular and Neuroendocrine Measures in
+Adolescents. Ann Behav Med. 2005; 30(2):155–163. [PubMed: 16173912]
+52. MacMillan HL, Georgiades K, Duku EK, Shea A, Steiner M, Niec A, Tanaka M, Gensey S, Spree
+S, Vella E, et al. Cortisol Response to Stress in Female Adolescents Exposed to Childhood
+Maltreatment: Results of the Youth Mood Project. Biological Psychiatry. 2009; 66(1):62–68.
+[PubMed: 19217075]
+53. Heim C, Mletzko T, Purselle D, Musselman DL, Nemeroff CB. The Dexamethasone/
+Corticotropin-Releasing Factor Test in Men with Major Depression: Role of Childhood Trauma.
+Biol Psychiatry. 2008; 63:398–405. [PubMed: 17825799]
+54. Heim C, Newport DJ, Heit S, Graham YP, Wilcox M, Bonsall R, Miller AH, Nemeroff CB.
+Pituitary-adrenal and autonomic responses to stress in women after sexual and physical abuse in
+childhood. Journal of the American Medical Association. 2000; 284:592–597. [PubMed:
+10918705]
+55. Santa Ana EJ, Saladin ME, Back SE, Waldrop AE, Spratt EG, McRae AL, LaRowe SD,
+Timmerman MA, Upadhyaya H, Brady KT. PTSD and the HPA axis: differences in response to
+the cold pressor task among individuals with child vs. adult trauma. Psychoneuroendocrinology.
+2006; 31(4):501–509. [PubMed: 16413134]De Bellis and A.B. Page 25
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+56. Heim C, Newport DJ, Bonsall R, Miller AH, Nemeroff CB. Altered pituitary-adrenal axis
+responses to provocative challenge tests in adult survivors of childhood abuse. American Journal
+of Psychiatry. 2001; 158:575–581. [PubMed: 11282691]
+57. Klaassens ER, Giltay EJ, Cuijpers P, van Veen T, Zitman FG. Adulthood trauma and HPA-axis
+functioning in healthy subjects and PTSD patients: a meta-analysis. Psychoneuroendocrinology.
+2012; 37(3):317–331. [PubMed: 21802212]
+58. Simon GE, Perlis RH. Personalized Medicine for Depression: Can We Match Patients With
+Treatments? American Journal of Psychiatry. 2010; 167:1445–145. [PubMed: 20843873]
+59. Thomas LA, De Bellis MD. Pituitary volumes in pediatric maltreatment related PTSD. Biological
+Psychiatry. 2004; 55:752–758. [PubMed: 15039005]
+60. Ehlers CL, Henriksen SJ, Wang M, Rivier J, Vale W, Bloom FE. Corticotropin releasing factor
+produces increases in brain excitability and convulsive seizures in rats. Brain Research. 1983;
+278:332–336. [PubMed: 6605787]
+61. Weiss SB, Post RM, Gold PW, Chrousos GP, Sullivan TL, Walker D, Pert A. CRF-Induced
+Seizures and Behavior: Interaction With Arnygdala Kindling. Brain Research. 1986; 372:345–351.
+[PubMed: 3486694]
+62. Korbey SM, Heinrichs SC, Leussis MP. Seizure susceptibility and locus ceruleus activation are
+reduced following environmental enrichment in an animal model of epilepsy. Epilepsy &
+Behavior. 2008; 12:30–38. [PubMed: 17983840]
+63. Coplan JD, Andrews MW, Rosenblum LA, Owens MJ, Friedman S, Gorman JM, Nemeroff CB.
+Persistent elevations of cerebrospinal fluid concentrations of corticotropin-releasing factor in adult
+nonhuman primates exposed to early-life stressors: Implications for the pathophysiology of mood
+and anxiety disorders. Proceedings of the National Academy of Science USA. 1996; 93:1619–
+1623.
+64. Coplan JD, Smith ELP, Altemus M, Scharf BA, Owens MJ, Nemeroff CB, Gorman JM,
+Rosenblum LA. Elevations in Cisternal Cerebrospinal Fluid Corticotropin-Releasing Factor
+Concentrations in Adult Primates. Biological Psychiatry. 2001; 50:200–204. [PubMed: 11513819]
+65. Baker DG, West SA, Nicholson WE, Ekhator NN, Kasckow JW, Hill KK, Bruce AB, Orth DN,
+Geracioti TD Jr. Serial CSF corticotropin-releasing hormone levels and adrenocortical activity in
+combat veterans with posttraumatic stress disorder. American Journal of Psychiatry. 1999;
+156:585–588. [PubMed: 10200738]
+66. Bremner JD, Licinio J, Darnell A, Krystal JH, Owens MJ, Southwick SM, Nemeroff CB, Charney
+DS. Elevated CSF corticotropin-releasing factor concentrations in posttraumatic stress disorder.
+American Journal of Psychiatry. 1997; 154:624–629. [PubMed: 9137116]
+67. Bremner JD, Southwick SM, Johnson DR, Yehuda R, Charney DS. Childhood physical abuse and
+combat-related posttraumatic stress disorder in Vietnam Veterans. American Journal of Psychiatry.
+1993; 150:235–239. [PubMed: 8422073]
+68. Kaufman J, Plotsky PM, Nemeroff CB, Charney DS. Effects of Early Adverse Experiences on
+Brain Structure and Function: Clinical Implications. Biological Psychiatry. 2000; 48:778–790.
+[PubMed: 11063974]
+69. Yehuda R, Kahana B, Binder-Brynes K, Southwick S, Mason JW, Giller EL. Low urinary cortisol
+excretion in Holocaust survivors with posttraumatic stress disorder. American Journal of
+Psychiatry. 1995; 152:982–986. [PubMed: 7793468]
+70. Trickett PK, Noll JG, Susman EJ, Shenk CE, Putnam FW. Attenuation of cortisol across
+development for victims of sexual abuse. Development and Psychopathology. 2010; 22(1):165–
+175. [PubMed: 20102654]
+71. Yehuda R. Advances in understanding neuroendocrine alterations in PTSD and their therapeutic
+implications. Ann NY Acad Sci. 2006; 1071:137–166. [PubMed: 16891568]
+72. Fries AB, Shirtcliff EA, Pollak SD. Neuroendocrine dysregulation following early social
+deprivation in children. Dev Psychobiol. 2008; 50(6):588–599. [PubMed: 18683181]
+73. Elzinga BM, Schmahl C, Vermetten E, van Dyck R, Bremner JD. Higher Cortisol Levels
+Following Exposure to Traumatic Reminders in Abuse-Related PTSD.
+Neuropsychopharmacology. 2003; 28:1656–1665. [PubMed: 12838270]De Bellis and A.B. Page 26
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+74. Boyce WT, Champoux M, Suomi SJ, Gunnar MR. Salivary cortisol in nursery-reared rhesus
+monkeys: Reactivity to peer interactions and altered circadian activity. Developmental
+Psychobiology. 1995; 28:257–267. [PubMed: 7672458]
+75. Gunnar MR, Vazquez DM. Low cortisol and a flattening of expected daytime rhythm: Potential
+indices of risk in human development. Development and Psychopathology. 2001; 13:515–538.
+[PubMed: 11523846]
+76. De Bellis MD, Dahl RE, Perel J, Birmaher B, Al-Shabbout M, Williamson DE, Nelson B, Ryan
+ND. Nocturnal ACTH, cortisol, growth hormone, and prolactin secretion in prepubertal
+depression. J Am Acad Child Adolesc Psychiatry. 1996; 35:1130–1138. [PubMed: 8824056]
+77. Dimitriou T, Maser-Gluth C, Remer T. Adrenocortical activity in healthy children is associated
+with fat mass. American Journal of Clinical Nutrition. 2003; 77:731–736. [PubMed: 12600869]
+78. Hart J, Gunnar M, Cicchetti D. Altered neuroendocrine activity in maltreated children related to
+symptoms of depression. Development & Psychopathology. 1996; 8:201–214.
+79. Cicchetti D, Rogosch FA. The impact of child maltreatment and psychopathology on
+neuroendocrine functioning. Development and Psychopathology. 2001; 13:783–804. [PubMed:
+11771908]
+80. Kaufman J. Depressive disorders in maltreated children. Journal of the American Academy of
+Child and Adolescent Psychiatry. 1991; 30:257–265. [PubMed: 2016230]
+81. Susman EJ. Psychobiology of persistent antisocial behavior: Stress, early vulnerabilities and the
+attenuation hypothesis. Neuroscience and Biobehavioral Reviews. 2006; 30:376–389. [PubMed:
+16239030]
+82. Carpenter LL, Carvalho JP, Tyrka AR, Wier LM, Mello AF, Mello MF, Anderson GM, Wilkinson
+CW, Price LH. Decreased Adrenocorticotropic Hormone and Cortisol Responses to Stress in
+Healthy Adults Reporting Significant Childhood Maltreatment. Biological Psychiatry. 2007;
+62:1080–1087. [PubMed: 17662255]
+83. Stenzel-Poore MP, Heinrichs SC, Rivest S, Koob GF, Vale WW. Overproduction of
+corticotropinreleasing factor in transgenic mice: a genetic model of anxiogenic behavior. Journal
+of Neuroscience. 1994; 14(5):2579–2584. [PubMed: 8182429]
+84. DeYoung C, Cicchetti D, Rogosch FA. Moderation of the association between childhood
+maltreatment and neuroticism by the corticotropin-releasing hormone receptor 1 gene. Journal of
+Child Psychology and Psychiatry. 2011; 52:898–906. [PubMed: 21438878]
+85. Cicchetti D, Rogosch FA, Oshri A. Interactive effects of corticotropin releasing hormone receptor
+1, serotonin transporter linked polymorphic region, and child maltreatment on diurnal cortisol
+regulation and internalizing symptomatology. Development & Psychopathology. 2011; 23:1125–
+1138. [PubMed: 22018085]
+86. Bradley RG, Binder EB, Epstein MP, Tang Y, Nair HP, Lui W, Gillespie CF, Berg T, Evces M,
+Newport J, et al. Influence of Child Abuse on Adult Depression: Moderation by the Corticotropin-
+Releasing Hormone Receptor Gene. Archives of General Psychiatry. 2008; 65(2):190–200.
+[PubMed: 18250257]
+87. Polanczyk G, Caspi A, Williams B, Price TS, Danese A, Sugden K, Uher R, Poulton R, Moffitt
+TE. Protective effect of CRHR1 gene variants on the development of adult depression following
+childhood maltreatment: replication and extension. Archives of General Psychiatry. 2009; 66:978–
+985. [PubMed: 19736354]
+88. Tyrka AR, Price LH, Gelernter J, Schepker C, Anderson GM, Carpenter LL. Interaction of
+Childhood Maltreatment with the Corticotropin-Releasing Hormone Receptor Gene: Effects on
+Hypothalamic-Pituitary-Adrenal Axis Reactivity. Biological Psychiatry. 2009; 66:681–685.
+[PubMed: 19596121]
+89. Spijker AT, van Rossum EFC. Glucocorticoid Sensitivity in Mood Disorders. Neuroendocrinology.
+2012; 95:179–186. [PubMed: 22076031]
+90. Heim CM, Bradley RG, Deveau TC, Musselman DL, Nemoroff CB, Ressler KJ, Binder EB. Effect
+of childhood trauma on adult depression and neuroendocrine function: sex-specific moderation by
+CRH receptor 1 gene. Frontiers in Behavioral Neuroscience. 2009; 3:1–10. [PubMed: 19194528]
+91. Wochnik GM, Ruegg J, Abel GA, Schmidt U, Holsboer F, Rein T. FK506-binding proteins 51 and
+52 differentially regulate dynein interaction and nuclear translocation of the glucocorticoidDe Bellis and A.B. Page 27
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+receptor in mammalian cells. Journal of Biological Chemistry. 2005; 280:4609–4616. [PubMed:
+15591061]
+92. Zimmermann P, Brückl T, Nocon A, Pfister H, Binder EB, Uhr M, Lieb R, Moffitt TE, Caspi A,
+Holsboer F, et al. Interaction of FKBP 5 Gene Variants and Adverse Life Events in Predicting
+Depression Onset: Results From a 10-Year Prospective Community Study. American Journal of
+Psychiatry. 2011; 168:1107–1116. [PubMed: 21865530]
+93. Ising M, Depping AM, Siebertz A, Lucae S, Unschuld PG, Kloiber S, Horstmann S, Uhr M,
+Müller-Myhsok B, Holsboer F. Polymorphisms in the FKBP5 gene region modulate recovery from
+psychosocial stress in healthy controls. European Journal of Neuroscience. 2008; 28:389–398.
+[PubMed: 18702710]
+94. Appel K, Schwahn C, Mahler J, Schulz A, Spitzer C, Fenske K, Stender J, Barnow S, John U,
+Teumer A, et al. Moderation of Adult Depression by a Polymorphism in the FKBP5 Gene and
+Childhood Physical Abuse in the General Population. Neuropsychopharmacology. 2011; 36:1982–
+1991. [PubMed: 21654733]
+95. Binder EB, Bradley RG, Liu W, Epstein MP, Deveau TC, Mercer KB, Tang Y, Gillespie CF, Heim
+CM, Nemeroff CB, et al. Association of FKBP5 Polymorphisms and Childhood Abuse With Risk
+of Posttraumatic Stress Disorder Symptoms in Adults. Journal of the American Medical
+Association. 2008; 299:1291–1305. [PubMed: 18349090]
+96. Xie P, Kranzler HR, Poling J, Stein MB, Anton RF, Farrer LA, Gelernter J. Interaction of FKBP5
+with childhood adversity on risk for post-traumatic stress disorder. Neuropsychopharmacology.
+2010; 35:1684–1692. [PubMed: 20393453]
+97. Roy A, Gorodetsky E, Yuan Q, Goldman D, Enoch MA. Interaction of FKBP5, a stress-related
+gene, with childhood trauma increases the risk for attempting suicide. Neuropsychopharmacology.
+2010; 35:1674–1683. [PubMed: 20090668]
+98. Bevilacqua L, Carli V, Sarchiapone M, George DK, Goldman D, Roy A, Enoch MA. Interaction
+Between FKBP5 and Childhood Trauma and Risk of Aggressive Behavior. Archives of General
+Psychiatry. 2012; 69:62–70. [PubMed: 22213790]
+99. White MG, Bogdan R, Fisher PM, Muñoz KE, Williamson D, E. Hariri AR. FKBP5 and emotional
+neglect interact to predict individual differences in amygdala reactivity. Genes Brain Behav. 2012;
+11(7):869–878. [PubMed: 22979952]
+100. Razin A. CpG methylation, chromatin structure and gene silencing-a three-way connection. The
+EMBO Journal. 1998; 17:4905–4908. [PubMed: 9724627]
+101. McGowan PO, Sasaki A, D'Alessio AC, Dymov S, Labonté B, Szyf M, Turecki G, Meaney MJ.
+Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood
+abuse. Nat Neurosci. 2009; 12(3):342–348. [PubMed: 19234457]
+102. Murgatroyd C, Spengler D. Epigenetics of early child development. Frontiers in Psychiatry. 2011;
+2(16):1–15. [PubMed: 21556272]
+103. McGowan PO. Epigenomic mechanisms of early adversity and HPA dysfunction: considerations
+for PTSD research. Frontiers in Psychiatry. 2013; 4(110):1–6. [PubMed: 23346060]
+104. McGowan PO, Szyf M. The epigenetics of social adversity in early life: Implications for mental
+health outcomes. Neurobiology of Disease. 2010; 39:66–72. [PubMed: 20053376]
+105. Zhang TY, Labonté B, Wen XL, Turecki G, Meaney MJ. Epigenetic mechanisms for the early
+environmental regulation of hippocampal glucocorticoid receptor gene expression in rodents and
+humans. Neuropsychopharmacology. 2013; 38(1):111–123. [PubMed: 22968814]
+106. Champagne FA, Francis DD, Mar A, Meaney MJ. Variations in maternal care in the rat as a
+mediating influence for the effects of environment on development. Physiol Behav. 2003;
+79:359–371. [PubMed: 12954431]
+107. Kurata A, Morinobu S, Fuchikami M, Yamamoto S, Yamawaki S. Maternal postpartum learned
+helplessness (LH) affects maternal care by dams and responses to the LH test in adolescent
+offspring. Horm Behav. 2009; 56:112–120. [PubMed: 19341740]
+108. Murgatroyd C, Patchev AV, Wu Y, Micale V, Bockmuhl Y, Fischer D, Holsboer F, Wotjak CT,
+Almeida OFX, Spengler D. Dynamic DNA methylation programs persistent adverse effects of
+early-life stress. Nature Neuroscience. 2009; 12:1559–1566.De Bellis and A.B. Page 28
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+109. Roth TL, Lubin FD, Funk AJ, Sweatt JD. Lasting epigenetic influence of early-life adversity on
+the BDNF gene. Biol Psychiatry. 2009; 65(9):760–769. [PubMed: 19150054]
+110. Bick J, Naumova O, Hunter S, Barbot B, Lee M, Luthar SS, Raefski A, Grigorenko EL.
+Childhood adversity and DNA methylation of genes involved in the hypothalamus-pituitary-
+adrenal axis and immune system: whole-genome and candidate-gene associations. Development
+and Psychopathology. 2012; 24(4):1417–1425. [PubMed: 23062307]
+111. DeSantis SM, Baker NL, Back SE, Spratt E, Ciolino JD, Moran-Santa Maria M, Dipankar B,
+Brady KT. Gender differences in the effect of early life trauma on hypothalamic-pituitary-adrenal
+axis functioning. Depression and Anxiety. 2011; 28(5):383–392. [PubMed: 21328636]
+112. Seltzer LJ, Ziegler T, Connolly MJ, Prososki AR, Pollak SD. Stress-induced elevation of oxytocin
+in maltreated children: evolution, neurodevelopment, and social behavior. Child Development.
+2013
+113. Widom CS. Child abuse, neglect, and violent criminal behavior. American Journal of Psychiatry.
+1989; 27(2):251–271.
+114. Gunnar MR. Quality of early care and buffering of neuroendocrine stress reactions: potential
+effects on the developing human brain. Preventive Medicine. 1998; 27:208–211. [PubMed:
+9578997]
+115. Heinrichs M, Baumgartner T, Kirschbaum C, Ehlert U. Social Support and Oxytocin Interact to
+Suppress Cortisol and Subjective Responses to Psychosocial Stress. Biological Psychiatry. 2003;
+54:1389–1398. [PubMed: 14675803]
+116. Eisenberger NI, Taylor SA, Gable SL, Hilmert CJ, Lieberman MD. Neural pathways link social
+support to attenuated neuroendocrine stress responses. NeuroImage. 2007; 35:1601–1612.
+[PubMed: 17395493]
+117. Li Q, Wichems C, Heils A, Van De Kar LD, Lesch KP, Murphy DL. Reduction of 5-
+hydroxytryptamine (5-HT)(1A)-mediated temperature and neuroendocrine responses and 5-
+HT(1A) binding sites in 5-HT transporter knockout mice. J Pharmacol Exp Therarapy. 1999;
+291(3):999–1007.
+118. Ressler KJ, Bradley RG, Mercer KB, Deveau TC, Smith AK, Gillespie CF, Nemoroff CB,
+Cubells JF, Binder EB. Polymorphisms in CRHR1 and the Serotonin Transporter Loci:
+GeneGeneEnvironment Interactions on Depressive Symptoms. American Journal of Medical
+Genetics Part B: Neuropsychiatric Genetics. 2009; 153B:812–824.
+119. De Bellis MD, Keshavan M, Clark DB, Casey BJ, Giedd J, Boring AM, Frustaci K, Ryan ND.
+A.E. Bennett Research Award. Developmental Traumatology, Part II: Brain Development.
+Biological Psychiatry. 1999; 45:1271–1284. [PubMed: 10349033]
+120. Shalev I, Moffitt TE, Sugden K, Williams B, Houts RM, Danese A, Mill J, Arseneault L, Caspi
+A. Exposure to violence during childhood is associated with telomere erosion from 5 to 10 years
+of age: a longitudinal study. Molecular Psychiatry. 2013; 18:576–581. [PubMed: 22525489]
+121. Paus T. Mapping brain maturation and cognitive development during adolescence. TRENDS in
+Cognitive Sciences. 2005; 9(2):60–68. [PubMed: 15668098]
+122. McEwen BS. The neurobiology and neuroendocrinology of stress. Implications for post-traumatic
+stress disorder from a basic science perspective. Psychiatr Clin North Am. 2002; 25(2):469–494.
+[PubMed: 12136511]
+123. Edwards E, Harkins K, Wright G, Menn F. Effects of bilateral adrenalectomy on the induction of
+learned helplessness. Behavioral Neuropsychopharmacology. 1990; 3:109–114.
+124. Sapolsky RM, Uno H, Rebert CS, Finch CE. Hippocampal damage associated with prolonged
+glucocorticoid exposure in primates. Journal of Neuroscience. 1990; 10:2897–2902. [PubMed:
+2398367]
+125. Simantov R, Blinder E, Ratovitski T, Tauber M, Gabbay M, Porat S. Dopamine induced apoptosis
+in human neuronal cells: inhibition by nucleic acids antisense to the dopamine transporter.
+Neuroscience. 1996; 74:39–50. [PubMed: 8843076]
+126. Dunlop SA, Archer MA, Quinlivan JA, Beazley LD, Newnham JP. Repeated prenatal
+corticosteroids delay myelination in the ovine central nervous system. Journal of Maternal-Fetal
+Medicine. 1997; 6:309–313. [PubMed: 9438210]De Bellis and A.B. Page 29
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+127. Todd RD. Neural development is regulated by classical neuro-transmitters: dopamine D2 receptor
+stimulation enhances neurite outgrowth. Biological Psychiatry. 1992; 31:794–807. [PubMed:
+1643194]
+128. Lauder JM. Neurotransmitters as morphogens. Progress in Brain Research. 1988; 73:365–388.
+[PubMed: 2901778]
+129. Gould E, McEwen BS, Tanapat P, Galea LA, Fuchs E. Neurogenesis in the dentate gyrus of the
+adult tree shrew is regulated by psychosocial stress and NMDA receptor activation. Journal of
+Neuroscience. 1997; 17:2492–8. [PubMed: 9065509]
+130. Gould E, Tanapat P, Cameron HA. Adrenal steroids suppress granule cell death in the developing
+dentate gyrus through an NMDA receptor-dependent mechanism. Brain Research.
+Developmental Brain Research. 1997; 103:91–3. [PubMed: 9370064]
+131. Gould E, Tanapat P, McEwen BS, Flugge G, Fuchs E. Proliferation of granule cell precursors in
+the dentate gyrus of adult monkeys is diminished by stress. Proceedings of the National Academy
+of Sciences of the United States of America. 1998; 95:3168–71. [PubMed: 9501234]
+132. Pizarro JM, Lumley LA, Medina W, Robison CL, Changa WE, Alagappana A, Bah MJ, Dawood
+MY, Shah JD, Mark B, et al. Acute social defeat reduces neurotrophin expression in brain
+cortical and subcortical areas in mice. Brain Research. 2004; 1025:10–20. [PubMed: 15464739]
+133. Zhang L-X, Levine S, Dent G, Zhan G, Xing G, Okimoto D, Gordon MK, Post RM, Smith MA.
+Maternal deprivation increases cell death in the infant rat brain. Developmental Brain Research.
+2002; 133:1–11. [PubMed: 11850058]
+134. Harley CB, Futcher AB, Greider CW. Telomeres shorten during ageing of human fibroblasts.
+Nature. 1990; 345:458–460. [PubMed: 2342578]
+135. Drury SS, Theall K, Gleason MM, Smyke AT, De Vivo I, Wong JY, Fox NA, Zeanah CH,
+Nelson CA. Telomere length and early severe social deprivation: linking early adversity and
+cellular aging. Molecular Psychiatry. 2012; 17:719–727. [PubMed: 21577215]
+136. Anda RF, Felitti VJ, Bremner JD, Walker JD, Whitfield C, Perry BD, Dube SR, Giles WH. The
+enduring effects of abuse and related adverse experiences in childhood: a convergence of
+evidence from neurobiology and epidemiology. Eur Arch Psychiatry Clin Neurosci. 2006;
+256(3):174–186. [PubMed: 16311898]
+137. De Bellis MD, Putnam FW. The Psychobiology of Childhood Maltreatment. Child and
+Adolescent Psychiatric Clinics of North America. 1994; 3(4):663–678.
+138. Arnsten AF. Stress impairs prefrontal cortical function in rats and monkeys: role of dopamine D1
+and norepinephrine alpha-1 receptor mechanisms. Progress in Brain Research. 2000; 126:183–
+192. [PubMed: 11105647]
+139. Arnsten AFT. The biology of being frazzled. Science. 1998; 280:1711–1712. [PubMed: 9660710]
+140. De Bellis MD, Lefter L, Trickett PK, Putnam FW. Urinary catecholamine excretion in sexually
+abused girls. Journal of the American Academy of Child and Adolescent Psychiatry. 1994;
+33:320–327. [PubMed: 8169176]
+141. Pervanidou P, Kolaitis G, Charitaki S, Lazaropoulou C, Hindmarsh P, Bakoula C, Papassotiriou I,
+Tsiantis J, Chrousos GP. The natural history of neuroendocrine changes in pediatric
+posttraumatic stress disorder after motor vehicle accidents: progressive divergence of
+noradrenaline and cortisol concentrations over time. Biological Psychiatry. 2007; 62:1095–1102.
+[PubMed: 17624319]
+142. Otte C, Neylan TC, Pole N, Metzler T, Best S, Henn-Haase C, Yehuda R, Marmar CR.
+Association between childhood trauma and catecholamine response to psychological stress in
+police academy recruits. Biol Pyschiatry. 2005; 57(1):27–32.
+143. Savitz JB, van derMerwe L, Newman TK, Solms M, Stein DJ, Ramesar RS. The relationship
+between childhood abuse and dissociation. Is it influenced by catechol- O-methyltransferase
+(COMT) activity? . Int J Neuropsychopharmacol. 2008; 11:149–161. [PubMed: 17608961]
+144. Lesch KP, Mossner R. Genetically driven variation in serotonin update: is there a link to affective
+spectrum, neurodevelopmental and neurodegenerative disorders? Biological Psychiatry. 1998;
+44(3):179–192. [PubMed: 9693390]
+145. Siever LJ. Neurobiology of aggression and violence. Am J Psychiatry. 2008; 165(4):429–442.
+[PubMed: 18346997]De Bellis and A.B. Page 30
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+146. Lucki I. The spectrum of behaviors influenced by serotonin. Biological Psychiatry. 1998; 44(3):
+151–162. [PubMed: 9693387]
+147. Lauder JM. Neurotransmitters as growth regulatory signals: Role of receptors and second
+messengers. Trends in Neuroscience. 1993; 16:233–240.
+148. Veenema AH. Early life stress, the development of aggression and neuroendocrine and
+neurobiological correlates: what can we learn from animal models? Frontiers in
+Neuroendocrinology. 2009; 30(4):497–518. [PubMed: 19341763]
+149. Ressler KJ, Nemeroff CB. Role of serotonergic and noradrenergic systems in the pathophysiology
+of depression and anxiety disorders. Depression and Anxiety. 2000; 12(Suppl. 1):2–19.
+[PubMed: 11098410]
+150. Goodman M, New A, Siever L. Trauma, genes, and the neurobiology of personality disorders.
+Annals of the New York Academy of Sciences. 2004; 1032:104–116. [PubMed: 15677398]
+151. Lesch KP, Heils A. Serotonergic gene transcriptional control regions: Targets for antidepressant
+drug development? . International Journal of Neuropscyhopharmacology. 2000; 3:67–79.
+152. Caspi A, Sugden K, Moffitt TE, Taylor A, Craig IW, Harrington H, McClay J, Mill J, Martin J,
+Braithwaite A, et al. Influence of life stress on depression: Moderation by a polymorphism in the
+5-HTT gene. Science. 2003; 301(5631):386–389. [PubMed: 12869766]
+153. Kaufman J, Yang BZ, Douglas-Palumberi H, Houshyar S, Lipschitz D, Krystal JH, Gelernter J.
+Social supports and serotonin transporter gene moderate depression in maltreated children.
+Proceedings of the National Academy of Science USA. 2004; 101(49):17316–17321.
+154. Sugden K, Arseneault L, Harrington H, Moffitt TE, Williams B, Caspi A. Serotonin transporter
+gene moderates the development of emotional problems among children following bullying
+victimization. The Journal of Child & Adolescent Psychiatry. 2010; 49:830–840.
+155. Banny AM, Cicchetti D, Rogosch FA, Oshri A, Crick NR. Vulnerability to depression: A
+moderated mediation model of the roles of child maltreatment, peer victimization, and serotonin
+transporter linked polymorphic region genetic variation among children from low socioeconomic
+status backgrounds. Development & Psychopathology. 2013; 25:599–614. [PubMed: 23880379]
+156. Cicchetti D, Rogosch FA. GeneEnvironment interaction and resilience: Effects of child
+maltreatment and serotonin, corticotropin releasing hormone, dopamine, and oxytocin genes.
+Development & Psychopathology. 2012; 24:411–427. [PubMed: 22559122]
+157. Munafo MR, Durrant C, Lewis G, Flint J. Gene Environment interactions at the serotonin
+transporter locus. Biological Psychiatry. 2009; 65:211–219. [PubMed: 18691701]
+158. Risch N, Herrell R, Lehner T, Liang K, Eaves L, Hob J, Griem A, Kovacs M, Ott J, Merikangas
+KR. Interaction between the serotonin transporter gene (5-HTTLPR), stressful life events, and
+risk of depression: A meta-analysis. Journal of the American Medical Association. 2009;
+301:2462–2471. [PubMed: 19531786]
+159. Karg K, Burmeister M, Shedden K, Sen S. The serotonin transporter promoter variant (5-
+HTTLPR), stress, and depression meta-analysis revisited: evidence of genetic moderation.
+Archives of General Psychiatry. 2011; 68:444–454. [PubMed: 21199959]
+160. Sadeh N, Javdani S, Verona E. Analysis of monoaminergic genes, childhood abuse, and
+dimensions of psychopathy. Journal of Abnormal Psychology. 2013; 122(1):167–179. [PubMed:
+22985017]
+161. Shih JC, Chen K, Ridd MJ. Monoamine oxidase: from genes to behavior. Annual Review of
+Neuroscience. 1999; 22:197–217.
+162. Kim-Cohen J, Caspi A, Taylor A, Williams B, Newcombe R, Craig IW, Moffitt TE. MAOA,
+maltreatment, and gene–environment interaction predicting children's mental health: new
+evidence and a meta-analysis. Molecular Psychiatry. 2006; 11:903–913. [PubMed: 16801953]
+163. Nilsson KW, Sjoberg RL, Wargelius HL, Leppert J, Lindstrom L, Oreland L. The monoamine
+oxidase A (MAO-A) gene, family function and maltreatment as predictors of destructive
+behaviour during male adolescent alcohol consumption. Addiction. 2007; 102:389–398.
+[PubMed: 17298646]
+164. Kaufman J, Yang BZ, Douglas-Palumberi H, Crouse-Artus M, Lipschitz D, Krystal JH, Gelernter
+J. Genetic and environmental predictors of early alcohol use. Biological Psychiatry. 2007;
+61(11):1228–1234. [PubMed: 17123474]De Bellis and A.B. Page 31
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+165. Ducci F, Enoch MA, Hodgkinson C, Xu K, Catena M, Robin RW, Goldman D. Interaction
+between a functional MAOA locus and childhood sexual abuse predicts alcoholism and antisocial
+personality disorder in adult women. Molecular Psychiatry. 2008; 13(3):334–347. [PubMed:
+17592478]
+166. Bartz JA, Zaki J, Bolger N, Ochsner KN. Social effects of oxytocin in humans: context and
+person matter. Trends in Cognitive Sciences. 2011; 15(7):301–309. [PubMed: 21696997]
+167. Francis DD, Champagne FC, Meaney MJ. Variations in maternal behaviour are associated with
+differences in oxytocin receptor levels in the rat. J Neuroendocrinol. 2000; 12(12):1145–1148.
+[PubMed: 11106970]
+168. Shahrokh DK, Zhang TY, Diorio J, Gratton A, Meaney MJ. Oxytocin dopamine interactions
+mediate variations in maternal behavior in the rat. Endocrinology. 2010; 151(5):2276–2286.
+[PubMed: 20228171]
+169. Bradley B, Davis TA, Wingo AP, Mercer KB, Ressler KJ. Family environment and adult
+resilience: contributions of positive parenting and the oxytocin receptor gene. Eur J
+Psychotraumatol. 2013; 4
+170. Dantzer R, O'Connor JC, Freund GG, Johnson RW, Kelley KW. From inflammation to sickness
+and depression: when the immune system subjugates the brain. Nature Reviews Neuroscience.
+2008; 9(1):46–56.
+171. Mills NT, Scott JG, Wray NR, Cohen-Woods S, Baune BT. Research review: the role of
+cytokines in depression in adolescents: a systematic review. Journal of Child Psychology and
+Psychiatry. 2013; 54(8):816–835. [PubMed: 24027786]
+172. De Bellis MD, Burke L, Trickett PK, Putnam FW. Antinuclear antibodies and thyroid function in
+sexually abused girls. Journal of Traumatic Stress. 1996; 9(2):369–378. [PubMed: 8731555]
+173. Gill JM, Saligan L, Woods S, Page G. PTSD is associated with an excess of inflammatory
+immune activities. Perspectives in Psychiatric Care. 2009; 45(4):262–277. [PubMed: 19780999]
+174. Smith AK, Conneely KN, Kilaru V, Mercer KB, Weiss TE, Bradley B, Tang Y, Gillespie CF,
+Cubells JF, Ressler KJ. Differential immune system DNA methylation and cytokine regulation in
+post-traumatic stress disorder. American Journal of Medical Genetics Part B: Neuropsychiatric
+Genetics. 2011; 156B(6):700–708.
+175. Lemieux A, Coe CL, Carnes M. Symptom severity predicts degree of T cell activation in adult
+women following childhood maltreatment. Brain, Behavior, and Immunity. 2008; 22(6):994–
+1003.
+176. Altemus M, Cloitre M, Dhabhar FS. Enhanced cellular immune response in women with PTSD
+related to childhood abuse. The American Journal of Psychiatry. 2003; 160(9):1705–1707.
+[PubMed: 12944352]
+177. Carpenter LL, Gawuga CE, Tyrka AR, Lee JK, Anderson GM, Price LH. Association between
+Plasma IL-6 Response to Acute Stress and Early-Life Adversity in Healthy Adults.
+Neuropsychopharmacology. 2010; 35:2617–2623. [PubMed: 20881945]
+178. Danese A, Moffitt TE, Harrington H, Milne BJ, Polanczyk G, Pariante CM, Poulton R, Caspi A.
+Adverse Childhood Experiences and Adult Risk Factors for Age-Related Disease:Depression,
+Inflammation, and Clustering of Metabolic Risk Markers. Arch Pediatr Adolesc Med. 2009;
+163(12):1135–1143. [PubMed: 19996051]
+179. Pervanidou P, Chrousos GP. Metabolic consequences of stress during childhood and adolescence.
+Metabolism. 2012; 61(5):611–619. [PubMed: 22146091]
+180. Aber, JL.; Allen, JP.; Carlson, V.; Cicchetti, D. The effects of maltreatment on development
+during early childhood: recent studies and their theoretical, clinical, and policy implications, in
+Child maltreatment: Theory and research on the causes and consequences of child abuse and
+neglect. Carlson, V.; Cicchetti, D., editors. Cambridge University Press; New York: 1989. p.
+579-619.
+181. Carrey NJ, Butter HJ, Persinger MA, Bialik RJ. Physiological and cognitive correlates of child
+abuse. J Am Acad Child Adolesc Psychiatry. 1995; 34(8):1067–1075. [PubMed: 7545147]
+182. Culp RE, Watkins RV, Lawrence H, Letts D, Kelly DJ, Rice ML. Maltreated children's language
+and speech development: abused, neglected, and abused and neglected. First Language. 1991;
+11:377–389.De Bellis and A.B. Page 32
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+183. Eckenrode J, Laird M, Doris J. School performance and disciplinary problems among abused and
+neglected children. Developmental Psychology. 1993; 29:53–62.
+184. McFadyen RG, Kitson WJH. Language comprehension and expression among adolescents who
+have experienced childhood physical abuse. Journal of Child Psychiatry and Psychology. 1996;
+37(5):551–562.
+185. Trickett PK, McBride-Chang C. The developmental impact of different forms of child abuse &
+neglect. Developmental Review. 1995; 15:311–337.
+186. Koenen KC, Moffitt TE, Caspi A, Taylor A, Purcell S. Domestic violence is associated with
+environmental suppression of IQ in young children. Development and Psychopathology. 2003;
+15(2):297–311. [PubMed: 12931829]
+187. Beers SR, De Bellis MD. Neuropsychological function in children with maltreatment-related
+posttraumatic stress disorder. American Journal of Psychiatry. 2002; 159:483–486. [PubMed:
+11870018]
+188. DePrince AP, Weinzierl KM, Combs MD. Executive function performance and trauma exposure
+in a community sample of children. Child Abuse and Neglect. 2009; 33(6):353–361. [PubMed:
+19477515]
+189. Fishbein D, Warner T, Krebs C, Trevarthen N, Flannery B, Hammond J. Differential relationships
+between personal and community stressors and children's neurocognitive functioning. Child
+Maltreatment. 2009; 14(4):299–315. [PubMed: 18971345]
+190. Pollak SD, Nelson CA, Schlaak MF, Roeber BJ, Wewerka SS, Wiik KL, Frenn KA, Loman MM,
+Gunnar MR. Neurodevelopmental effects of early deprivation in postinstitutionalized children.
+Child Development. 2010; 81(1):224–236. [PubMed: 20331664]
+191. De Bellis MD, Hooper S, Spratt EG, Woolley DW. Neuropsychological findings in childhood
+neglect and their relationships to pediatric PTSD. Journal of the International
+Neuropsychological Society. 2009; 15:868–878. [PubMed: 19703321]
+192. Samuelson KW, Krueger CE, Burnett C, Wilson DK. Neuropsychological functioning in children
+with posttraumatic stress disorder. Child Neuropsychology. 2010; 16(2):119–133. [PubMed:
+19787496]
+193. De Bellis MD, Woolley DP, Hooper SR. Neuropsychological findings in pediatric maltreatment:
+relationship of PTSD, dissociative symptoms, and abuse/neglect indices to neurocognitive
+outcomes. Child Maltreat. 2013; 18(3):171–183. [PubMed: 23886642]
+194. Jaffee SR, Maikovich-Fong AK. Effects of chronic maltreatment and maltreatment timing on
+children's behavior and cognitive abilities. J Child Psychol Psychiatry. 2011; 52(2):184–194.
+[PubMed: 20735512]
+195. Lansford JE, Dodge KE, Pettit GS, Bates JE, Crozier J, Kaplow J. A 12-year prospective study of
+the long-term effects of early child physical maltreatment on psychological, behavioral, and
+academic problems in adolescence. Archives of Pediatrics & Adolescent Medicine. 2002; 156(8):
+824–830. [PubMed: 12144375]
+196. Mills R, Alati R, O'Callaghan M, Najman JM, Williams GM, Bor W, Strathearn L. Child abuse
+and neglect and cognitive function at 14 years of age: findings from a birth cohort. Pediatrics.
+2011; 127(1):4–10. [PubMed: 21135010]
+197. Noll JG, Shenk CE, Yeh MT, Ji J, Putnam FW, Trickett PK. Receptive language and educational
+attainment for sexually abused females. Pediatrics. 2010; 126(3):e615–e622. [PubMed:
+20696731]
+198. Perez C, Widom CS. Childhood victimization and long-term intellectual and academic outcomes.
+Child Abuse & Neglect. 1994; 18(8):617–633. [PubMed: 7953902]
+199. Strathearn L, Gray PH, O'Callaghan F, Wood DO. Childhood neglect and cognitive development
+in extremely low birth weight infants: a prospective study. Pediatrics. 2001; 108(1):142–151.
+[PubMed: 11433067]
+200. Trickett PK, McBride-Chang C, Putnam FW. The classroom performance and behavior of
+sexually abused girls. Development and Psychopathology. 1994; 6:183–194.
+201. Hanson JL, Chung MK, Avants BB, Rudolph KD, Shirtcliff EA, Gee JC, Davidson RJ, Pollak
+SD. Structural variations in prefrontal cortex mediate the relationship between early childhood
+stress and spatial working memory. J Neurosci. 2012; 32(23):7917–7925. [PubMed: 22674267]De Bellis and A.B. Page 33
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+202. Bauer PM, Hanson JL, Pierson RK, Davidson RJ, Pollak SD. Cerebellar volume and cognitive
+functioning in children who experienced early deprivation. Biological Psychiatry. 2009;
+66:1100–1106. [PubMed: 19660739]
+203. Carrion VG, Weems CF, Eliez S, Patwardhan A, Brown W, Ray RD, Reiss AL. Attenuation of
+frontal asymmetry in pediatric posttraumatic stress disorder. Biological Psychiatry. 2001;
+50:943–951. [PubMed: 11750890]
+204. De Bellis M, Kuchibhatla M. Cerebellar volumes in pediatric maltreatment-related posttraumatic
+stress disorder. Biological Psychiatry. 2006; 60(7):697–703. [PubMed: 16934769]
+205. De Bellis MD, Keshavan M, Shifflett H, Iyengar S, Beers SR, Hall J, Moritz G. Brain Structures
+in Pediatric Maltreatment-Related Posttraumatic Stress Disorder: A Sociodemographically
+Matched Study. Biological Psychiatry. 2002; 52:1066–1078. [PubMed: 12460690]
+206. De Bellis MD, Keshavan MS, Frustaci K, Shifflett H, Iyengar S, Beers SR, Hall J. Superior
+temporal gyrus volumes in maltreated children and adolescents with PTSD. Biological
+Psychiatry. 2002; 51:544–552. [PubMed: 11950456]
+207. Hackman D, Farah MJ, Meaney MJ. Socioeconomic status and the brain: mechanistic insights
+from human and animal research. Nature Reviews Neuroscience. 2010; 11:651–659.
+208. Riva D, Giorgi C. The cerebellum contributes to higher functions during development. Brain.
+2000; 123:1051–1061. [PubMed: 10775549]
+209. Bellebaum C, Daum I. Cerebellar involvement in executive control. The Cerebellum. 2007;
+6:184–192. [PubMed: 17786814]
+210. Thoma P, Bellebaum C, Koch B, Schwarz M, Daum I. The Cerebellum Is Involved in Reward-
+based Reversal Learning. Cerebellum. 2008; 7:433–443. [PubMed: 18592331]
+211. Fransson P. How default is the default mode of brain function? Further evidence from intrinsic
+BOLD signal fluctuations. Neuropsychologia. 2006; 44:2836–2845. [PubMed: 16879844]
+212. De Bellis MD, Keshavan MS. Sex differences in brain maturation in maltreatment-related
+pediatric posttraumatic stress disorder. Neurosci Biobehav Rev. 2003; 27(1-2):103–117.
+[PubMed: 12732227]
+213. Conners NA, Bradley RH, Mansell LW, Liu JY, Roberts TJ, Burgdorf K, Herrell JM. Children of
+mothers with serious substance abuse problems: An accumulation of risks. American Journal of
+Drug and Alcohol Abuse. 2004; 30:85–100. [PubMed: 15083555]
+214. Smith DK, Johnson AB, Pears KC, Fisher PA, DeGarmo DS. Child Maltreatment and Foster
+Care: Unpacking the Effects of Prenatal and Postnatal Parental Substance Use. Child
+Maltreatment. 2007; 12:150. [PubMed: 17446568]
+215. Fair DA, Cohen AL, Dosenbach NUF, Church JA, Miezin FM, Barch DM, Raichle ME, Petersen
+SE, Schlaggar BL. The maturing architecture of the brain's default network. Proceedings of the
+National Academy of Sciences USA. 2008; 105(10):4028–4032.
+216. Jackowski AP, Douglas-Palumberi H, Jackowski M, Win L, Schultz RT, Staib LW, Krystal JH,
+Kaufman J. Corpus callosum in maltreated children with posttraumatic stress disorder: A
+diffusion tensor imaging study. Psychiatry Research: Neuroimaging. 2008; 162:256–261.
+217. Teicher MH, Dumont NL, Ito Y, Vaituzis C, Giedd JN, Andersen SL. Childhood neglect is
+associated with reduced corpus callosum area. Biological Psychiatry. 2004; 56(2):80–85.
+[PubMed: 15231439]
+218. Prichard, JW. MRS of the brain-prospects for clinical application.. In: Young, IR.; Charles, HC.,
+editors. MR Spectroscopy: Clinical Applications and Techniques. The Livery House; London:
+1996. p. 1-25.
+219. De Bellis MD, Keshavan MS, Spencer S, Hall J. N-acetylaspartate concentration in the anterior
+cingulate in maltreated children and adolescents with PTSD. American Journal of Psychiatry.
+2000; 157:1175–1177. [PubMed: 10873933]
+220. Carrion VG, Weems CF, Richert K, Hoffman BC, Reiss AL. Decreased prefrontal cortical
+volume associated with increased bedtime cortisol in traumatized youth. Biological Psychiatry.
+2010; 68(5):491–493. [PubMed: 20579974]
+221. Carrion VG, Garrett A, Menon V, Weems CF, Reiss AL. Posttraumatic stress symptoms and
+brain function during a response-inhibition task: an fMRI study in youth. Depress Anxiety. 2008;
+25(6):514–526. [PubMed: 17598145]De Bellis and A.B. Page 34
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+222. Mueller SC, Maheu FS, Dozier M, Peloso E, Mandell D, Leibenluft E, Ernst M. Early-life stress
+is associated with impairment in cognitive control in adolescence: an fMRI study.
+Neuropsychologia. 2010; 48(10):3037–3044. [PubMed: 20561537]
+223. Smith ME. Bilateral Hippocampal Volume Reduction in Adults With Post-Traumatic Stress
+Disorder: A Meta-Analysis of Structural MRI Studies. Hippocampus. 2005; 15:798–807.
+[PubMed: 15988763]
+224. De Bellis MD, Hall J, Boring AM, Frustaci K, Moritz G. A Pilot Longitudinal Study of
+Hippocampal Volumes in Pediatric Maltreatment-Related Posttraumatic Stress Disorder.
+Biological Psychiatry. 2001; 50:305–309. [PubMed: 11522266]
+225. Carrion VG, Haas BW, Garrett A, Song S, Reiss AL. Reduced hippocampal activity in youth with
+posttraumatic stress symptoms: an FMRI study. Journal of Pediatric Psychology. 2010; 35(5):
+559–569. [PubMed: 19995868]
+226. Carrion VG, Weems CF, Reiss AL. Stress predicts brain changes in children: a pilot longitudinal
+study on youth stress, posttraumatic stress disorder, and the hippocampus. Pediatrics. 2007;
+119(3):509–516. [PubMed: 17332204]
+227. Hanson JL, Chung MK, Avants BB, Shirtcliff EA, Gee JC, Davidson RJ, Pollak SD. Early stress
+is associated with alterations in the orbitofrontal cortex: a tensor based morphometry
+investigation of brain structure and behavioral risk. Journal of Neuroscience. 2010; 30(22):7466–
+7472. [PubMed: 20519521]
+228. Choi J, Jeong B, Rohan ML, Polcari A, Teicher MH. Preliminary Evidence for White Matter
+Tract Abnormalities in Young Adults Exposed to Parental Verbal Abuse. Biological Psychiatry.
+2009; 65:227–234. [PubMed: 18692174]
+229. Bremner JD, Narayan M, Staib L, Southwick SM, McGlashan T, Charney DS. Neural correlates
+of memories of childhood sexual abuse in women with and without posttraumatic stress disorder.
+American Journal of Psychiatry. 1999; 156:1787–1795. [PubMed: 10553744]
+230. Bremner JD, Vermetten E, Schmahl C, Vaccarino V, Vythilingam M, Afzal N, Charney DS.
+Positron emission tomographic imaging of neural correlates of a fear acquisition and extinction
+paradigm in women with childhood sexual-abuse-related post-traumatic stress disorder.
+Psychological Medicine. 2005; 35(6):791–806. [PubMed: 15997600]
+231. Shin LM, McNally RJ, Kosslyn SM, Thompson WL, Rauch SL, Alpert NM, Pitman RK.
+Regional cerebral blood flow during script-imagery in childhood sexual abuse-related PTSD: a
+PET investigation. American Journal of Psychiatry. 1999; 156(4):575–584. [PubMed: 10200737]
+232. De Bellis MD, Hooper SR. Neural substrates for processing task-irrelevant emotional distracters
+in maltreated adolescents with depressive disorders: a pilot study. Journal of Traumatic Stress.
+2012; 25(2):198–202. [PubMed: 22522735]
+233. Maheu FS, Dozier M, Guyer AE, Mandell D, Peloso E, Poeth K, Ernst M. A preliminary study of
+medial temporal lobe function in youths with a history of caregiver deprivation and emotional
+neglect. Cogn Affect Behav Neurosci. 2010; 10(1):34–49. [PubMed: 20233954]
+234. Tottenham N, Hare TA, Millner A, Gilhooly T, Zevin J, Casey BJ. Elevated amygdala response
+to faces following early deprivation. Developmental Science. 2011; 14(2):190–204. [PubMed:
+21399712]
+235. Hanson JL, Adluru N, Chung MK, Alexander AL, Davidson RJ, Pollak SD. Early neglect is
+associated with alterations in white matter integrity and cognitive functioning. Child Dev. 2013;
+84(5):1566–1578. [PubMed: 23480812]
+236. Anderson CM, Teicher MH, Polcari A, Renshaw PF. Abnormal T2 relaxation time in the
+cerebellar vermis of adults sexually abused in childhood: potential role of the vermis in stress-
+enhanced risk for drug abuse. Psychoneuroendocrinology. 2002; 27:231–244. [PubMed:
+11750781]
+237. Sheu Y-S, Polcari A, Anderson CM, Teicher MH. Harsh corporal punishment is associated with
+increased T2 relaxation time in dopamine-rich regions. NeuroImage. 2010; 53:412–419.
+[PubMed: 20600981]
+238. Carballedo A, Morris D, Zill P, Fahey C, Reinhold E, Meisenzahl E, Bondy B, Gill M, Möller HJ,
+Frodl T. Brain-derived neurotrophic factor Val66Met polymorphism and early life adversity
+affect hippocampal volume. Am J Med Genet B Neuropsychiatric Genetics. 2013; 162:183–190.De Bellis and A.B. Page 35
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+239. Labonté B, Suderman M, Maussion G, Navaro L, Yerko V, Mahar I, Bureau A, Mechawar N,
+Szyf M, Meaney MJ, et al. Genome-wide epigenetic regulation by early-life trauma. Archives of
+General Psychiatry. 2012; 69(7):722–731. [PubMed: 22752237]
+240. Devon RS, Orban PC, Gerrow K, Barbieri MA, Schwab C, Cao LP, Helm JR, Bissada N, Cruz-
+Aguado R, Davidson TL, et al. ALS2-deficient mice exhibit disturbances in endosome trafficking
+associated with motor behavioral abnormalities. Proceedings of the National Academy of Science
+USA. 2006; 103(25):9595–9600.
+241. Crozier JC, Wang L, Huettel SA, De Bellis MD. Neural correlates of cognitive and affective
+processing in maltreated youth with posttraumatic stress symptoms: Does gender matter?
+Development and Psychopathology. 2014; 26:491–513.
+242. Pillar G, Malhotra A, Lavie P. Post-traumatic stress disorder and sleep—what a nightmare! Sleep
+Medicine Reviews. 2000; 4(2):183–200. [PubMed: 12531165]
+243. Harvey AG, Jones C, Schmidt DA. Sleep and posttraumatic stress disorder: a review. Clinical
+Psychology Review. 2003; 23:377–407. [PubMed: 12729678]
+244. Noll JG, Trickett PK, Susman EJ, Putnam FW. Sleep Disturbances and Childhood Sexual Abuse.
+Journal of Pediatric Psychology. 2006; 31(5):469–480. [PubMed: 15958722]
+245. Xie L, Kang H, Xu Q, Chen MJ, Liao Y, Thiyagarajan M, O'Donnell J, Christensen DJ,
+Nicholson C, Iliff JJ, et al. Sleep Drives Metabolite Clearance from the Adult Brain. Science.
+2013; 342:373–377. [PubMed: 24136970]
+246. Porto PR, Oliveira L, Mari J, Volchan E, Figueira I, Ventura P. Change the Brain? A Systematic
+Review of Neuroimaging in Anxiety Disorders. The Journal of Neuropsychiatry and Clinical
+Neurosciences. 2009; 21:114–125. [PubMed: 19622682]
+247. McClure EB, Adler A, Monk CS, Cameron J, Smith S, Nelson EE, Leibenluft E, Ernst M, Pine
+DS. fMRI predictors of treatment outcome in pediatric anxiety disorders. Psychopharmacology.
+2007; 191:97–105. [PubMed: 16972100]
+248. DeBellis, MD. Medication Considerations with Maltreated Children. In: Talley, F., editor.
+Handbook for the Treatment of Abused and Neglected Children. Haworth Press Inc; Binghamton
+NY: 2005. p. 423-472.
+249. Donnally, C. Psychopharmacotherapy for Children and Adolescents, in Effective Treatments for
+PTSD: Practice Guidelines from the International Society for Traumatic Stress Studies. Foa, EB.,
+et al., editors. The Guilford Press; New York NY: 2009. p. 568
+250. Pervanidou P. Biology of post-traumatic stress disorder in childhood and adolescence. Journal of
+Neuroendocrinology. 2008; 20(5):632–638. [PubMed: 18363804]
+251. Green JG, McLaughlin KA, Berglund PA, Gruber MJ, Sampson NA, Zaslavsky AM, Kessler RC.
+Childhood adversities and adult psychiatric disorders in the National Comorbidity Survey
+Replication, I: Associations with first onset of DSM-IV disorders. Archives of General
+Psychiatry. 2010; 67:113–123. [PubMed: 20124111]
+252. Mikton, C.; Butchart, A. Child maltreatment prevention: a systematic review of reviews. Vol. 87.
+Bulletin of the World Health Organization; 2009. p. 353-361.
+253. Kitzman H, Olds DL, Henderson CR Jr, Hanks C, Cole R, Tatelbaum R, McConnochie KM,
+Sidora K, Luckey DW, Shaver D, et al. Effect of Prenatal and Infancy Home Visitation by
+Nurses on Pregnancy Outcomes, Childhood Injuries, and Repeated Childbearing: A Randomized
+Controlled Trial. Journal of the American Medical Association. 1997; 278:644–652. [PubMed:
+9272896]
+254. Olds DL, Eckenrode J, Henderson CR Jr, Kitzman H, Powers J, Cole R, Sidora K, Morris P,
+Pettitt LM, Luckey D. Long-term effects of home visitation on maternal life course and child
+abuse and neglect: fifteen-year follow- up of a randomized trial. Journal of the American Medical
+Association. 1997; 278(8):637–643. [PubMed: 9272895]
+255. Olds DL, Kitzman H, Hanks C, Cole R, Anson E, Sidora-Arcoleo K, Luckey DW, Henderson CR
+Jr, Holmberg J, Tutt RA, et al. Effects of Nurse Home Visiting on Maternal and Child
+Functioning: Age-9 Follow-up of a Randomized Trial. Pediatrics. 2007; 120:e832. [PubMed:
+17908740]De Bellis and A.B. Page 36
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+256. Kitzman H, Olds DL, Cole R, Hanks CA, Anson EA, Arcoleo KJ, Luckey DW, Knudtson MD,
+Henderson CR Jr, Holmberg J. Enduring Effects of Prenatal and Infancy Home Visiting by
+Nurses on Children. Archives of Pediatric and Adolescent Medicine. 2010; 164(5):412–418.
+257. Eckenrode J, Campa M, Luckey DW, Henderson CR Jr, Cole R, Kitzman H, Anson EA, Sidora-
+Arcoleo K, Powers J, Olds DL. Long-term Effects of Prenatal and Infancy Nurse Home
+Visitation on the Life Course of Youths 19-Year Follow-up of a Randomized Trial. Archives of
+Pediatric and Adolescent Medicine. 2010; 164(1):9–15.
+258. MacMillan HL, Thomas BH, Jamieson E, Walsh CA, Boyle MH, Shannon HS, Gafni A.
+Effectiveness of home visitation by public-health nurses in prevention of the recurrence of child
+physical abuse and neglect: a randomised controlled trial. Lancet. 2005; 365:1786–1793.
+[PubMed: 15910951]
+259. Taussig HN, Clyman RB, Landsverk J. Children Who Return Home From Foster Care: A 6-Year
+Prospective Study of Behavioral Health Outcomes in Adolescence. Pediatrics. 2001; 108(1):1–7.
+[PubMed: 11433046]
+260. Foster ME, Prinz RJ, Sanders MR, Shapiro CJ. The costs of a public health infrastructure for
+delivering parenting and family support. Child Youth Serv Rev. 2008; 30:493–501.
+261. Cohen, JA.; Mannarino, AP.; Deblinger, E.; Berliner, L. Cognitive-Behavioral Therapy for
+Children and Adolescents, in Effective Treatments for PTSD: Practice Guidelines from the
+International Society for Traumatic Stress Studies. Foa, EB., et al., editors. The Guilford Press;
+New York NY: 2009. p. 223-244.
+262. Curtis NM, Ronan KR, Borduin CM. Multisystemic Treatment: A Meta-Analysis of Outcome
+Studies. Journal of Family Psychology. 2004; 18(3):411–419. [PubMed: 15382965]
+263. Felitti VJ, Anda RF, Nordenberg D, Williamson DF, Spitz AM, Edwards V, Koss MP, Marks JS.
+Relationship of childhood abuse and household dysfunction to many of the leading causes if
+death in adults. American Journal of Preventive Medicine. 1998; 14:245–258. [PubMed:
+9635069]
+264. McGloin JM, Widom CS. Resilience among abused and neglected children grown up.
+Development and Psychopathology. 2001; 13(4):1021–1038. [PubMed: 11771905]De Bellis and A.B. Page 37
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+Key Points
+1.Trauma in childhood is a grave psychosocial, medical, and public policy
+problem that has serious consequences for its victims and for society.
+2.Chronic interpersonal violence in children is common worldwide.
+3.Developmental traumatology, the systemic investigation of the psychiatric and
+psychobiological effects of chronic overwhelming stress on the developing
+child, provides a framework and principles when empirically examining the
+neurobiological effects of pediatric trauma.
+4.Despite the widespread prevalence of childhood trauma, less is known about
+trauma's biological effects in children as compared to adults with child trauma
+histories; and even less is known about how these pediatric mechanisms
+underlie trauma's short-term and long-term medical and mental health
+consequences.De Bellis and A.B. Page 38
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+
+Figure 1.
+Developmental Traumatology Model of the Biological Effects of TraumaDe Bellis and A.B. Page 39
+Child Adolesc Psychiatr Clin N Am . Author manuscript; available in PMC 2015 April 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
